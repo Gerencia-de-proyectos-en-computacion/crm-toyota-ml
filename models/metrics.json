@@ -1,0 +1,39 @@
+{
+  "model_version": "0.2.0",
+  "trained_at": "2026-11-24T21:52:38.596678+00:00",
+  "data_source": "synthetic_calibrated_toyota_lima",
+  "evaluation": "rolling one-week forecast, observed history through prior week",
+  "train_rows": 2420,
+  "test_rows": 620,
+  "test_start": "2026-04-20",
+  "intermittency_adi": {
+    "min": 1.5,
+    "mean": 1.6,
+    "max": 2.14,
+    "parts_meeting_syntetos_boylan_1_32": 20,
+    "total_parts": 20
+  },
+  "best_params": {
+    "rf__max_depth": 18,
+    "rf__min_samples_leaf": 1
+  },
+  "random_forest": {
+    "r2": 0.9682,
+    "wape_pct": 9.76,
+    "mape_positive_pct": 9.07,
+    "rmse": 1.1449,
+    "mae": 0.6651
+  },
+  "baseline_rolling_mean_4": {
+    "r2": -0.084,
+    "wape_pct": 82.26,
+    "mape_positive_pct": 40.68,
+    "rmse": 6.6861,
+    "mae": 5.6069
+  },
+  "targets_met": {
+    "r2": true,
+    "wape": true,
+    "mape_positive": true
+  }
+}

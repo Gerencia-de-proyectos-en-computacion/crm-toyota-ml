@@ -1,0 +1,14 @@
+{
+  "part_id": "REP-001",
+  "vehicle_model": "Toyota Yaris",
+  "part_category": "Filtro de aceite",
+  "avg_mileage": 65000,
+  "vehicles_served": 32,
+  "month": 11,
+  "week_of_year": 48,
+  "lag_1": 8,
+  "lag_2": 10,
+  "lag_4": 7,
+  "rolling_mean_4": 8.5,
+  "rolling_std_4": 1.11803398875
+}

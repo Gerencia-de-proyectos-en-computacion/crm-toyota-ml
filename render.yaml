@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: crm-toyota-ml
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: "7860"
+      - key: ML_INTERNAL_API_KEY
+        value: "crm-toyota-internal-ml-key-2026"

@@ -1,0 +1,3121 @@
+week_date,part_id,vehicle_model,part_category,avg_mileage,vehicles_served,demand
+2023-11-27,REP-001,Toyota Yaris,Filtro de aceite,51740.0,29,19
+2023-12-04,REP-001,Toyota Yaris,Filtro de aceite,53639.5,34,17
+2023-12-11,REP-001,Toyota Yaris,Filtro de aceite,53045.7,30,0
+2023-12-18,REP-001,Toyota Yaris,Filtro de aceite,53487.7,33,23
+2023-12-25,REP-001,Toyota Yaris,Filtro de aceite,53336.0,34,19
+2024-01-01,REP-001,Toyota Yaris,Filtro de aceite,54690.0,37,0
+2024-01-08,REP-001,Toyota Yaris,Filtro de aceite,56020.0,36,29
+2024-01-15,REP-001,Toyota Yaris,Filtro de aceite,55229.6,37,21
+2024-01-22,REP-001,Toyota Yaris,Filtro de aceite,54547.2,37,0
+2024-01-29,REP-001,Toyota Yaris,Filtro de aceite,54853.5,38,29
+2024-02-05,REP-001,Toyota Yaris,Filtro de aceite,54515.3,36,22
+2024-02-12,REP-001,Toyota Yaris,Filtro de aceite,54735.4,38,0
+2024-02-19,REP-001,Toyota Yaris,Filtro de aceite,54722.6,36,30
+2024-02-26,REP-001,Toyota Yaris,Filtro de aceite,55358.8,37,21
+2024-03-04,REP-001,Toyota Yaris,Filtro de aceite,55582.8,34,0
+2024-03-11,REP-001,Toyota Yaris,Filtro de aceite,54997.3,36,22
+2024-03-18,REP-001,Toyota Yaris,Filtro de aceite,54191.6,31,18
+2024-03-25,REP-001,Toyota Yaris,Filtro de aceite,55335.8,31,0
+2024-04-01,REP-001,Toyota Yaris,Filtro de aceite,54239.7,28,17
+2024-04-08,REP-001,Toyota Yaris,Filtro de aceite,54759.3,25,12
+2024-04-15,REP-001,Toyota Yaris,Filtro de aceite,55052.3,26,0
+2024-04-22,REP-001,Toyota Yaris,Filtro de aceite,54992.2,24,14
+2024-04-29,REP-001,Toyota Yaris,Filtro de aceite,54935.0,25,10
+2024-05-06,REP-001,Toyota Yaris,Filtro de aceite,54896.5,27,0
+2024-05-13,REP-001,Toyota Yaris,Filtro de aceite,54727.2,27,14
+2024-05-20,REP-001,Toyota Yaris,Filtro de aceite,55107.6,26,11
+2024-05-27,REP-001,Toyota Yaris,Filtro de aceite,54537.0,22,0
+2024-06-03,REP-001,Toyota Yaris,Filtro de aceite,54003.8,24,14
+2024-06-10,REP-001,Toyota Yaris,Filtro de aceite,55524.3,26,12
+2024-06-17,REP-001,Toyota Yaris,Filtro de aceite,56190.7,25,0
+2024-06-24,REP-001,Toyota Yaris,Filtro de aceite,55517.6,23,16
+2024-07-01,REP-001,Toyota Yaris,Filtro de aceite,56153.8,29,13
+2024-07-08,REP-001,Toyota Yaris,Filtro de aceite,56817.4,34,0
+2024-07-15,REP-001,Toyota Yaris,Filtro de aceite,56184.9,34,27
+2024-07-22,REP-001,Toyota Yaris,Filtro de aceite,55954.5,37,20
+2024-07-29,REP-001,Toyota Yaris,Filtro de aceite,54933.9,33,0
+2024-08-05,REP-001,Toyota Yaris,Filtro de aceite,55323.9,29,21
+2024-08-12,REP-001,Toyota Yaris,Filtro de aceite,55790.4,29,14
+2024-08-19,REP-001,Toyota Yaris,Filtro de aceite,55661.5,28,0
+2024-08-26,REP-001,Toyota Yaris,Filtro de aceite,55143.7,30,18
+2024-09-02,REP-001,Toyota Yaris,Filtro de aceite,54256.0,28,13
+2024-09-09,REP-001,Toyota Yaris,Filtro de aceite,53842.4,26,0
+2024-09-16,REP-001,Toyota Yaris,Filtro de aceite,54314.1,23,13
+2024-09-23,REP-001,Toyota Yaris,Filtro de aceite,54240.8,23,10
+2024-09-30,REP-001,Toyota Yaris,Filtro de aceite,54576.5,25,0
+2024-10-07,REP-001,Toyota Yaris,Filtro de aceite,54519.7,28,16
+2024-10-14,REP-001,Toyota Yaris,Filtro de aceite,54494.0,27,14
+2024-10-21,REP-001,Toyota Yaris,Filtro de aceite,53244.1,24,0
+2024-10-28,REP-001,Toyota Yaris,Filtro de aceite,52711.6,23,16
+2024-11-04,REP-001,Toyota Yaris,Filtro de aceite,52394.8,27,10
+2024-11-11,REP-001,Toyota Yaris,Filtro de aceite,54141.4,27,0
+2024-11-18,REP-001,Toyota Yaris,Filtro de aceite,54945.8,27,17
+2024-11-25,REP-001,Toyota Yaris,Filtro de aceite,54700.5,26,13
+2024-12-02,REP-001,Toyota Yaris,Filtro de aceite,54708.2,29,0
+2024-12-09,REP-001,Toyota Yaris,Filtro de aceite,53464.6,34,22
+2024-12-16,REP-001,Toyota Yaris,Filtro de aceite,54300.4,36,21
+2024-12-23,REP-001,Toyota Yaris,Filtro de aceite,53411.8,34,0
+2024-12-30,REP-001,Toyota Yaris,Filtro de aceite,53570.3,35,26
+2025-01-06,REP-001,Toyota Yaris,Filtro de aceite,54185.4,36,21
+2025-01-13,REP-001,Toyota Yaris,Filtro de aceite,54411.6,39,0
+2025-01-20,REP-001,Toyota Yaris,Filtro de aceite,54958.0,35,30
+2025-01-27,REP-001,Toyota Yaris,Filtro de aceite,56429.8,36,21
+2025-02-03,REP-001,Toyota Yaris,Filtro de aceite,56631.5,37,0
+2025-02-10,REP-001,Toyota Yaris,Filtro de aceite,55391.7,39,29
+2025-02-17,REP-001,Toyota Yaris,Filtro de aceite,54697.9,36,23
+2025-02-24,REP-001,Toyota Yaris,Filtro de aceite,53772.4,35,0
+2025-03-03,REP-001,Toyota Yaris,Filtro de aceite,53805.3,33,22
+2025-03-10,REP-001,Toyota Yaris,Filtro de aceite,53116.0,28,16
+2025-03-17,REP-001,Toyota Yaris,Filtro de aceite,54267.3,29,0
+2025-03-24,REP-001,Toyota Yaris,Filtro de aceite,56999.0,33,18
+2025-03-31,REP-001,Toyota Yaris,Filtro de aceite,55534.7,32,16
+2025-04-07,REP-001,Toyota Yaris,Filtro de aceite,55386.0,24,0
+2025-04-14,REP-001,Toyota Yaris,Filtro de aceite,54659.7,23,13
+2025-04-21,REP-001,Toyota Yaris,Filtro de aceite,54362.1,22,10
+2025-04-28,REP-001,Toyota Yaris,Filtro de aceite,54406.9,26,0
+2025-05-05,REP-001,Toyota Yaris,Filtro de aceite,53367.1,25,14
+2025-05-12,REP-001,Toyota Yaris,Filtro de aceite,53081.6,21,10
+2025-05-19,REP-001,Toyota Yaris,Filtro de aceite,54896.3,23,0
+2025-05-26,REP-001,Toyota Yaris,Filtro de aceite,55550.7,24,12
+2025-06-02,REP-001,Toyota Yaris,Filtro de aceite,54272.6,25,12
+2025-06-09,REP-001,Toyota Yaris,Filtro de aceite,53727.7,25,0
+2025-06-16,REP-001,Toyota Yaris,Filtro de aceite,53232.5,31,15
+2025-06-23,REP-001,Toyota Yaris,Filtro de aceite,52787.7,32,15
+2025-06-30,REP-001,Toyota Yaris,Filtro de aceite,53613.2,32,0
+2025-07-07,REP-001,Toyota Yaris,Filtro de aceite,54161.2,33,25
+2025-07-14,REP-001,Toyota Yaris,Filtro de aceite,55010.4,33,20
+2025-07-21,REP-001,Toyota Yaris,Filtro de aceite,54142.8,33,0
+2025-07-28,REP-001,Toyota Yaris,Filtro de aceite,54750.4,31,26
+2025-08-04,REP-001,Toyota Yaris,Filtro de aceite,54882.8,33,15
+2025-08-11,REP-001,Toyota Yaris,Filtro de aceite,55095.3,31,0
+2025-08-18,REP-001,Toyota Yaris,Filtro de aceite,55194.9,33,20
+2025-08-25,REP-001,Toyota Yaris,Filtro de aceite,56067.8,30,16
+2025-09-01,REP-001,Toyota Yaris,Filtro de aceite,56927.0,28,0
+2025-09-08,REP-001,Toyota Yaris,Filtro de aceite,55087.2,27,15
+2025-09-15,REP-001,Toyota Yaris,Filtro de aceite,56295.2,23,12
+2025-09-22,REP-001,Toyota Yaris,Filtro de aceite,55553.8,28,0
+2025-09-29,REP-001,Toyota Yaris,Filtro de aceite,56474.6,25,15
+2025-10-06,REP-001,Toyota Yaris,Filtro de aceite,55226.7,24,11
+2025-10-13,REP-001,Toyota Yaris,Filtro de aceite,54740.9,28,0
+2025-10-20,REP-001,Toyota Yaris,Filtro de aceite,54584.6,28,18
+2025-10-27,REP-001,Toyota Yaris,Filtro de aceite,55881.2,29,13
+2025-11-03,REP-001,Toyota Yaris,Filtro de aceite,56166.4,29,0
+2025-11-10,REP-001,Toyota Yaris,Filtro de aceite,55757.0,24,18
+2025-11-17,REP-001,Toyota Yaris,Filtro de aceite,54396.8,24,12
+2025-11-24,REP-001,Toyota Yaris,Filtro de aceite,54172.9,24,0
+2025-12-01,REP-001,Toyota Yaris,Filtro de aceite,53423.9,32,18
+2025-12-08,REP-001,Toyota Yaris,Filtro de aceite,53620.2,34,19
+2025-12-15,REP-001,Toyota Yaris,Filtro de aceite,55105.6,34,0
+2025-12-22,REP-001,Toyota Yaris,Filtro de aceite,56520.9,36,26
+2025-12-29,REP-001,Toyota Yaris,Filtro de aceite,55752.3,35,21
+2026-01-05,REP-001,Toyota Yaris,Filtro de aceite,56020.5,35,0
+2026-01-12,REP-001,Toyota Yaris,Filtro de aceite,55027.4,36,27
+2026-01-19,REP-001,Toyota Yaris,Filtro de aceite,55464.0,36,22
+2026-01-26,REP-001,Toyota Yaris,Filtro de aceite,57275.2,41,0
+2026-02-02,REP-001,Toyota Yaris,Filtro de aceite,56685.8,36,32
+2026-02-09,REP-001,Toyota Yaris,Filtro de aceite,55970.7,32,21
+2026-02-16,REP-001,Toyota Yaris,Filtro de aceite,57051.3,34,0
+2026-02-23,REP-001,Toyota Yaris,Filtro de aceite,56187.7,33,26
+2026-03-02,REP-001,Toyota Yaris,Filtro de aceite,55670.4,26,16
+2026-03-09,REP-001,Toyota Yaris,Filtro de aceite,54952.3,25,0
+2026-03-16,REP-001,Toyota Yaris,Filtro de aceite,54805.4,25,16
+2026-03-23,REP-001,Toyota Yaris,Filtro de aceite,53459.7,23,12
+2026-03-30,REP-001,Toyota Yaris,Filtro de aceite,52612.1,30,0
+2026-04-06,REP-001,Toyota Yaris,Filtro de aceite,54606.3,25,16
+2026-04-13,REP-001,Toyota Yaris,Filtro de aceite,53394.3,31,10
+2026-04-20,REP-001,Toyota Yaris,Filtro de aceite,53847.1,27,0
+2026-04-27,REP-001,Toyota Yaris,Filtro de aceite,52991.2,30,15
+2026-05-04,REP-001,Toyota Yaris,Filtro de aceite,53937.0,27,12
+2026-05-11,REP-001,Toyota Yaris,Filtro de aceite,53608.2,27,0
+2026-05-18,REP-001,Toyota Yaris,Filtro de aceite,52462.7,26,15
+2026-05-25,REP-001,Toyota Yaris,Filtro de aceite,52601.3,25,11
+2026-06-01,REP-001,Toyota Yaris,Filtro de aceite,52627.2,27,0
+2026-06-08,REP-001,Toyota Yaris,Filtro de aceite,54057.8,29,17
+2026-06-15,REP-001,Toyota Yaris,Filtro de aceite,54535.9,29,14
+2026-06-22,REP-001,Toyota Yaris,Filtro de aceite,54578.0,29,0
+2026-06-29,REP-001,Toyota Yaris,Filtro de aceite,54894.3,27,18
+2026-07-06,REP-001,Toyota Yaris,Filtro de aceite,57042.6,31,16
+2026-07-13,REP-001,Toyota Yaris,Filtro de aceite,57117.2,37,0
+2026-07-20,REP-001,Toyota Yaris,Filtro de aceite,55824.7,34,29
+2026-07-27,REP-001,Toyota Yaris,Filtro de aceite,56093.0,37,20
+2026-08-03,REP-001,Toyota Yaris,Filtro de aceite,54175.6,34,0
+2026-08-10,REP-001,Toyota Yaris,Filtro de aceite,54716.7,33,21
+2026-08-17,REP-001,Toyota Yaris,Filtro de aceite,54289.2,28,16
+2026-08-24,REP-001,Toyota Yaris,Filtro de aceite,54440.1,29,0
+2026-08-31,REP-001,Toyota Yaris,Filtro de aceite,54412.9,28,18
+2026-09-07,REP-001,Toyota Yaris,Filtro de aceite,54441.0,26,11
+2026-09-14,REP-001,Toyota Yaris,Filtro de aceite,52014.8,29,0
+2026-09-21,REP-001,Toyota Yaris,Filtro de aceite,52664.0,26,15
+2026-09-28,REP-001,Toyota Yaris,Filtro de aceite,52657.3,26,10
+2026-10-05,REP-001,Toyota Yaris,Filtro de aceite,53464.2,23,0
+2026-10-12,REP-001,Toyota Yaris,Filtro de aceite,52393.7,30,14
+2026-10-19,REP-001,Toyota Yaris,Filtro de aceite,52675.6,31,15
+2026-10-26,REP-001,Toyota Yaris,Filtro de aceite,52235.1,30,0
+2026-11-02,REP-001,Toyota Yaris,Filtro de aceite,54022.4,29,19
+2026-11-09,REP-001,Toyota Yaris,Filtro de aceite,55751.9,30,14
+2026-11-16,REP-001,Toyota Yaris,Filtro de aceite,55885.1,32,0
+2023-11-27,REP-002,Toyota Yaris,Pastillas de freno,51740.0,29,12
+2023-12-04,REP-002,Toyota Yaris,Pastillas de freno,53639.5,34,12
+2023-12-11,REP-002,Toyota Yaris,Pastillas de freno,53045.7,30,0
+2023-12-18,REP-002,Toyota Yaris,Pastillas de freno,53487.7,33,15
+2023-12-25,REP-002,Toyota Yaris,Pastillas de freno,53336.0,34,13
+2024-01-01,REP-002,Toyota Yaris,Pastillas de freno,54690.0,37,0
+2024-01-08,REP-002,Toyota Yaris,Pastillas de freno,56020.0,36,19
+2024-01-15,REP-002,Toyota Yaris,Pastillas de freno,55229.6,37,14
+2024-01-22,REP-002,Toyota Yaris,Pastillas de freno,54547.2,37,0
+2024-01-29,REP-002,Toyota Yaris,Pastillas de freno,54853.5,38,19
+2024-02-05,REP-002,Toyota Yaris,Pastillas de freno,54515.3,36,14
+2024-02-12,REP-002,Toyota Yaris,Pastillas de freno,54735.4,38,0
+2024-02-19,REP-002,Toyota Yaris,Pastillas de freno,54722.6,36,19
+2024-02-26,REP-002,Toyota Yaris,Pastillas de freno,55358.8,37,14
+2024-03-04,REP-002,Toyota Yaris,Pastillas de freno,55582.8,34,0
+2024-03-11,REP-002,Toyota Yaris,Pastillas de freno,54997.3,36,14
+2024-03-18,REP-002,Toyota Yaris,Pastillas de freno,54191.6,31,12
+2024-03-25,REP-002,Toyota Yaris,Pastillas de freno,55335.8,31,0
+2024-04-01,REP-002,Toyota Yaris,Pastillas de freno,54239.7,28,11
+2024-04-08,REP-002,Toyota Yaris,Pastillas de freno,54759.3,25,8
+2024-04-15,REP-002,Toyota Yaris,Pastillas de freno,55052.3,26,0
+2024-04-22,REP-002,Toyota Yaris,Pastillas de freno,54992.2,24,9
+2024-04-29,REP-002,Toyota Yaris,Pastillas de freno,54935.0,25,7
+2024-05-06,REP-002,Toyota Yaris,Pastillas de freno,54896.5,27,0
+2024-05-13,REP-002,Toyota Yaris,Pastillas de freno,54727.2,27,9
+2024-05-20,REP-002,Toyota Yaris,Pastillas de freno,55107.6,26,7
+2024-05-27,REP-002,Toyota Yaris,Pastillas de freno,54537.0,22,0
+2024-06-03,REP-002,Toyota Yaris,Pastillas de freno,54003.8,24,9
+2024-06-10,REP-002,Toyota Yaris,Pastillas de freno,55524.3,26,7
+2024-06-17,REP-002,Toyota Yaris,Pastillas de freno,56190.7,25,0
+2024-06-24,REP-002,Toyota Yaris,Pastillas de freno,55517.6,23,10
+2024-07-01,REP-002,Toyota Yaris,Pastillas de freno,56153.8,29,9
+2024-07-08,REP-002,Toyota Yaris,Pastillas de freno,56817.4,34,0
+2024-07-15,REP-002,Toyota Yaris,Pastillas de freno,56184.9,34,17
+2024-07-22,REP-002,Toyota Yaris,Pastillas de freno,55954.5,37,13
+2024-07-29,REP-002,Toyota Yaris,Pastillas de freno,54933.9,33,0
+2024-08-05,REP-002,Toyota Yaris,Pastillas de freno,55323.9,29,13
+2024-08-12,REP-002,Toyota Yaris,Pastillas de freno,55790.4,29,9
+2024-08-19,REP-002,Toyota Yaris,Pastillas de freno,55661.5,28,0
+2024-08-26,REP-002,Toyota Yaris,Pastillas de freno,55143.7,30,12
+2024-09-02,REP-002,Toyota Yaris,Pastillas de freno,54256.0,28,9
+2024-09-09,REP-002,Toyota Yaris,Pastillas de freno,53842.4,26,0
+2024-09-16,REP-002,Toyota Yaris,Pastillas de freno,54314.1,23,9
+2024-09-23,REP-002,Toyota Yaris,Pastillas de freno,54240.8,23,6
+2024-09-30,REP-002,Toyota Yaris,Pastillas de freno,54576.5,25,0
+2024-10-07,REP-002,Toyota Yaris,Pastillas de freno,54519.7,28,11
+2024-10-14,REP-002,Toyota Yaris,Pastillas de freno,54494.0,27,9
+2024-10-21,REP-002,Toyota Yaris,Pastillas de freno,53244.1,24,0
+2024-10-28,REP-002,Toyota Yaris,Pastillas de freno,52711.6,23,10
+2024-11-04,REP-002,Toyota Yaris,Pastillas de freno,52394.8,27,7
+2024-11-11,REP-002,Toyota Yaris,Pastillas de freno,54141.4,27,0
+2024-11-18,REP-002,Toyota Yaris,Pastillas de freno,54945.8,27,11
+2024-11-25,REP-002,Toyota Yaris,Pastillas de freno,54700.5,26,9
+2024-12-02,REP-002,Toyota Yaris,Pastillas de freno,54708.2,29,0
+2024-12-09,REP-002,Toyota Yaris,Pastillas de freno,53464.6,34,15
+2024-12-16,REP-002,Toyota Yaris,Pastillas de freno,54300.4,36,14
+2024-12-23,REP-002,Toyota Yaris,Pastillas de freno,53411.8,34,0
+2024-12-30,REP-002,Toyota Yaris,Pastillas de freno,53570.3,35,17
+2025-01-06,REP-002,Toyota Yaris,Pastillas de freno,54185.4,36,14
+2025-01-13,REP-002,Toyota Yaris,Pastillas de freno,54411.6,39,0
+2025-01-20,REP-002,Toyota Yaris,Pastillas de freno,54958.0,35,20
+2025-01-27,REP-002,Toyota Yaris,Pastillas de freno,56429.8,36,13
+2025-02-03,REP-002,Toyota Yaris,Pastillas de freno,56631.5,37,0
+2025-02-10,REP-002,Toyota Yaris,Pastillas de freno,55391.7,39,19
+2025-02-17,REP-002,Toyota Yaris,Pastillas de freno,54697.9,36,15
+2025-02-24,REP-002,Toyota Yaris,Pastillas de freno,53772.4,35,0
+2025-03-03,REP-002,Toyota Yaris,Pastillas de freno,53805.3,33,14
+2025-03-10,REP-002,Toyota Yaris,Pastillas de freno,53116.0,28,10
+2025-03-17,REP-002,Toyota Yaris,Pastillas de freno,54267.3,29,0
+2025-03-24,REP-002,Toyota Yaris,Pastillas de freno,56999.0,33,11
+2025-03-31,REP-002,Toyota Yaris,Pastillas de freno,55534.7,32,10
+2025-04-07,REP-002,Toyota Yaris,Pastillas de freno,55386.0,24,0
+2025-04-14,REP-002,Toyota Yaris,Pastillas de freno,54659.7,23,8
+2025-04-21,REP-002,Toyota Yaris,Pastillas de freno,54362.1,22,6
+2025-04-28,REP-002,Toyota Yaris,Pastillas de freno,54406.9,26,0
+2025-05-05,REP-002,Toyota Yaris,Pastillas de freno,53367.1,25,9
+2025-05-12,REP-002,Toyota Yaris,Pastillas de freno,53081.6,21,7
+2025-05-19,REP-002,Toyota Yaris,Pastillas de freno,54896.3,23,0
+2025-05-26,REP-002,Toyota Yaris,Pastillas de freno,55550.7,24,8
+2025-06-02,REP-002,Toyota Yaris,Pastillas de freno,54272.6,25,7
+2025-06-09,REP-002,Toyota Yaris,Pastillas de freno,53727.7,25,0
+2025-06-16,REP-002,Toyota Yaris,Pastillas de freno,53232.5,31,10
+2025-06-23,REP-002,Toyota Yaris,Pastillas de freno,52787.7,32,10
+2025-06-30,REP-002,Toyota Yaris,Pastillas de freno,53613.2,32,0
+2025-07-07,REP-002,Toyota Yaris,Pastillas de freno,54161.2,33,16
+2025-07-14,REP-002,Toyota Yaris,Pastillas de freno,55010.4,33,13
+2025-07-21,REP-002,Toyota Yaris,Pastillas de freno,54142.8,33,0
+2025-07-28,REP-002,Toyota Yaris,Pastillas de freno,54750.4,31,17
+2025-08-04,REP-002,Toyota Yaris,Pastillas de freno,54882.8,33,10
+2025-08-11,REP-002,Toyota Yaris,Pastillas de freno,55095.3,31,0
+2025-08-18,REP-002,Toyota Yaris,Pastillas de freno,55194.9,33,13
+2025-08-25,REP-002,Toyota Yaris,Pastillas de freno,56067.8,30,10
+2025-09-01,REP-002,Toyota Yaris,Pastillas de freno,56927.0,28,0
+2025-09-08,REP-002,Toyota Yaris,Pastillas de freno,55087.2,27,10
+2025-09-15,REP-002,Toyota Yaris,Pastillas de freno,56295.2,23,8
+2025-09-22,REP-002,Toyota Yaris,Pastillas de freno,55553.8,28,0
+2025-09-29,REP-002,Toyota Yaris,Pastillas de freno,56474.6,25,10
+2025-10-06,REP-002,Toyota Yaris,Pastillas de freno,55226.7,24,8
+2025-10-13,REP-002,Toyota Yaris,Pastillas de freno,54740.9,28,0
+2025-10-20,REP-002,Toyota Yaris,Pastillas de freno,54584.6,28,11
+2025-10-27,REP-002,Toyota Yaris,Pastillas de freno,55881.2,29,9
+2025-11-03,REP-002,Toyota Yaris,Pastillas de freno,56166.4,29,0
+2025-11-10,REP-002,Toyota Yaris,Pastillas de freno,55757.0,24,12
+2025-11-17,REP-002,Toyota Yaris,Pastillas de freno,54396.8,24,7
+2025-11-24,REP-002,Toyota Yaris,Pastillas de freno,54172.9,24,0
+2025-12-01,REP-002,Toyota Yaris,Pastillas de freno,53423.9,32,12
+2025-12-08,REP-002,Toyota Yaris,Pastillas de freno,53620.2,34,12
+2025-12-15,REP-002,Toyota Yaris,Pastillas de freno,55105.6,34,0
+2025-12-22,REP-002,Toyota Yaris,Pastillas de freno,56520.9,36,17
+2025-12-29,REP-002,Toyota Yaris,Pastillas de freno,55752.3,35,14
+2026-01-05,REP-002,Toyota Yaris,Pastillas de freno,56020.5,35,0
+2026-01-12,REP-002,Toyota Yaris,Pastillas de freno,55027.4,36,18
+2026-01-19,REP-002,Toyota Yaris,Pastillas de freno,55464.0,36,14
+2026-01-26,REP-002,Toyota Yaris,Pastillas de freno,57275.2,41,0
+2026-02-02,REP-002,Toyota Yaris,Pastillas de freno,56685.8,36,21
+2026-02-09,REP-002,Toyota Yaris,Pastillas de freno,55970.7,32,14
+2026-02-16,REP-002,Toyota Yaris,Pastillas de freno,57051.3,34,0
+2026-02-23,REP-002,Toyota Yaris,Pastillas de freno,56187.7,33,17
+2026-03-02,REP-002,Toyota Yaris,Pastillas de freno,55670.4,26,11
+2026-03-09,REP-002,Toyota Yaris,Pastillas de freno,54952.3,25,0
+2026-03-16,REP-002,Toyota Yaris,Pastillas de freno,54805.4,25,10
+2026-03-23,REP-002,Toyota Yaris,Pastillas de freno,53459.7,23,8
+2026-03-30,REP-002,Toyota Yaris,Pastillas de freno,52612.1,30,0
+2026-04-06,REP-002,Toyota Yaris,Pastillas de freno,54606.3,25,10
+2026-04-13,REP-002,Toyota Yaris,Pastillas de freno,53394.3,31,6
+2026-04-20,REP-002,Toyota Yaris,Pastillas de freno,53847.1,27,0
+2026-04-27,REP-002,Toyota Yaris,Pastillas de freno,52991.2,30,10
+2026-05-04,REP-002,Toyota Yaris,Pastillas de freno,53937.0,27,8
+2026-05-11,REP-002,Toyota Yaris,Pastillas de freno,53608.2,27,0
+2026-05-18,REP-002,Toyota Yaris,Pastillas de freno,52462.7,26,9
+2026-05-25,REP-002,Toyota Yaris,Pastillas de freno,52601.3,25,7
+2026-06-01,REP-002,Toyota Yaris,Pastillas de freno,52627.2,27,0
+2026-06-08,REP-002,Toyota Yaris,Pastillas de freno,54057.8,29,10
+2026-06-15,REP-002,Toyota Yaris,Pastillas de freno,54535.9,29,9
+2026-06-22,REP-002,Toyota Yaris,Pastillas de freno,54578.0,29,0
+2026-06-29,REP-002,Toyota Yaris,Pastillas de freno,54894.3,27,13
+2026-07-06,REP-002,Toyota Yaris,Pastillas de freno,57042.6,31,11
+2026-07-13,REP-002,Toyota Yaris,Pastillas de freno,57117.2,37,0
+2026-07-20,REP-002,Toyota Yaris,Pastillas de freno,55824.7,34,19
+2026-07-27,REP-002,Toyota Yaris,Pastillas de freno,56093.0,37,13
+2026-08-03,REP-002,Toyota Yaris,Pastillas de freno,54175.6,34,0
+2026-08-10,REP-002,Toyota Yaris,Pastillas de freno,54716.7,33,13
+2026-08-17,REP-002,Toyota Yaris,Pastillas de freno,54289.2,28,10
+2026-08-24,REP-002,Toyota Yaris,Pastillas de freno,54440.1,29,0
+2026-08-31,REP-002,Toyota Yaris,Pastillas de freno,54412.9,28,12
+2026-09-07,REP-002,Toyota Yaris,Pastillas de freno,54441.0,26,8
+2026-09-14,REP-002,Toyota Yaris,Pastillas de freno,52014.8,29,0
+2026-09-21,REP-002,Toyota Yaris,Pastillas de freno,52664.0,26,10
+2026-09-28,REP-002,Toyota Yaris,Pastillas de freno,52657.3,26,7
+2026-10-05,REP-002,Toyota Yaris,Pastillas de freno,53464.2,23,0
+2026-10-12,REP-002,Toyota Yaris,Pastillas de freno,52393.7,30,10
+2026-10-19,REP-002,Toyota Yaris,Pastillas de freno,52675.6,31,9
+2026-10-26,REP-002,Toyota Yaris,Pastillas de freno,52235.1,30,0
+2026-11-02,REP-002,Toyota Yaris,Pastillas de freno,54022.4,29,12
+2026-11-09,REP-002,Toyota Yaris,Pastillas de freno,55751.9,30,10
+2026-11-16,REP-002,Toyota Yaris,Pastillas de freno,55885.1,32,0
+2023-11-27,REP-003,Toyota Yaris,Bujias,51740.0,29,13
+2023-12-04,REP-003,Toyota Yaris,Bujias,53639.5,34,13
+2023-12-11,REP-003,Toyota Yaris,Bujias,53045.7,30,0
+2023-12-18,REP-003,Toyota Yaris,Bujias,53487.7,33,18
+2023-12-25,REP-003,Toyota Yaris,Bujias,53336.0,34,15
+2024-01-01,REP-003,Toyota Yaris,Bujias,54690.0,37,0
+2024-01-08,REP-003,Toyota Yaris,Bujias,56020.0,36,22
+2024-01-15,REP-003,Toyota Yaris,Bujias,55229.6,37,16
+2024-01-22,REP-003,Toyota Yaris,Bujias,54547.2,37,0
+2024-01-29,REP-003,Toyota Yaris,Bujias,54853.5,38,22
+2024-02-05,REP-003,Toyota Yaris,Bujias,54515.3,36,17
+2024-02-12,REP-003,Toyota Yaris,Bujias,54735.4,38,0
+2024-02-19,REP-003,Toyota Yaris,Bujias,54722.6,36,22
+2024-02-26,REP-003,Toyota Yaris,Bujias,55358.8,37,17
+2024-03-04,REP-003,Toyota Yaris,Bujias,55582.8,34,0
+2024-03-11,REP-003,Toyota Yaris,Bujias,54997.3,36,16
+2024-03-18,REP-003,Toyota Yaris,Bujias,54191.6,31,13
+2024-03-25,REP-003,Toyota Yaris,Bujias,55335.8,31,0
+2024-04-01,REP-003,Toyota Yaris,Bujias,54239.7,28,13
+2024-04-08,REP-003,Toyota Yaris,Bujias,54759.3,25,9
+2024-04-15,REP-003,Toyota Yaris,Bujias,55052.3,26,0
+2024-04-22,REP-003,Toyota Yaris,Bujias,54992.2,24,10
+2024-04-29,REP-003,Toyota Yaris,Bujias,54935.0,25,8
+2024-05-06,REP-003,Toyota Yaris,Bujias,54896.5,27,0
+2024-05-13,REP-003,Toyota Yaris,Bujias,54727.2,27,11
+2024-05-20,REP-003,Toyota Yaris,Bujias,55107.6,26,9
+2024-05-27,REP-003,Toyota Yaris,Bujias,54537.0,22,0
+2024-06-03,REP-003,Toyota Yaris,Bujias,54003.8,24,10
+2024-06-10,REP-003,Toyota Yaris,Bujias,55524.3,26,8
+2024-06-17,REP-003,Toyota Yaris,Bujias,56190.7,25,0
+2024-06-24,REP-003,Toyota Yaris,Bujias,55517.6,23,11
+2024-07-01,REP-003,Toyota Yaris,Bujias,56153.8,29,10
+2024-07-08,REP-003,Toyota Yaris,Bujias,56817.4,34,0
+2024-07-15,REP-003,Toyota Yaris,Bujias,56184.9,34,20
+2024-07-22,REP-003,Toyota Yaris,Bujias,55954.5,37,15
+2024-07-29,REP-003,Toyota Yaris,Bujias,54933.9,33,0
+2024-08-05,REP-003,Toyota Yaris,Bujias,55323.9,29,16
+2024-08-12,REP-003,Toyota Yaris,Bujias,55790.4,29,10
+2024-08-19,REP-003,Toyota Yaris,Bujias,55661.5,28,0
+2024-08-26,REP-003,Toyota Yaris,Bujias,55143.7,30,13
+2024-09-02,REP-003,Toyota Yaris,Bujias,54256.0,28,9
+2024-09-09,REP-003,Toyota Yaris,Bujias,53842.4,26,0
+2024-09-16,REP-003,Toyota Yaris,Bujias,54314.1,23,11
+2024-09-23,REP-003,Toyota Yaris,Bujias,54240.8,23,7
+2024-09-30,REP-003,Toyota Yaris,Bujias,54576.5,25,0
+2024-10-07,REP-003,Toyota Yaris,Bujias,54519.7,28,12
+2024-10-14,REP-003,Toyota Yaris,Bujias,54494.0,27,10
+2024-10-21,REP-003,Toyota Yaris,Bujias,53244.1,24,0
+2024-10-28,REP-003,Toyota Yaris,Bujias,52711.6,23,11
+2024-11-04,REP-003,Toyota Yaris,Bujias,52394.8,27,9
+2024-11-11,REP-003,Toyota Yaris,Bujias,54141.4,27,0
+2024-11-18,REP-003,Toyota Yaris,Bujias,54945.8,27,13
+2024-11-25,REP-003,Toyota Yaris,Bujias,54700.5,26,10
+2024-12-02,REP-003,Toyota Yaris,Bujias,54708.2,29,0
+2024-12-09,REP-003,Toyota Yaris,Bujias,53464.6,34,17
+2024-12-16,REP-003,Toyota Yaris,Bujias,54300.4,36,15
+2024-12-23,REP-003,Toyota Yaris,Bujias,53411.8,34,0
+2024-12-30,REP-003,Toyota Yaris,Bujias,53570.3,35,19
+2025-01-06,REP-003,Toyota Yaris,Bujias,54185.4,36,15
+2025-01-13,REP-003,Toyota Yaris,Bujias,54411.6,39,0
+2025-01-20,REP-003,Toyota Yaris,Bujias,54958.0,35,23
+2025-01-27,REP-003,Toyota Yaris,Bujias,56429.8,36,16
+2025-02-03,REP-003,Toyota Yaris,Bujias,56631.5,37,0
+2025-02-10,REP-003,Toyota Yaris,Bujias,55391.7,39,22
+2025-02-17,REP-003,Toyota Yaris,Bujias,54697.9,36,17
+2025-02-24,REP-003,Toyota Yaris,Bujias,53772.4,35,0
+2025-03-03,REP-003,Toyota Yaris,Bujias,53805.3,33,17
+2025-03-10,REP-003,Toyota Yaris,Bujias,53116.0,28,12
+2025-03-17,REP-003,Toyota Yaris,Bujias,54267.3,29,0
+2025-03-24,REP-003,Toyota Yaris,Bujias,56999.0,33,14
+2025-03-31,REP-003,Toyota Yaris,Bujias,55534.7,32,12
+2025-04-07,REP-003,Toyota Yaris,Bujias,55386.0,24,0
+2025-04-14,REP-003,Toyota Yaris,Bujias,54659.7,23,10
+2025-04-21,REP-003,Toyota Yaris,Bujias,54362.1,22,7
+2025-04-28,REP-003,Toyota Yaris,Bujias,54406.9,26,0
+2025-05-05,REP-003,Toyota Yaris,Bujias,53367.1,25,10
+2025-05-12,REP-003,Toyota Yaris,Bujias,53081.6,21,8
+2025-05-19,REP-003,Toyota Yaris,Bujias,54896.3,23,0
+2025-05-26,REP-003,Toyota Yaris,Bujias,55550.7,24,9
+2025-06-02,REP-003,Toyota Yaris,Bujias,54272.6,25,8
+2025-06-09,REP-003,Toyota Yaris,Bujias,53727.7,25,0
+2025-06-16,REP-003,Toyota Yaris,Bujias,53232.5,31,12
+2025-06-23,REP-003,Toyota Yaris,Bujias,52787.7,32,11
+2025-06-30,REP-003,Toyota Yaris,Bujias,53613.2,32,0
+2025-07-07,REP-003,Toyota Yaris,Bujias,54161.2,33,19
+2025-07-14,REP-003,Toyota Yaris,Bujias,55010.4,33,15
+2025-07-21,REP-003,Toyota Yaris,Bujias,54142.8,33,0
+2025-07-28,REP-003,Toyota Yaris,Bujias,54750.4,31,19
+2025-08-04,REP-003,Toyota Yaris,Bujias,54882.8,33,11
+2025-08-11,REP-003,Toyota Yaris,Bujias,55095.3,31,0
+2025-08-18,REP-003,Toyota Yaris,Bujias,55194.9,33,14
+2025-08-25,REP-003,Toyota Yaris,Bujias,56067.8,30,12
+2025-09-01,REP-003,Toyota Yaris,Bujias,56927.0,28,0
+2025-09-08,REP-003,Toyota Yaris,Bujias,55087.2,27,11
+2025-09-15,REP-003,Toyota Yaris,Bujias,56295.2,23,8
+2025-09-22,REP-003,Toyota Yaris,Bujias,55553.8,28,0
+2025-09-29,REP-003,Toyota Yaris,Bujias,56474.6,25,12
+2025-10-06,REP-003,Toyota Yaris,Bujias,55226.7,24,10
+2025-10-13,REP-003,Toyota Yaris,Bujias,54740.9,28,0
+2025-10-20,REP-003,Toyota Yaris,Bujias,54584.6,28,13
+2025-10-27,REP-003,Toyota Yaris,Bujias,55881.2,29,10
+2025-11-03,REP-003,Toyota Yaris,Bujias,56166.4,29,0
+2025-11-10,REP-003,Toyota Yaris,Bujias,55757.0,24,14
+2025-11-17,REP-003,Toyota Yaris,Bujias,54396.8,24,9
+2025-11-24,REP-003,Toyota Yaris,Bujias,54172.9,24,0
+2025-12-01,REP-003,Toyota Yaris,Bujias,53423.9,32,14
+2025-12-08,REP-003,Toyota Yaris,Bujias,53620.2,34,14
+2025-12-15,REP-003,Toyota Yaris,Bujias,55105.6,34,0
+2025-12-22,REP-003,Toyota Yaris,Bujias,56520.9,36,20
+2025-12-29,REP-003,Toyota Yaris,Bujias,55752.3,35,16
+2026-01-05,REP-003,Toyota Yaris,Bujias,56020.5,35,0
+2026-01-12,REP-003,Toyota Yaris,Bujias,55027.4,36,20
+2026-01-19,REP-003,Toyota Yaris,Bujias,55464.0,36,16
+2026-01-26,REP-003,Toyota Yaris,Bujias,57275.2,41,0
+2026-02-02,REP-003,Toyota Yaris,Bujias,56685.8,36,24
+2026-02-09,REP-003,Toyota Yaris,Bujias,55970.7,32,16
+2026-02-16,REP-003,Toyota Yaris,Bujias,57051.3,34,0
+2026-02-23,REP-003,Toyota Yaris,Bujias,56187.7,33,20
+2026-03-02,REP-003,Toyota Yaris,Bujias,55670.4,26,11
+2026-03-09,REP-003,Toyota Yaris,Bujias,54952.3,25,0
+2026-03-16,REP-003,Toyota Yaris,Bujias,54805.4,25,12
+2026-03-23,REP-003,Toyota Yaris,Bujias,53459.7,23,9
+2026-03-30,REP-003,Toyota Yaris,Bujias,52612.1,30,0
+2026-04-06,REP-003,Toyota Yaris,Bujias,54606.3,25,13
+2026-04-13,REP-003,Toyota Yaris,Bujias,53394.3,31,8
+2026-04-20,REP-003,Toyota Yaris,Bujias,53847.1,27,0
+2026-04-27,REP-003,Toyota Yaris,Bujias,52991.2,30,11
+2026-05-04,REP-003,Toyota Yaris,Bujias,53937.0,27,9
+2026-05-11,REP-003,Toyota Yaris,Bujias,53608.2,27,0
+2026-05-18,REP-003,Toyota Yaris,Bujias,52462.7,26,11
+2026-05-25,REP-003,Toyota Yaris,Bujias,52601.3,25,8
+2026-06-01,REP-003,Toyota Yaris,Bujias,52627.2,27,0
+2026-06-08,REP-003,Toyota Yaris,Bujias,54057.8,29,12
+2026-06-15,REP-003,Toyota Yaris,Bujias,54535.9,29,11
+2026-06-22,REP-003,Toyota Yaris,Bujias,54578.0,29,0
+2026-06-29,REP-003,Toyota Yaris,Bujias,54894.3,27,13
+2026-07-06,REP-003,Toyota Yaris,Bujias,57042.6,31,12
+2026-07-13,REP-003,Toyota Yaris,Bujias,57117.2,37,0
+2026-07-20,REP-003,Toyota Yaris,Bujias,55824.7,34,21
+2026-07-27,REP-003,Toyota Yaris,Bujias,56093.0,37,15
+2026-08-03,REP-003,Toyota Yaris,Bujias,54175.6,34,0
+2026-08-10,REP-003,Toyota Yaris,Bujias,54716.7,33,16
+2026-08-17,REP-003,Toyota Yaris,Bujias,54289.2,28,12
+2026-08-24,REP-003,Toyota Yaris,Bujias,54440.1,29,0
+2026-08-31,REP-003,Toyota Yaris,Bujias,54412.9,28,14
+2026-09-07,REP-003,Toyota Yaris,Bujias,54441.0,26,9
+2026-09-14,REP-003,Toyota Yaris,Bujias,52014.8,29,0
+2026-09-21,REP-003,Toyota Yaris,Bujias,52664.0,26,12
+2026-09-28,REP-003,Toyota Yaris,Bujias,52657.3,26,9
+2026-10-05,REP-003,Toyota Yaris,Bujias,53464.2,23,0
+2026-10-12,REP-003,Toyota Yaris,Bujias,52393.7,30,11
+2026-10-19,REP-003,Toyota Yaris,Bujias,52675.6,31,11
+2026-10-26,REP-003,Toyota Yaris,Bujias,52235.1,30,0
+2026-11-02,REP-003,Toyota Yaris,Bujias,54022.4,29,14
+2026-11-09,REP-003,Toyota Yaris,Bujias,55751.9,30,10
+2026-11-16,REP-003,Toyota Yaris,Bujias,55885.1,32,0
+2023-11-27,REP-004,Toyota Yaris,Amortiguador,51740.0,29,8
+2023-12-04,REP-004,Toyota Yaris,Amortiguador,53639.5,34,7
+2023-12-11,REP-004,Toyota Yaris,Amortiguador,53045.7,30,0
+2023-12-18,REP-004,Toyota Yaris,Amortiguador,53487.7,33,10
+2023-12-25,REP-004,Toyota Yaris,Amortiguador,53336.0,34,9
+2024-01-01,REP-004,Toyota Yaris,Amortiguador,54690.0,37,0
+2024-01-08,REP-004,Toyota Yaris,Amortiguador,56020.0,36,12
+2024-01-15,REP-004,Toyota Yaris,Amortiguador,55229.6,37,9
+2024-01-22,REP-004,Toyota Yaris,Amortiguador,54547.2,37,0
+2024-01-29,REP-004,Toyota Yaris,Amortiguador,54853.5,38,13
+2024-02-05,REP-004,Toyota Yaris,Amortiguador,54515.3,36,11
+2024-02-12,REP-004,Toyota Yaris,Amortiguador,54735.4,38,0
+2024-02-19,REP-004,Toyota Yaris,Amortiguador,54722.6,36,13
+2024-02-26,REP-004,Toyota Yaris,Amortiguador,55358.8,37,9
+2024-03-04,REP-004,Toyota Yaris,Amortiguador,55582.8,34,0
+2024-03-11,REP-004,Toyota Yaris,Amortiguador,54997.3,36,9
+2024-03-18,REP-004,Toyota Yaris,Amortiguador,54191.6,31,8
+2024-03-25,REP-004,Toyota Yaris,Amortiguador,55335.8,31,0
+2024-04-01,REP-004,Toyota Yaris,Amortiguador,54239.7,28,7
+2024-04-08,REP-004,Toyota Yaris,Amortiguador,54759.3,25,5
+2024-04-15,REP-004,Toyota Yaris,Amortiguador,55052.3,26,0
+2024-04-22,REP-004,Toyota Yaris,Amortiguador,54992.2,24,6
+2024-04-29,REP-004,Toyota Yaris,Amortiguador,54935.0,25,5
+2024-05-06,REP-004,Toyota Yaris,Amortiguador,54896.5,27,0
+2024-05-13,REP-004,Toyota Yaris,Amortiguador,54727.2,27,6
+2024-05-20,REP-004,Toyota Yaris,Amortiguador,55107.6,26,5
+2024-05-27,REP-004,Toyota Yaris,Amortiguador,54537.0,22,0
+2024-06-03,REP-004,Toyota Yaris,Amortiguador,54003.8,24,7
+2024-06-10,REP-004,Toyota Yaris,Amortiguador,55524.3,26,5
+2024-06-17,REP-004,Toyota Yaris,Amortiguador,56190.7,25,0
+2024-06-24,REP-004,Toyota Yaris,Amortiguador,55517.6,23,7
+2024-07-01,REP-004,Toyota Yaris,Amortiguador,56153.8,29,6
+2024-07-08,REP-004,Toyota Yaris,Amortiguador,56817.4,34,0
+2024-07-15,REP-004,Toyota Yaris,Amortiguador,56184.9,34,12
+2024-07-22,REP-004,Toyota Yaris,Amortiguador,55954.5,37,8
+2024-07-29,REP-004,Toyota Yaris,Amortiguador,54933.9,33,0
+2024-08-05,REP-004,Toyota Yaris,Amortiguador,55323.9,29,9
+2024-08-12,REP-004,Toyota Yaris,Amortiguador,55790.4,29,6
+2024-08-19,REP-004,Toyota Yaris,Amortiguador,55661.5,28,0
+2024-08-26,REP-004,Toyota Yaris,Amortiguador,55143.7,30,8
+2024-09-02,REP-004,Toyota Yaris,Amortiguador,54256.0,28,5
+2024-09-09,REP-004,Toyota Yaris,Amortiguador,53842.4,26,0
+2024-09-16,REP-004,Toyota Yaris,Amortiguador,54314.1,23,7
+2024-09-23,REP-004,Toyota Yaris,Amortiguador,54240.8,23,4
+2024-09-30,REP-004,Toyota Yaris,Amortiguador,54576.5,25,0
+2024-10-07,REP-004,Toyota Yaris,Amortiguador,54519.7,28,7
+2024-10-14,REP-004,Toyota Yaris,Amortiguador,54494.0,27,6
+2024-10-21,REP-004,Toyota Yaris,Amortiguador,53244.1,24,0
+2024-10-28,REP-004,Toyota Yaris,Amortiguador,52711.6,23,6
+2024-11-04,REP-004,Toyota Yaris,Amortiguador,52394.8,27,5
+2024-11-11,REP-004,Toyota Yaris,Amortiguador,54141.4,27,0
+2024-11-18,REP-004,Toyota Yaris,Amortiguador,54945.8,27,8
+2024-11-25,REP-004,Toyota Yaris,Amortiguador,54700.5,26,6
+2024-12-02,REP-004,Toyota Yaris,Amortiguador,54708.2,29,0
+2024-12-09,REP-004,Toyota Yaris,Amortiguador,53464.6,34,9
+2024-12-16,REP-004,Toyota Yaris,Amortiguador,54300.4,36,9
+2024-12-23,REP-004,Toyota Yaris,Amortiguador,53411.8,34,0
+2024-12-30,REP-004,Toyota Yaris,Amortiguador,53570.3,35,11
+2025-01-06,REP-004,Toyota Yaris,Amortiguador,54185.4,36,9
+2025-01-13,REP-004,Toyota Yaris,Amortiguador,54411.6,39,0
+2025-01-20,REP-004,Toyota Yaris,Amortiguador,54958.0,35,13
+2025-01-27,REP-004,Toyota Yaris,Amortiguador,56429.8,36,9
+2025-02-03,REP-004,Toyota Yaris,Amortiguador,56631.5,37,0
+2025-02-10,REP-004,Toyota Yaris,Amortiguador,55391.7,39,12
+2025-02-17,REP-004,Toyota Yaris,Amortiguador,54697.9,36,10
+2025-02-24,REP-004,Toyota Yaris,Amortiguador,53772.4,35,0
+2025-03-03,REP-004,Toyota Yaris,Amortiguador,53805.3,33,10
+2025-03-10,REP-004,Toyota Yaris,Amortiguador,53116.0,28,6
+2025-03-17,REP-004,Toyota Yaris,Amortiguador,54267.3,29,0
+2025-03-24,REP-004,Toyota Yaris,Amortiguador,56999.0,33,8
+2025-03-31,REP-004,Toyota Yaris,Amortiguador,55534.7,32,7
+2025-04-07,REP-004,Toyota Yaris,Amortiguador,55386.0,24,0
+2025-04-14,REP-004,Toyota Yaris,Amortiguador,54659.7,23,6
+2025-04-21,REP-004,Toyota Yaris,Amortiguador,54362.1,22,4
+2025-04-28,REP-004,Toyota Yaris,Amortiguador,54406.9,26,0
+2025-05-05,REP-004,Toyota Yaris,Amortiguador,53367.1,25,7
+2025-05-12,REP-004,Toyota Yaris,Amortiguador,53081.6,21,5
+2025-05-19,REP-004,Toyota Yaris,Amortiguador,54896.3,23,0
+2025-05-26,REP-004,Toyota Yaris,Amortiguador,55550.7,24,6
+2025-06-02,REP-004,Toyota Yaris,Amortiguador,54272.6,25,5
+2025-06-09,REP-004,Toyota Yaris,Amortiguador,53727.7,25,0
+2025-06-16,REP-004,Toyota Yaris,Amortiguador,53232.5,31,7
+2025-06-23,REP-004,Toyota Yaris,Amortiguador,52787.7,32,7
+2025-06-30,REP-004,Toyota Yaris,Amortiguador,53613.2,32,0
+2025-07-07,REP-004,Toyota Yaris,Amortiguador,54161.2,33,11
+2025-07-14,REP-004,Toyota Yaris,Amortiguador,55010.4,33,9
+2025-07-21,REP-004,Toyota Yaris,Amortiguador,54142.8,33,0
+2025-07-28,REP-004,Toyota Yaris,Amortiguador,54750.4,31,12
+2025-08-04,REP-004,Toyota Yaris,Amortiguador,54882.8,33,6
+2025-08-11,REP-004,Toyota Yaris,Amortiguador,55095.3,31,0
+2025-08-18,REP-004,Toyota Yaris,Amortiguador,55194.9,33,9
+2025-08-25,REP-004,Toyota Yaris,Amortiguador,56067.8,30,7
+2025-09-01,REP-004,Toyota Yaris,Amortiguador,56927.0,28,0
+2025-09-08,REP-004,Toyota Yaris,Amortiguador,55087.2,27,7
+2025-09-15,REP-004,Toyota Yaris,Amortiguador,56295.2,23,5
+2025-09-22,REP-004,Toyota Yaris,Amortiguador,55553.8,28,0
+2025-09-29,REP-004,Toyota Yaris,Amortiguador,56474.6,25,7
+2025-10-06,REP-004,Toyota Yaris,Amortiguador,55226.7,24,5
+2025-10-13,REP-004,Toyota Yaris,Amortiguador,54740.9,28,0
+2025-10-20,REP-004,Toyota Yaris,Amortiguador,54584.6,28,8
+2025-10-27,REP-004,Toyota Yaris,Amortiguador,55881.2,29,6
+2025-11-03,REP-004,Toyota Yaris,Amortiguador,56166.4,29,0
+2025-11-10,REP-004,Toyota Yaris,Amortiguador,55757.0,24,8
+2025-11-17,REP-004,Toyota Yaris,Amortiguador,54396.8,24,4
+2025-11-24,REP-004,Toyota Yaris,Amortiguador,54172.9,24,0
+2025-12-01,REP-004,Toyota Yaris,Amortiguador,53423.9,32,8
+2025-12-08,REP-004,Toyota Yaris,Amortiguador,53620.2,34,8
+2025-12-15,REP-004,Toyota Yaris,Amortiguador,55105.6,34,0
+2025-12-22,REP-004,Toyota Yaris,Amortiguador,56520.9,36,11
+2025-12-29,REP-004,Toyota Yaris,Amortiguador,55752.3,35,9
+2026-01-05,REP-004,Toyota Yaris,Amortiguador,56020.5,35,0
+2026-01-12,REP-004,Toyota Yaris,Amortiguador,55027.4,36,12
+2026-01-19,REP-004,Toyota Yaris,Amortiguador,55464.0,36,9
+2026-01-26,REP-004,Toyota Yaris,Amortiguador,57275.2,41,0
+2026-02-02,REP-004,Toyota Yaris,Amortiguador,56685.8,36,15
+2026-02-09,REP-004,Toyota Yaris,Amortiguador,55970.7,32,9
+2026-02-16,REP-004,Toyota Yaris,Amortiguador,57051.3,34,0
+2026-02-23,REP-004,Toyota Yaris,Amortiguador,56187.7,33,11
+2026-03-02,REP-004,Toyota Yaris,Amortiguador,55670.4,26,7
+2026-03-09,REP-004,Toyota Yaris,Amortiguador,54952.3,25,0
+2026-03-16,REP-004,Toyota Yaris,Amortiguador,54805.4,25,7
+2026-03-23,REP-004,Toyota Yaris,Amortiguador,53459.7,23,5
+2026-03-30,REP-004,Toyota Yaris,Amortiguador,52612.1,30,0
+2026-04-06,REP-004,Toyota Yaris,Amortiguador,54606.3,25,7
+2026-04-13,REP-004,Toyota Yaris,Amortiguador,53394.3,31,5
+2026-04-20,REP-004,Toyota Yaris,Amortiguador,53847.1,27,0
+2026-04-27,REP-004,Toyota Yaris,Amortiguador,52991.2,30,6
+2026-05-04,REP-004,Toyota Yaris,Amortiguador,53937.0,27,6
+2026-05-11,REP-004,Toyota Yaris,Amortiguador,53608.2,27,0
+2026-05-18,REP-004,Toyota Yaris,Amortiguador,52462.7,26,6
+2026-05-25,REP-004,Toyota Yaris,Amortiguador,52601.3,25,5
+2026-06-01,REP-004,Toyota Yaris,Amortiguador,52627.2,27,0
+2026-06-08,REP-004,Toyota Yaris,Amortiguador,54057.8,29,7
+2026-06-15,REP-004,Toyota Yaris,Amortiguador,54535.9,29,6
+2026-06-22,REP-004,Toyota Yaris,Amortiguador,54578.0,29,0
+2026-06-29,REP-004,Toyota Yaris,Amortiguador,54894.3,27,8
+2026-07-06,REP-004,Toyota Yaris,Amortiguador,57042.6,31,7
+2026-07-13,REP-004,Toyota Yaris,Amortiguador,57117.2,37,0
+2026-07-20,REP-004,Toyota Yaris,Amortiguador,55824.7,34,12
+2026-07-27,REP-004,Toyota Yaris,Amortiguador,56093.0,37,9
+2026-08-03,REP-004,Toyota Yaris,Amortiguador,54175.6,34,0
+2026-08-10,REP-004,Toyota Yaris,Amortiguador,54716.7,33,9
+2026-08-17,REP-004,Toyota Yaris,Amortiguador,54289.2,28,7
+2026-08-24,REP-004,Toyota Yaris,Amortiguador,54440.1,29,0
+2026-08-31,REP-004,Toyota Yaris,Amortiguador,54412.9,28,8
+2026-09-07,REP-004,Toyota Yaris,Amortiguador,54441.0,26,6
+2026-09-14,REP-004,Toyota Yaris,Amortiguador,52014.8,29,0
+2026-09-21,REP-004,Toyota Yaris,Amortiguador,52664.0,26,6
+2026-09-28,REP-004,Toyota Yaris,Amortiguador,52657.3,26,4
+2026-10-05,REP-004,Toyota Yaris,Amortiguador,53464.2,23,0
+2026-10-12,REP-004,Toyota Yaris,Amortiguador,52393.7,30,6
+2026-10-19,REP-004,Toyota Yaris,Amortiguador,52675.6,31,7
+2026-10-26,REP-004,Toyota Yaris,Amortiguador,52235.1,30,0
+2026-11-02,REP-004,Toyota Yaris,Amortiguador,54022.4,29,8
+2026-11-09,REP-004,Toyota Yaris,Amortiguador,55751.9,30,6
+2026-11-16,REP-004,Toyota Yaris,Amortiguador,55885.1,32,0
+2023-11-27,REP-005,Toyota Corolla,Filtro de aceite,61798.4,22,14
+2023-12-04,REP-005,Toyota Corolla,Filtro de aceite,63079.2,27,14
+2023-12-11,REP-005,Toyota Corolla,Filtro de aceite,63818.5,30,0
+2023-12-18,REP-005,Toyota Corolla,Filtro de aceite,64684.2,31,25
+2023-12-25,REP-005,Toyota Corolla,Filtro de aceite,65917.5,32,20
+2024-01-01,REP-005,Toyota Corolla,Filtro de aceite,64093.6,28,0
+2024-01-08,REP-005,Toyota Corolla,Filtro de aceite,65817.2,31,23
+2024-01-15,REP-005,Toyota Corolla,Filtro de aceite,64367.0,28,19
+2024-01-22,REP-005,Toyota Corolla,Filtro de aceite,65791.0,29,0
+2024-01-29,REP-005,Toyota Corolla,Filtro de aceite,66485.9,34,24
+2024-02-05,REP-005,Toyota Corolla,Filtro de aceite,65738.6,31,22
+2024-02-12,REP-005,Toyota Corolla,Filtro de aceite,65712.6,31,0
+2024-02-19,REP-005,Toyota Corolla,Filtro de aceite,67806.3,28,25
+2024-02-26,REP-005,Toyota Corolla,Filtro de aceite,68555.2,33,18
+2024-03-04,REP-005,Toyota Corolla,Filtro de aceite,68491.9,27,0
+2024-03-11,REP-005,Toyota Corolla,Filtro de aceite,68073.2,27,18
+2024-03-18,REP-005,Toyota Corolla,Filtro de aceite,67932.7,28,14
+2024-03-25,REP-005,Toyota Corolla,Filtro de aceite,67828.7,28,0
+2024-04-01,REP-005,Toyota Corolla,Filtro de aceite,65355.3,25,16
+2024-04-08,REP-005,Toyota Corolla,Filtro de aceite,64604.9,23,12
+2024-04-15,REP-005,Toyota Corolla,Filtro de aceite,66056.3,19,0
+2024-04-22,REP-005,Toyota Corolla,Filtro de aceite,66854.5,24,11
+2024-04-29,REP-005,Toyota Corolla,Filtro de aceite,67445.4,23,11
+2024-05-06,REP-005,Toyota Corolla,Filtro de aceite,66855.6,22,0
+2024-05-13,REP-005,Toyota Corolla,Filtro de aceite,66588.0,19,13
+2024-05-20,REP-005,Toyota Corolla,Filtro de aceite,64857.6,20,9
+2024-05-27,REP-005,Toyota Corolla,Filtro de aceite,64660.4,20,0
+2024-06-03,REP-005,Toyota Corolla,Filtro de aceite,65606.1,26,13
+2024-06-10,REP-005,Toyota Corolla,Filtro de aceite,65734.5,25,13
+2024-06-17,REP-005,Toyota Corolla,Filtro de aceite,65424.3,25,0
+2024-06-24,REP-005,Toyota Corolla,Filtro de aceite,65238.3,22,17
+2024-07-01,REP-005,Toyota Corolla,Filtro de aceite,64481.4,24,14
+2024-07-08,REP-005,Toyota Corolla,Filtro de aceite,65391.2,28,0
+2024-07-15,REP-005,Toyota Corolla,Filtro de aceite,65611.0,25,23
+2024-07-22,REP-005,Toyota Corolla,Filtro de aceite,66839.6,30,16
+2024-07-29,REP-005,Toyota Corolla,Filtro de aceite,66842.7,32,0
+2024-08-05,REP-005,Toyota Corolla,Filtro de aceite,65462.7,26,21
+2024-08-12,REP-005,Toyota Corolla,Filtro de aceite,65744.4,26,13
+2024-08-19,REP-005,Toyota Corolla,Filtro de aceite,66604.3,28,0
+2024-08-26,REP-005,Toyota Corolla,Filtro de aceite,65139.4,26,18
+2024-09-02,REP-005,Toyota Corolla,Filtro de aceite,65139.1,23,12
+2024-09-09,REP-005,Toyota Corolla,Filtro de aceite,64423.2,22,0
+2024-09-16,REP-005,Toyota Corolla,Filtro de aceite,63952.8,22,13
+2024-09-23,REP-005,Toyota Corolla,Filtro de aceite,64333.9,20,10
+2024-09-30,REP-005,Toyota Corolla,Filtro de aceite,64559.1,20,0
+2024-10-07,REP-005,Toyota Corolla,Filtro de aceite,63699.8,23,13
+2024-10-14,REP-005,Toyota Corolla,Filtro de aceite,65374.8,23,11
+2024-10-21,REP-005,Toyota Corolla,Filtro de aceite,63432.1,21,0
+2024-10-28,REP-005,Toyota Corolla,Filtro de aceite,63906.3,19,14
+2024-11-04,REP-005,Toyota Corolla,Filtro de aceite,64129.9,22,9
+2024-11-11,REP-005,Toyota Corolla,Filtro de aceite,61997.9,26,0
+2024-11-18,REP-005,Toyota Corolla,Filtro de aceite,64209.7,26,17
+2024-11-25,REP-005,Toyota Corolla,Filtro de aceite,64121.4,23,13
+2024-12-02,REP-005,Toyota Corolla,Filtro de aceite,63964.1,25,0
+2024-12-09,REP-005,Toyota Corolla,Filtro de aceite,65935.8,27,21
+2024-12-16,REP-005,Toyota Corolla,Filtro de aceite,65827.5,33,18
+2024-12-23,REP-005,Toyota Corolla,Filtro de aceite,66080.6,36,0
+2024-12-30,REP-005,Toyota Corolla,Filtro de aceite,66154.5,37,30
+2025-01-06,REP-005,Toyota Corolla,Filtro de aceite,66622.8,34,24
+2025-01-13,REP-005,Toyota Corolla,Filtro de aceite,67411.3,39,0
+2025-01-20,REP-005,Toyota Corolla,Filtro de aceite,68108.6,33,32
+2025-01-27,REP-005,Toyota Corolla,Filtro de aceite,67318.7,31,21
+2025-02-03,REP-005,Toyota Corolla,Filtro de aceite,67195.0,33,0
+2025-02-10,REP-005,Toyota Corolla,Filtro de aceite,67086.8,32,28
+2025-02-17,REP-005,Toyota Corolla,Filtro de aceite,67375.6,32,20
+2025-02-24,REP-005,Toyota Corolla,Filtro de aceite,67809.6,27,0
+2025-03-03,REP-005,Toyota Corolla,Filtro de aceite,65865.1,24,18
+2025-03-10,REP-005,Toyota Corolla,Filtro de aceite,65780.4,24,12
+2025-03-17,REP-005,Toyota Corolla,Filtro de aceite,66389.2,23,0
+2025-03-24,REP-005,Toyota Corolla,Filtro de aceite,65731.7,21,15
+2025-03-31,REP-005,Toyota Corolla,Filtro de aceite,65562.8,21,10
+2025-04-07,REP-005,Toyota Corolla,Filtro de aceite,64354.0,22,0
+2025-04-14,REP-005,Toyota Corolla,Filtro de aceite,64411.2,23,13
+2025-04-21,REP-005,Toyota Corolla,Filtro de aceite,62634.7,18,10
+2025-04-28,REP-005,Toyota Corolla,Filtro de aceite,62866.2,20,0
+2025-05-05,REP-005,Toyota Corolla,Filtro de aceite,63213.5,20,11
+2025-05-12,REP-005,Toyota Corolla,Filtro de aceite,64352.0,21,9
+2025-05-19,REP-005,Toyota Corolla,Filtro de aceite,63298.2,19,0
+2025-05-26,REP-005,Toyota Corolla,Filtro de aceite,63822.7,18,11
+2025-06-02,REP-005,Toyota Corolla,Filtro de aceite,63784.8,24,9
+2025-06-09,REP-005,Toyota Corolla,Filtro de aceite,62611.0,19,0
+2025-06-16,REP-005,Toyota Corolla,Filtro de aceite,62762.3,20,12
+2025-06-23,REP-005,Toyota Corolla,Filtro de aceite,63412.4,21,11
+2025-06-30,REP-005,Toyota Corolla,Filtro de aceite,64809.7,22,0
+2025-07-07,REP-005,Toyota Corolla,Filtro de aceite,64509.2,25,19
+2025-07-14,REP-005,Toyota Corolla,Filtro de aceite,63677.8,29,16
+2025-07-21,REP-005,Toyota Corolla,Filtro de aceite,64528.6,30,0
+2025-07-28,REP-005,Toyota Corolla,Filtro de aceite,66503.9,30,25
+2025-08-04,REP-005,Toyota Corolla,Filtro de aceite,68038.2,26,16
+2025-08-11,REP-005,Toyota Corolla,Filtro de aceite,66185.3,25,0
+2025-08-18,REP-005,Toyota Corolla,Filtro de aceite,64976.4,25,17
+2025-08-25,REP-005,Toyota Corolla,Filtro de aceite,65395.6,23,13
+2025-09-01,REP-005,Toyota Corolla,Filtro de aceite,64575.7,23,0
+2025-09-08,REP-005,Toyota Corolla,Filtro de aceite,65562.5,24,13
+2025-09-15,REP-005,Toyota Corolla,Filtro de aceite,65737.3,26,11
+2025-09-22,REP-005,Toyota Corolla,Filtro de aceite,63699.3,27,0
+2025-09-29,REP-005,Toyota Corolla,Filtro de aceite,63083.2,23,15
+2025-10-06,REP-005,Toyota Corolla,Filtro de aceite,63104.1,24,12
+2025-10-13,REP-005,Toyota Corolla,Filtro de aceite,65328.0,24,0
+2025-10-20,REP-005,Toyota Corolla,Filtro de aceite,65674.4,24,16
+2025-10-27,REP-005,Toyota Corolla,Filtro de aceite,65629.9,24,12
+2025-11-03,REP-005,Toyota Corolla,Filtro de aceite,65931.9,24,0
+2025-11-10,REP-005,Toyota Corolla,Filtro de aceite,67237.6,27,17
+2025-11-17,REP-005,Toyota Corolla,Filtro de aceite,67264.8,26,14
+2025-11-24,REP-005,Toyota Corolla,Filtro de aceite,66675.5,23,0
+2025-12-01,REP-005,Toyota Corolla,Filtro de aceite,67464.0,29,20
+2025-12-08,REP-005,Toyota Corolla,Filtro de aceite,68073.8,30,18
+2025-12-15,REP-005,Toyota Corolla,Filtro de aceite,68813.6,31,0
+2025-12-22,REP-005,Toyota Corolla,Filtro de aceite,67968.1,31,25
+2025-12-29,REP-005,Toyota Corolla,Filtro de aceite,65016.5,31,20
+2026-01-05,REP-005,Toyota Corolla,Filtro de aceite,62156.8,31,0
+2026-01-12,REP-005,Toyota Corolla,Filtro de aceite,63702.2,27,25
+2026-01-19,REP-005,Toyota Corolla,Filtro de aceite,63408.5,30,17
+2026-01-26,REP-005,Toyota Corolla,Filtro de aceite,65467.9,29,0
+2026-02-02,REP-005,Toyota Corolla,Filtro de aceite,67797.6,29,24
+2026-02-09,REP-005,Toyota Corolla,Filtro de aceite,67893.4,30,18
+2026-02-16,REP-005,Toyota Corolla,Filtro de aceite,67716.0,34,0
+2026-02-23,REP-005,Toyota Corolla,Filtro de aceite,67366.2,30,28
+2026-03-02,REP-005,Toyota Corolla,Filtro de aceite,65602.4,27,15
+2026-03-09,REP-005,Toyota Corolla,Filtro de aceite,64839.8,25,0
+2026-03-16,REP-005,Toyota Corolla,Filtro de aceite,64967.0,27,17
+2026-03-23,REP-005,Toyota Corolla,Filtro de aceite,64935.7,25,14
+2026-03-30,REP-005,Toyota Corolla,Filtro de aceite,65562.9,25,0
+2026-04-06,REP-005,Toyota Corolla,Filtro de aceite,64323.7,21,14
+2026-04-13,REP-005,Toyota Corolla,Filtro de aceite,63960.7,23,9
+2026-04-20,REP-005,Toyota Corolla,Filtro de aceite,64459.0,19,0
+2026-04-27,REP-005,Toyota Corolla,Filtro de aceite,63055.6,21,11
+2026-05-04,REP-005,Toyota Corolla,Filtro de aceite,64042.7,22,9
+2026-05-11,REP-005,Toyota Corolla,Filtro de aceite,64689.8,22,0
+2026-05-18,REP-005,Toyota Corolla,Filtro de aceite,64904.3,18,13
+2026-05-25,REP-005,Toyota Corolla,Filtro de aceite,64332.7,19,8
+2026-06-01,REP-005,Toyota Corolla,Filtro de aceite,65886.9,24,0
+2026-06-08,REP-005,Toyota Corolla,Filtro de aceite,66904.5,28,16
+2026-06-15,REP-005,Toyota Corolla,Filtro de aceite,66801.8,26,14
+2026-06-22,REP-005,Toyota Corolla,Filtro de aceite,66516.4,27,0
+2026-06-29,REP-005,Toyota Corolla,Filtro de aceite,66934.7,26,18
+2026-07-06,REP-005,Toyota Corolla,Filtro de aceite,66222.7,28,16
+2026-07-13,REP-005,Toyota Corolla,Filtro de aceite,66915.5,28,0
+2026-07-20,REP-005,Toyota Corolla,Filtro de aceite,67170.8,29,23
+2026-07-27,REP-005,Toyota Corolla,Filtro de aceite,66718.7,31,19
+2026-08-03,REP-005,Toyota Corolla,Filtro de aceite,66686.0,29,0
+2026-08-10,REP-005,Toyota Corolla,Filtro de aceite,67618.6,24,19
+2026-08-17,REP-005,Toyota Corolla,Filtro de aceite,65530.4,23,13
+2026-08-24,REP-005,Toyota Corolla,Filtro de aceite,64534.9,21,0
+2026-08-31,REP-005,Toyota Corolla,Filtro de aceite,64460.7,23,14
+2026-09-07,REP-005,Toyota Corolla,Filtro de aceite,64992.3,21,10
+2026-09-14,REP-005,Toyota Corolla,Filtro de aceite,65117.7,22,0
+2026-09-21,REP-005,Toyota Corolla,Filtro de aceite,65481.8,22,13
+2026-09-28,REP-005,Toyota Corolla,Filtro de aceite,64872.4,17,10
+2026-10-05,REP-005,Toyota Corolla,Filtro de aceite,64992.8,16,0
+2026-10-12,REP-005,Toyota Corolla,Filtro de aceite,65991.6,20,0
+2026-10-19,REP-005,Toyota Corolla,Filtro de aceite,65982.2,25,14
+2026-10-26,REP-005,Toyota Corolla,Filtro de aceite,66229.3,24,12
+2026-11-02,REP-005,Toyota Corolla,Filtro de aceite,65976.7,23,0
+2026-11-09,REP-005,Toyota Corolla,Filtro de aceite,65286.5,26,15
+2026-11-16,REP-005,Toyota Corolla,Filtro de aceite,65880.5,27,13
+2023-11-27,REP-006,Toyota Corolla,Pastillas de freno,61798.4,22,10
+2023-12-04,REP-006,Toyota Corolla,Pastillas de freno,63079.2,27,9
+2023-12-11,REP-006,Toyota Corolla,Pastillas de freno,63818.5,30,0
+2023-12-18,REP-006,Toyota Corolla,Pastillas de freno,64684.2,31,16
+2023-12-25,REP-006,Toyota Corolla,Pastillas de freno,65917.5,32,13
+2024-01-01,REP-006,Toyota Corolla,Pastillas de freno,64093.6,28,0
+2024-01-08,REP-006,Toyota Corolla,Pastillas de freno,65817.2,31,15
+2024-01-15,REP-006,Toyota Corolla,Pastillas de freno,64367.0,28,13
+2024-01-22,REP-006,Toyota Corolla,Pastillas de freno,65791.0,29,0
+2024-01-29,REP-006,Toyota Corolla,Pastillas de freno,66485.9,34,16
+2024-02-05,REP-006,Toyota Corolla,Pastillas de freno,65738.6,31,14
+2024-02-12,REP-006,Toyota Corolla,Pastillas de freno,65712.6,31,0
+2024-02-19,REP-006,Toyota Corolla,Pastillas de freno,67806.3,28,17
+2024-02-26,REP-006,Toyota Corolla,Pastillas de freno,68555.2,33,11
+2024-03-04,REP-006,Toyota Corolla,Pastillas de freno,68491.9,27,0
+2024-03-11,REP-006,Toyota Corolla,Pastillas de freno,68073.2,27,12
+2024-03-18,REP-006,Toyota Corolla,Pastillas de freno,67932.7,28,9
+2024-03-25,REP-006,Toyota Corolla,Pastillas de freno,67828.7,28,0
+2024-04-01,REP-006,Toyota Corolla,Pastillas de freno,65355.3,25,11
+2024-04-08,REP-006,Toyota Corolla,Pastillas de freno,64604.9,23,8
+2024-04-15,REP-006,Toyota Corolla,Pastillas de freno,66056.3,19,0
+2024-04-22,REP-006,Toyota Corolla,Pastillas de freno,66854.5,24,6
+2024-04-29,REP-006,Toyota Corolla,Pastillas de freno,67445.4,23,6
+2024-05-06,REP-006,Toyota Corolla,Pastillas de freno,66855.6,22,0
+2024-05-13,REP-006,Toyota Corolla,Pastillas de freno,66588.0,19,8
+2024-05-20,REP-006,Toyota Corolla,Pastillas de freno,64857.6,20,5
+2024-05-27,REP-006,Toyota Corolla,Pastillas de freno,64660.4,20,0
+2024-06-03,REP-006,Toyota Corolla,Pastillas de freno,65606.1,26,9
+2024-06-10,REP-006,Toyota Corolla,Pastillas de freno,65734.5,25,8
+2024-06-17,REP-006,Toyota Corolla,Pastillas de freno,65424.3,25,0
+2024-06-24,REP-006,Toyota Corolla,Pastillas de freno,65238.3,22,11
+2024-07-01,REP-006,Toyota Corolla,Pastillas de freno,64481.4,24,9
+2024-07-08,REP-006,Toyota Corolla,Pastillas de freno,65391.2,28,0
+2024-07-15,REP-006,Toyota Corolla,Pastillas de freno,65611.0,25,16
+2024-07-22,REP-006,Toyota Corolla,Pastillas de freno,66839.6,30,11
+2024-07-29,REP-006,Toyota Corolla,Pastillas de freno,66842.7,32,0
+2024-08-05,REP-006,Toyota Corolla,Pastillas de freno,65462.7,26,14
+2024-08-12,REP-006,Toyota Corolla,Pastillas de freno,65744.4,26,9
+2024-08-19,REP-006,Toyota Corolla,Pastillas de freno,66604.3,28,0
+2024-08-26,REP-006,Toyota Corolla,Pastillas de freno,65139.4,26,12
+2024-09-02,REP-006,Toyota Corolla,Pastillas de freno,65139.1,23,7
+2024-09-09,REP-006,Toyota Corolla,Pastillas de freno,64423.2,22,0
+2024-09-16,REP-006,Toyota Corolla,Pastillas de freno,63952.8,22,8
+2024-09-23,REP-006,Toyota Corolla,Pastillas de freno,64333.9,20,6
+2024-09-30,REP-006,Toyota Corolla,Pastillas de freno,64559.1,20,0
+2024-10-07,REP-006,Toyota Corolla,Pastillas de freno,63699.8,23,9
+2024-10-14,REP-006,Toyota Corolla,Pastillas de freno,65374.8,23,7
+2024-10-21,REP-006,Toyota Corolla,Pastillas de freno,63432.1,21,0
+2024-10-28,REP-006,Toyota Corolla,Pastillas de freno,63906.3,19,9
+2024-11-04,REP-006,Toyota Corolla,Pastillas de freno,64129.9,22,6
+2024-11-11,REP-006,Toyota Corolla,Pastillas de freno,61997.9,26,0
+2024-11-18,REP-006,Toyota Corolla,Pastillas de freno,64209.7,26,11
+2024-11-25,REP-006,Toyota Corolla,Pastillas de freno,64121.4,23,9
+2024-12-02,REP-006,Toyota Corolla,Pastillas de freno,63964.1,25,0
+2024-12-09,REP-006,Toyota Corolla,Pastillas de freno,65935.8,27,13
+2024-12-16,REP-006,Toyota Corolla,Pastillas de freno,65827.5,33,11
+2024-12-23,REP-006,Toyota Corolla,Pastillas de freno,66080.6,36,0
+2024-12-30,REP-006,Toyota Corolla,Pastillas de freno,66154.5,37,19
+2025-01-06,REP-006,Toyota Corolla,Pastillas de freno,66622.8,34,16
+2025-01-13,REP-006,Toyota Corolla,Pastillas de freno,67411.3,39,0
+2025-01-20,REP-006,Toyota Corolla,Pastillas de freno,68108.6,33,21
+2025-01-27,REP-006,Toyota Corolla,Pastillas de freno,67318.7,31,13
+2025-02-03,REP-006,Toyota Corolla,Pastillas de freno,67195.0,33,0
+2025-02-10,REP-006,Toyota Corolla,Pastillas de freno,67086.8,32,18
+2025-02-17,REP-006,Toyota Corolla,Pastillas de freno,67375.6,32,13
+2025-02-24,REP-006,Toyota Corolla,Pastillas de freno,67809.6,27,0
+2025-03-03,REP-006,Toyota Corolla,Pastillas de freno,65865.1,24,12
+2025-03-10,REP-006,Toyota Corolla,Pastillas de freno,65780.4,24,8
+2025-03-17,REP-006,Toyota Corolla,Pastillas de freno,66389.2,23,0
+2025-03-24,REP-006,Toyota Corolla,Pastillas de freno,65731.7,21,11
+2025-03-31,REP-006,Toyota Corolla,Pastillas de freno,65562.8,21,7
+2025-04-07,REP-006,Toyota Corolla,Pastillas de freno,64354.0,22,0
+2025-04-14,REP-006,Toyota Corolla,Pastillas de freno,64411.2,23,8
+2025-04-21,REP-006,Toyota Corolla,Pastillas de freno,62634.7,18,7
+2025-04-28,REP-006,Toyota Corolla,Pastillas de freno,62866.2,20,0
+2025-05-05,REP-006,Toyota Corolla,Pastillas de freno,63213.5,20,8
+2025-05-12,REP-006,Toyota Corolla,Pastillas de freno,64352.0,21,6
+2025-05-19,REP-006,Toyota Corolla,Pastillas de freno,63298.2,19,0
+2025-05-26,REP-006,Toyota Corolla,Pastillas de freno,63822.7,18,7
+2025-06-02,REP-006,Toyota Corolla,Pastillas de freno,63784.8,24,0
+2025-06-09,REP-006,Toyota Corolla,Pastillas de freno,62611.0,19,10
+2025-06-16,REP-006,Toyota Corolla,Pastillas de freno,62762.3,20,7
+2025-06-23,REP-006,Toyota Corolla,Pastillas de freno,63412.4,21,0
+2025-06-30,REP-006,Toyota Corolla,Pastillas de freno,64809.7,22,9
+2025-07-07,REP-006,Toyota Corolla,Pastillas de freno,64509.2,25,9
+2025-07-14,REP-006,Toyota Corolla,Pastillas de freno,63677.8,29,0
+2025-07-21,REP-006,Toyota Corolla,Pastillas de freno,64528.6,30,15
+2025-07-28,REP-006,Toyota Corolla,Pastillas de freno,66503.9,30,12
+2025-08-04,REP-006,Toyota Corolla,Pastillas de freno,68038.2,26,0
+2025-08-11,REP-006,Toyota Corolla,Pastillas de freno,66185.3,25,11
+2025-08-18,REP-006,Toyota Corolla,Pastillas de freno,64976.4,25,8
+2025-08-25,REP-006,Toyota Corolla,Pastillas de freno,65395.6,23,0
+2025-09-01,REP-006,Toyota Corolla,Pastillas de freno,64575.7,23,8
+2025-09-08,REP-006,Toyota Corolla,Pastillas de freno,65562.5,24,6
+2025-09-15,REP-006,Toyota Corolla,Pastillas de freno,65737.3,26,0
+2025-09-22,REP-006,Toyota Corolla,Pastillas de freno,63699.3,27,10
+2025-09-29,REP-006,Toyota Corolla,Pastillas de freno,63083.2,23,8
+2025-10-06,REP-006,Toyota Corolla,Pastillas de freno,63104.1,24,0
+2025-10-13,REP-006,Toyota Corolla,Pastillas de freno,65328.0,24,11
+2025-10-20,REP-006,Toyota Corolla,Pastillas de freno,65674.4,24,8
+2025-10-27,REP-006,Toyota Corolla,Pastillas de freno,65629.9,24,0
+2025-11-03,REP-006,Toyota Corolla,Pastillas de freno,65931.9,24,10
+2025-11-10,REP-006,Toyota Corolla,Pastillas de freno,67237.6,27,8
+2025-11-17,REP-006,Toyota Corolla,Pastillas de freno,67264.8,26,0
+2025-11-24,REP-006,Toyota Corolla,Pastillas de freno,66675.5,23,11
+2025-12-01,REP-006,Toyota Corolla,Pastillas de freno,67464.0,29,9
+2025-12-08,REP-006,Toyota Corolla,Pastillas de freno,68073.8,30,0
+2025-12-15,REP-006,Toyota Corolla,Pastillas de freno,68813.6,31,16
+2025-12-22,REP-006,Toyota Corolla,Pastillas de freno,67968.1,31,12
+2025-12-29,REP-006,Toyota Corolla,Pastillas de freno,65016.5,31,0
+2026-01-05,REP-006,Toyota Corolla,Pastillas de freno,62156.8,31,16
+2026-01-12,REP-006,Toyota Corolla,Pastillas de freno,63702.2,27,12
+2026-01-19,REP-006,Toyota Corolla,Pastillas de freno,63408.5,30,0
+2026-01-26,REP-006,Toyota Corolla,Pastillas de freno,65467.9,29,17
+2026-02-02,REP-006,Toyota Corolla,Pastillas de freno,67797.6,29,12
+2026-02-09,REP-006,Toyota Corolla,Pastillas de freno,67893.4,30,0
+2026-02-16,REP-006,Toyota Corolla,Pastillas de freno,67716.0,34,17
+2026-02-23,REP-006,Toyota Corolla,Pastillas de freno,67366.2,30,14
+2026-03-02,REP-006,Toyota Corolla,Pastillas de freno,65602.4,27,0
+2026-03-09,REP-006,Toyota Corolla,Pastillas de freno,64839.8,25,12
+2026-03-16,REP-006,Toyota Corolla,Pastillas de freno,64967.0,27,8
+2026-03-23,REP-006,Toyota Corolla,Pastillas de freno,64935.7,25,0
+2026-03-30,REP-006,Toyota Corolla,Pastillas de freno,65562.9,25,11
+2026-04-06,REP-006,Toyota Corolla,Pastillas de freno,64323.7,21,7
+2026-04-13,REP-006,Toyota Corolla,Pastillas de freno,63960.7,23,0
+2026-04-20,REP-006,Toyota Corolla,Pastillas de freno,64459.0,19,8
+2026-04-27,REP-006,Toyota Corolla,Pastillas de freno,63055.6,21,6
+2026-05-04,REP-006,Toyota Corolla,Pastillas de freno,64042.7,22,0
+2026-05-11,REP-006,Toyota Corolla,Pastillas de freno,64689.8,22,8
+2026-05-18,REP-006,Toyota Corolla,Pastillas de freno,64904.3,18,6
+2026-05-25,REP-006,Toyota Corolla,Pastillas de freno,64332.7,19,0
+2026-06-01,REP-006,Toyota Corolla,Pastillas de freno,65886.9,24,8
+2026-06-08,REP-006,Toyota Corolla,Pastillas de freno,66904.5,28,8
+2026-06-15,REP-006,Toyota Corolla,Pastillas de freno,66801.8,26,0
+2026-06-22,REP-006,Toyota Corolla,Pastillas de freno,66516.4,27,11
+2026-06-29,REP-006,Toyota Corolla,Pastillas de freno,66934.7,26,9
+2026-07-06,REP-006,Toyota Corolla,Pastillas de freno,66222.7,28,0
+2026-07-13,REP-006,Toyota Corolla,Pastillas de freno,66915.5,28,15
+2026-07-20,REP-006,Toyota Corolla,Pastillas de freno,67170.8,29,12
+2026-07-27,REP-006,Toyota Corolla,Pastillas de freno,66718.7,31,0
+2026-08-03,REP-006,Toyota Corolla,Pastillas de freno,66686.0,29,14
+2026-08-10,REP-006,Toyota Corolla,Pastillas de freno,67618.6,24,10
+2026-08-17,REP-006,Toyota Corolla,Pastillas de freno,65530.4,23,0
+2026-08-24,REP-006,Toyota Corolla,Pastillas de freno,64534.9,21,11
+2026-08-31,REP-006,Toyota Corolla,Pastillas de freno,64460.7,23,7
+2026-09-07,REP-006,Toyota Corolla,Pastillas de freno,64992.3,21,0
+2026-09-14,REP-006,Toyota Corolla,Pastillas de freno,65117.7,22,8
+2026-09-21,REP-006,Toyota Corolla,Pastillas de freno,65481.8,22,7
+2026-09-28,REP-006,Toyota Corolla,Pastillas de freno,64872.4,17,0
+2026-10-05,REP-006,Toyota Corolla,Pastillas de freno,64992.8,16,0
+2026-10-12,REP-006,Toyota Corolla,Pastillas de freno,65991.6,20,0
+2026-10-19,REP-006,Toyota Corolla,Pastillas de freno,65982.2,25,9
+2026-10-26,REP-006,Toyota Corolla,Pastillas de freno,66229.3,24,9
+2026-11-02,REP-006,Toyota Corolla,Pastillas de freno,65976.7,23,0
+2026-11-09,REP-006,Toyota Corolla,Pastillas de freno,65286.5,26,10
+2026-11-16,REP-006,Toyota Corolla,Pastillas de freno,65880.5,27,9
+2023-11-27,REP-007,Toyota Corolla,Bujias,61798.4,22,10
+2023-12-04,REP-007,Toyota Corolla,Bujias,63079.2,27,10
+2023-12-11,REP-007,Toyota Corolla,Bujias,63818.5,30,0
+2023-12-18,REP-007,Toyota Corolla,Bujias,64684.2,31,18
+2023-12-25,REP-007,Toyota Corolla,Bujias,65917.5,32,15
+2024-01-01,REP-007,Toyota Corolla,Bujias,64093.6,28,0
+2024-01-08,REP-007,Toyota Corolla,Bujias,65817.2,31,18
+2024-01-15,REP-007,Toyota Corolla,Bujias,64367.0,28,15
+2024-01-22,REP-007,Toyota Corolla,Bujias,65791.0,29,0
+2024-01-29,REP-007,Toyota Corolla,Bujias,66485.9,34,18
+2024-02-05,REP-007,Toyota Corolla,Bujias,65738.6,31,16
+2024-02-12,REP-007,Toyota Corolla,Bujias,65712.6,31,0
+2024-02-19,REP-007,Toyota Corolla,Bujias,67806.3,28,19
+2024-02-26,REP-007,Toyota Corolla,Bujias,68555.2,33,14
+2024-03-04,REP-007,Toyota Corolla,Bujias,68491.9,27,0
+2024-03-11,REP-007,Toyota Corolla,Bujias,68073.2,27,14
+2024-03-18,REP-007,Toyota Corolla,Bujias,67932.7,28,11
+2024-03-25,REP-007,Toyota Corolla,Bujias,67828.7,28,0
+2024-04-01,REP-007,Toyota Corolla,Bujias,65355.3,25,12
+2024-04-08,REP-007,Toyota Corolla,Bujias,64604.9,23,9
+2024-04-15,REP-007,Toyota Corolla,Bujias,66056.3,19,0
+2024-04-22,REP-007,Toyota Corolla,Bujias,66854.5,24,0
+2024-04-29,REP-007,Toyota Corolla,Bujias,67445.4,23,10
+2024-05-06,REP-007,Toyota Corolla,Bujias,66855.6,22,8
+2024-05-13,REP-007,Toyota Corolla,Bujias,66588.0,19,0
+2024-05-20,REP-007,Toyota Corolla,Bujias,64857.6,20,0
+2024-05-27,REP-007,Toyota Corolla,Bujias,64660.4,20,9
+2024-06-03,REP-007,Toyota Corolla,Bujias,65606.1,26,8
+2024-06-10,REP-007,Toyota Corolla,Bujias,65734.5,25,0
+2024-06-17,REP-007,Toyota Corolla,Bujias,65424.3,25,13
+2024-06-24,REP-007,Toyota Corolla,Bujias,65238.3,22,9
+2024-07-01,REP-007,Toyota Corolla,Bujias,64481.4,24,0
+2024-07-08,REP-007,Toyota Corolla,Bujias,65391.2,28,15
+2024-07-15,REP-007,Toyota Corolla,Bujias,65611.0,25,14
+2024-07-22,REP-007,Toyota Corolla,Bujias,66839.6,30,0
+2024-07-29,REP-007,Toyota Corolla,Bujias,66842.7,32,19
+2024-08-05,REP-007,Toyota Corolla,Bujias,65462.7,26,13
+2024-08-12,REP-007,Toyota Corolla,Bujias,65744.4,26,0
+2024-08-19,REP-007,Toyota Corolla,Bujias,66604.3,28,14
+2024-08-26,REP-007,Toyota Corolla,Bujias,65139.4,26,11
+2024-09-02,REP-007,Toyota Corolla,Bujias,65139.1,23,0
+2024-09-09,REP-007,Toyota Corolla,Bujias,64423.2,22,10
+2024-09-16,REP-007,Toyota Corolla,Bujias,63952.8,22,7
+2024-09-23,REP-007,Toyota Corolla,Bujias,64333.9,20,0
+2024-09-30,REP-007,Toyota Corolla,Bujias,64559.1,20,9
+2024-10-07,REP-007,Toyota Corolla,Bujias,63699.8,23,8
+2024-10-14,REP-007,Toyota Corolla,Bujias,65374.8,23,0
+2024-10-21,REP-007,Toyota Corolla,Bujias,63432.1,21,12
+2024-10-28,REP-007,Toyota Corolla,Bujias,63906.3,19,8
+2024-11-04,REP-007,Toyota Corolla,Bujias,64129.9,22,0
+2024-11-11,REP-007,Toyota Corolla,Bujias,61997.9,26,11
+2024-11-18,REP-007,Toyota Corolla,Bujias,64209.7,26,10
+2024-11-25,REP-007,Toyota Corolla,Bujias,64121.4,23,0
+2024-12-02,REP-007,Toyota Corolla,Bujias,63964.1,25,14
+2024-12-09,REP-007,Toyota Corolla,Bujias,65935.8,27,11
+2024-12-16,REP-007,Toyota Corolla,Bujias,65827.5,33,0
+2024-12-23,REP-007,Toyota Corolla,Bujias,66080.6,36,21
+2024-12-30,REP-007,Toyota Corolla,Bujias,66154.5,37,17
+2025-01-06,REP-007,Toyota Corolla,Bujias,66622.8,34,0
+2025-01-13,REP-007,Toyota Corolla,Bujias,67411.3,39,21
+2025-01-20,REP-007,Toyota Corolla,Bujias,68108.6,33,18
+2025-01-27,REP-007,Toyota Corolla,Bujias,67318.7,31,0
+2025-02-03,REP-007,Toyota Corolla,Bujias,67195.0,33,19
+2025-02-10,REP-007,Toyota Corolla,Bujias,67086.8,32,16
+2025-02-17,REP-007,Toyota Corolla,Bujias,67375.6,32,0
+2025-02-24,REP-007,Toyota Corolla,Bujias,67809.6,27,20
+2025-03-03,REP-007,Toyota Corolla,Bujias,65865.1,24,11
+2025-03-10,REP-007,Toyota Corolla,Bujias,65780.4,24,0
+2025-03-17,REP-007,Toyota Corolla,Bujias,66389.2,23,12
+2025-03-24,REP-007,Toyota Corolla,Bujias,65731.7,21,9
+2025-03-31,REP-007,Toyota Corolla,Bujias,65562.8,21,0
+2025-04-07,REP-007,Toyota Corolla,Bujias,64354.0,22,8
+2025-04-14,REP-007,Toyota Corolla,Bujias,64411.2,23,7
+2025-04-21,REP-007,Toyota Corolla,Bujias,62634.7,18,0
+2025-04-28,REP-007,Toyota Corolla,Bujias,62866.2,20,0
+2025-05-05,REP-007,Toyota Corolla,Bujias,63213.5,20,9
+2025-05-12,REP-007,Toyota Corolla,Bujias,64352.0,21,6
+2025-05-19,REP-007,Toyota Corolla,Bujias,63298.2,19,0
+2025-05-26,REP-007,Toyota Corolla,Bujias,63822.7,18,0
+2025-06-02,REP-007,Toyota Corolla,Bujias,63784.8,24,0
+2025-06-09,REP-007,Toyota Corolla,Bujias,62611.0,19,12
+2025-06-16,REP-007,Toyota Corolla,Bujias,62762.3,20,0
+2025-06-23,REP-007,Toyota Corolla,Bujias,63412.4,21,10
+2025-06-30,REP-007,Toyota Corolla,Bujias,64809.7,22,8
+2025-07-07,REP-007,Toyota Corolla,Bujias,64509.2,25,0
+2025-07-14,REP-007,Toyota Corolla,Bujias,63677.8,29,16
+2025-07-21,REP-007,Toyota Corolla,Bujias,64528.6,30,13
+2025-07-28,REP-007,Toyota Corolla,Bujias,66503.9,30,0
+2025-08-04,REP-007,Toyota Corolla,Bujias,68038.2,26,15
+2025-08-11,REP-007,Toyota Corolla,Bujias,66185.3,25,10
+2025-08-18,REP-007,Toyota Corolla,Bujias,64976.4,25,0
+2025-08-25,REP-007,Toyota Corolla,Bujias,65395.6,23,12
+2025-09-01,REP-007,Toyota Corolla,Bujias,64575.7,23,7
+2025-09-08,REP-007,Toyota Corolla,Bujias,65562.5,24,0
+2025-09-15,REP-007,Toyota Corolla,Bujias,65737.3,26,10
+2025-09-22,REP-007,Toyota Corolla,Bujias,63699.3,27,9
+2025-09-29,REP-007,Toyota Corolla,Bujias,63083.2,23,0
+2025-10-06,REP-007,Toyota Corolla,Bujias,63104.1,24,11
+2025-10-13,REP-007,Toyota Corolla,Bujias,65328.0,24,9
+2025-10-20,REP-007,Toyota Corolla,Bujias,65674.4,24,0
+2025-10-27,REP-007,Toyota Corolla,Bujias,65629.9,24,12
+2025-11-03,REP-007,Toyota Corolla,Bujias,65931.9,24,10
+2025-11-10,REP-007,Toyota Corolla,Bujias,67237.6,27,0
+2025-11-17,REP-007,Toyota Corolla,Bujias,67264.8,26,13
+2025-11-24,REP-007,Toyota Corolla,Bujias,66675.5,23,10
+2025-12-01,REP-007,Toyota Corolla,Bujias,67464.0,29,0
+2025-12-08,REP-007,Toyota Corolla,Bujias,68073.8,30,18
+2025-12-15,REP-007,Toyota Corolla,Bujias,68813.6,31,15
+2025-12-22,REP-007,Toyota Corolla,Bujias,67968.1,31,0
+2025-12-29,REP-007,Toyota Corolla,Bujias,65016.5,31,19
+2026-01-05,REP-007,Toyota Corolla,Bujias,62156.8,31,15
+2026-01-12,REP-007,Toyota Corolla,Bujias,63702.2,27,0
+2026-01-19,REP-007,Toyota Corolla,Bujias,63408.5,30,16
+2026-01-26,REP-007,Toyota Corolla,Bujias,65467.9,29,15
+2026-02-02,REP-007,Toyota Corolla,Bujias,67797.6,29,0
+2026-02-09,REP-007,Toyota Corolla,Bujias,67893.4,30,18
+2026-02-16,REP-007,Toyota Corolla,Bujias,67716.0,34,14
+2026-02-23,REP-007,Toyota Corolla,Bujias,67366.2,30,0
+2026-03-02,REP-007,Toyota Corolla,Bujias,65602.4,27,15
+2026-03-09,REP-007,Toyota Corolla,Bujias,64839.8,25,10
+2026-03-16,REP-007,Toyota Corolla,Bujias,64967.0,27,0
+2026-03-23,REP-007,Toyota Corolla,Bujias,64935.7,25,14
+2026-03-30,REP-007,Toyota Corolla,Bujias,65562.9,25,10
+2026-04-06,REP-007,Toyota Corolla,Bujias,64323.7,21,0
+2026-04-13,REP-007,Toyota Corolla,Bujias,63960.7,23,9
+2026-04-20,REP-007,Toyota Corolla,Bujias,64459.0,19,7
+2026-04-27,REP-007,Toyota Corolla,Bujias,63055.6,21,0
+2026-05-04,REP-007,Toyota Corolla,Bujias,64042.7,22,9
+2026-05-11,REP-007,Toyota Corolla,Bujias,64689.8,22,8
+2026-05-18,REP-007,Toyota Corolla,Bujias,64904.3,18,0
+2026-05-25,REP-007,Toyota Corolla,Bujias,64332.7,19,0
+2026-06-01,REP-007,Toyota Corolla,Bujias,65886.9,24,0
+2026-06-08,REP-007,Toyota Corolla,Bujias,66904.5,28,11
+2026-06-15,REP-007,Toyota Corolla,Bujias,66801.8,26,10
+2026-06-22,REP-007,Toyota Corolla,Bujias,66516.4,27,0
+2026-06-29,REP-007,Toyota Corolla,Bujias,66934.7,26,14
+2026-07-06,REP-007,Toyota Corolla,Bujias,66222.7,28,13
+2026-07-13,REP-007,Toyota Corolla,Bujias,66915.5,28,0
+2026-07-20,REP-007,Toyota Corolla,Bujias,67170.8,29,18
+2026-07-27,REP-007,Toyota Corolla,Bujias,66718.7,31,14
+2026-08-03,REP-007,Toyota Corolla,Bujias,66686.0,29,0
+2026-08-10,REP-007,Toyota Corolla,Bujias,67618.6,24,15
+2026-08-17,REP-007,Toyota Corolla,Bujias,65530.4,23,10
+2026-08-24,REP-007,Toyota Corolla,Bujias,64534.9,21,0
+2026-08-31,REP-007,Toyota Corolla,Bujias,64460.7,23,11
+2026-09-07,REP-007,Toyota Corolla,Bujias,64992.3,21,8
+2026-09-14,REP-007,Toyota Corolla,Bujias,65117.7,22,0
+2026-09-21,REP-007,Toyota Corolla,Bujias,65481.8,22,9
+2026-09-28,REP-007,Toyota Corolla,Bujias,64872.4,17,7
+2026-10-05,REP-007,Toyota Corolla,Bujias,64992.8,16,0
+2026-10-12,REP-007,Toyota Corolla,Bujias,65991.6,20,0
+2026-10-19,REP-007,Toyota Corolla,Bujias,65982.2,25,10
+2026-10-26,REP-007,Toyota Corolla,Bujias,66229.3,24,9
+2026-11-02,REP-007,Toyota Corolla,Bujias,65976.7,23,0
+2026-11-09,REP-007,Toyota Corolla,Bujias,65286.5,26,11
+2026-11-16,REP-007,Toyota Corolla,Bujias,65880.5,27,11
+2023-11-27,REP-008,Toyota Corolla,Amortiguador,61798.4,22,7
+2023-12-04,REP-008,Toyota Corolla,Amortiguador,63079.2,27,6
+2023-12-11,REP-008,Toyota Corolla,Amortiguador,63818.5,30,0
+2023-12-18,REP-008,Toyota Corolla,Amortiguador,64684.2,31,11
+2023-12-25,REP-008,Toyota Corolla,Amortiguador,65917.5,32,9
+2024-01-01,REP-008,Toyota Corolla,Amortiguador,64093.6,28,0
+2024-01-08,REP-008,Toyota Corolla,Amortiguador,65817.2,31,10
+2024-01-15,REP-008,Toyota Corolla,Amortiguador,64367.0,28,9
+2024-01-22,REP-008,Toyota Corolla,Amortiguador,65791.0,29,0
+2024-01-29,REP-008,Toyota Corolla,Amortiguador,66485.9,34,10
+2024-02-05,REP-008,Toyota Corolla,Amortiguador,65738.6,31,10
+2024-02-12,REP-008,Toyota Corolla,Amortiguador,65712.6,31,0
+2024-02-19,REP-008,Toyota Corolla,Amortiguador,67806.3,28,12
+2024-02-26,REP-008,Toyota Corolla,Amortiguador,68555.2,33,8
+2024-03-04,REP-008,Toyota Corolla,Amortiguador,68491.9,27,0
+2024-03-11,REP-008,Toyota Corolla,Amortiguador,68073.2,27,8
+2024-03-18,REP-008,Toyota Corolla,Amortiguador,67932.7,28,6
+2024-03-25,REP-008,Toyota Corolla,Amortiguador,67828.7,28,0
+2024-04-01,REP-008,Toyota Corolla,Amortiguador,65355.3,25,7
+2024-04-08,REP-008,Toyota Corolla,Amortiguador,64604.9,23,5
+2024-04-15,REP-008,Toyota Corolla,Amortiguador,66056.3,19,0
+2024-04-22,REP-008,Toyota Corolla,Amortiguador,66854.5,24,0
+2024-04-29,REP-008,Toyota Corolla,Amortiguador,67445.4,23,6
+2024-05-06,REP-008,Toyota Corolla,Amortiguador,66855.6,22,5
+2024-05-13,REP-008,Toyota Corolla,Amortiguador,66588.0,19,0
+2024-05-20,REP-008,Toyota Corolla,Amortiguador,64857.6,20,0
+2024-05-27,REP-008,Toyota Corolla,Amortiguador,64660.4,20,0
+2024-06-03,REP-008,Toyota Corolla,Amortiguador,65606.1,26,0
+2024-06-10,REP-008,Toyota Corolla,Amortiguador,65734.5,25,7
+2024-06-17,REP-008,Toyota Corolla,Amortiguador,65424.3,25,6
+2024-06-24,REP-008,Toyota Corolla,Amortiguador,65238.3,22,0
+2024-07-01,REP-008,Toyota Corolla,Amortiguador,64481.4,24,8
+2024-07-08,REP-008,Toyota Corolla,Amortiguador,65391.2,28,7
+2024-07-15,REP-008,Toyota Corolla,Amortiguador,65611.0,25,0
+2024-07-22,REP-008,Toyota Corolla,Amortiguador,66839.6,30,9
+2024-07-29,REP-008,Toyota Corolla,Amortiguador,66842.7,32,9
+2024-08-05,REP-008,Toyota Corolla,Amortiguador,65462.7,26,0
+2024-08-12,REP-008,Toyota Corolla,Amortiguador,65744.4,26,8
+2024-08-19,REP-008,Toyota Corolla,Amortiguador,66604.3,28,6
+2024-08-26,REP-008,Toyota Corolla,Amortiguador,65139.4,26,0
+2024-09-02,REP-008,Toyota Corolla,Amortiguador,65139.1,23,6
+2024-09-09,REP-008,Toyota Corolla,Amortiguador,64423.2,22,5
+2024-09-16,REP-008,Toyota Corolla,Amortiguador,63952.8,22,0
+2024-09-23,REP-008,Toyota Corolla,Amortiguador,64333.9,20,6
+2024-09-30,REP-008,Toyota Corolla,Amortiguador,64559.1,20,0
+2024-10-07,REP-008,Toyota Corolla,Amortiguador,63699.8,23,0
+2024-10-14,REP-008,Toyota Corolla,Amortiguador,65374.8,23,6
+2024-10-21,REP-008,Toyota Corolla,Amortiguador,63432.1,21,5
+2024-10-28,REP-008,Toyota Corolla,Amortiguador,63906.3,19,0
+2024-11-04,REP-008,Toyota Corolla,Amortiguador,64129.9,22,0
+2024-11-11,REP-008,Toyota Corolla,Amortiguador,61997.9,26,7
+2024-11-18,REP-008,Toyota Corolla,Amortiguador,64209.7,26,6
+2024-11-25,REP-008,Toyota Corolla,Amortiguador,64121.4,23,0
+2024-12-02,REP-008,Toyota Corolla,Amortiguador,63964.1,25,8
+2024-12-09,REP-008,Toyota Corolla,Amortiguador,65935.8,27,7
+2024-12-16,REP-008,Toyota Corolla,Amortiguador,65827.5,33,0
+2024-12-23,REP-008,Toyota Corolla,Amortiguador,66080.6,36,13
+2024-12-30,REP-008,Toyota Corolla,Amortiguador,66154.5,37,11
+2025-01-06,REP-008,Toyota Corolla,Amortiguador,66622.8,34,0
+2025-01-13,REP-008,Toyota Corolla,Amortiguador,67411.3,39,12
+2025-01-20,REP-008,Toyota Corolla,Amortiguador,68108.6,33,11
+2025-01-27,REP-008,Toyota Corolla,Amortiguador,67318.7,31,0
+2025-02-03,REP-008,Toyota Corolla,Amortiguador,67195.0,33,11
+2025-02-10,REP-008,Toyota Corolla,Amortiguador,67086.8,32,9
+2025-02-17,REP-008,Toyota Corolla,Amortiguador,67375.6,32,0
+2025-02-24,REP-008,Toyota Corolla,Amortiguador,67809.6,27,12
+2025-03-03,REP-008,Toyota Corolla,Amortiguador,65865.1,24,7
+2025-03-10,REP-008,Toyota Corolla,Amortiguador,65780.4,24,0
+2025-03-17,REP-008,Toyota Corolla,Amortiguador,66389.2,23,7
+2025-03-24,REP-008,Toyota Corolla,Amortiguador,65731.7,21,5
+2025-03-31,REP-008,Toyota Corolla,Amortiguador,65562.8,21,0
+2025-04-07,REP-008,Toyota Corolla,Amortiguador,64354.0,22,5
+2025-04-14,REP-008,Toyota Corolla,Amortiguador,64411.2,23,4
+2025-04-21,REP-008,Toyota Corolla,Amortiguador,62634.7,18,0
+2025-04-28,REP-008,Toyota Corolla,Amortiguador,62866.2,20,0
+2025-05-05,REP-008,Toyota Corolla,Amortiguador,63213.5,20,0
+2025-05-12,REP-008,Toyota Corolla,Amortiguador,64352.0,21,0
+2025-05-19,REP-008,Toyota Corolla,Amortiguador,63298.2,19,6
+2025-05-26,REP-008,Toyota Corolla,Amortiguador,63822.7,18,0
+2025-06-02,REP-008,Toyota Corolla,Amortiguador,63784.8,24,0
+2025-06-09,REP-008,Toyota Corolla,Amortiguador,62611.0,19,7
+2025-06-16,REP-008,Toyota Corolla,Amortiguador,62762.3,20,0
+2025-06-23,REP-008,Toyota Corolla,Amortiguador,63412.4,21,0
+2025-06-30,REP-008,Toyota Corolla,Amortiguador,64809.7,22,6
+2025-07-07,REP-008,Toyota Corolla,Amortiguador,64509.2,25,6
+2025-07-14,REP-008,Toyota Corolla,Amortiguador,63677.8,29,0
+2025-07-21,REP-008,Toyota Corolla,Amortiguador,64528.6,30,11
+2025-07-28,REP-008,Toyota Corolla,Amortiguador,66503.9,30,9
+2025-08-04,REP-008,Toyota Corolla,Amortiguador,68038.2,26,0
+2025-08-11,REP-008,Toyota Corolla,Amortiguador,66185.3,25,8
+2025-08-18,REP-008,Toyota Corolla,Amortiguador,64976.4,25,6
+2025-08-25,REP-008,Toyota Corolla,Amortiguador,65395.6,23,0
+2025-09-01,REP-008,Toyota Corolla,Amortiguador,64575.7,23,5
+2025-09-08,REP-008,Toyota Corolla,Amortiguador,65562.5,24,5
+2025-09-15,REP-008,Toyota Corolla,Amortiguador,65737.3,26,0
+2025-09-22,REP-008,Toyota Corolla,Amortiguador,63699.3,27,7
+2025-09-29,REP-008,Toyota Corolla,Amortiguador,63083.2,23,5
+2025-10-06,REP-008,Toyota Corolla,Amortiguador,63104.1,24,0
+2025-10-13,REP-008,Toyota Corolla,Amortiguador,65328.0,24,7
+2025-10-20,REP-008,Toyota Corolla,Amortiguador,65674.4,24,5
+2025-10-27,REP-008,Toyota Corolla,Amortiguador,65629.9,24,0
+2025-11-03,REP-008,Toyota Corolla,Amortiguador,65931.9,24,7
+2025-11-10,REP-008,Toyota Corolla,Amortiguador,67237.6,27,6
+2025-11-17,REP-008,Toyota Corolla,Amortiguador,67264.8,26,0
+2025-11-24,REP-008,Toyota Corolla,Amortiguador,66675.5,23,8
+2025-12-01,REP-008,Toyota Corolla,Amortiguador,67464.0,29,6
+2025-12-08,REP-008,Toyota Corolla,Amortiguador,68073.8,30,0
+2025-12-15,REP-008,Toyota Corolla,Amortiguador,68813.6,31,11
+2025-12-22,REP-008,Toyota Corolla,Amortiguador,67968.1,31,9
+2025-12-29,REP-008,Toyota Corolla,Amortiguador,65016.5,31,0
+2026-01-05,REP-008,Toyota Corolla,Amortiguador,62156.8,31,12
+2026-01-12,REP-008,Toyota Corolla,Amortiguador,63702.2,27,8
+2026-01-19,REP-008,Toyota Corolla,Amortiguador,63408.5,30,0
+2026-01-26,REP-008,Toyota Corolla,Amortiguador,65467.9,29,11
+2026-02-02,REP-008,Toyota Corolla,Amortiguador,67797.6,29,9
+2026-02-09,REP-008,Toyota Corolla,Amortiguador,67893.4,30,0
+2026-02-16,REP-008,Toyota Corolla,Amortiguador,67716.0,34,11
+2026-02-23,REP-008,Toyota Corolla,Amortiguador,67366.2,30,10
+2026-03-02,REP-008,Toyota Corolla,Amortiguador,65602.4,27,0
+2026-03-09,REP-008,Toyota Corolla,Amortiguador,64839.8,25,8
+2026-03-16,REP-008,Toyota Corolla,Amortiguador,64967.0,27,6
+2026-03-23,REP-008,Toyota Corolla,Amortiguador,64935.7,25,0
+2026-03-30,REP-008,Toyota Corolla,Amortiguador,65562.9,25,7
+2026-04-06,REP-008,Toyota Corolla,Amortiguador,64323.7,21,5
+2026-04-13,REP-008,Toyota Corolla,Amortiguador,63960.7,23,0
+2026-04-20,REP-008,Toyota Corolla,Amortiguador,64459.0,19,6
+2026-04-27,REP-008,Toyota Corolla,Amortiguador,63055.6,21,0
+2026-05-04,REP-008,Toyota Corolla,Amortiguador,64042.7,22,5
+2026-05-11,REP-008,Toyota Corolla,Amortiguador,64689.8,22,5
+2026-05-18,REP-008,Toyota Corolla,Amortiguador,64904.3,18,0
+2026-05-25,REP-008,Toyota Corolla,Amortiguador,64332.7,19,0
+2026-06-01,REP-008,Toyota Corolla,Amortiguador,65886.9,24,0
+2026-06-08,REP-008,Toyota Corolla,Amortiguador,66904.5,28,7
+2026-06-15,REP-008,Toyota Corolla,Amortiguador,66801.8,26,6
+2026-06-22,REP-008,Toyota Corolla,Amortiguador,66516.4,27,0
+2026-06-29,REP-008,Toyota Corolla,Amortiguador,66934.7,26,8
+2026-07-06,REP-008,Toyota Corolla,Amortiguador,66222.7,28,8
+2026-07-13,REP-008,Toyota Corolla,Amortiguador,66915.5,28,0
+2026-07-20,REP-008,Toyota Corolla,Amortiguador,67170.8,29,11
+2026-07-27,REP-008,Toyota Corolla,Amortiguador,66718.7,31,8
+2026-08-03,REP-008,Toyota Corolla,Amortiguador,66686.0,29,0
+2026-08-10,REP-008,Toyota Corolla,Amortiguador,67618.6,24,9
+2026-08-17,REP-008,Toyota Corolla,Amortiguador,65530.4,23,5
+2026-08-24,REP-008,Toyota Corolla,Amortiguador,64534.9,21,0
+2026-08-31,REP-008,Toyota Corolla,Amortiguador,64460.7,23,6
+2026-09-07,REP-008,Toyota Corolla,Amortiguador,64992.3,21,4
+2026-09-14,REP-008,Toyota Corolla,Amortiguador,65117.7,22,0
+2026-09-21,REP-008,Toyota Corolla,Amortiguador,65481.8,22,6
+2026-09-28,REP-008,Toyota Corolla,Amortiguador,64872.4,17,4
+2026-10-05,REP-008,Toyota Corolla,Amortiguador,64992.8,16,0
+2026-10-12,REP-008,Toyota Corolla,Amortiguador,65991.6,20,0
+2026-10-19,REP-008,Toyota Corolla,Amortiguador,65982.2,25,0
+2026-10-26,REP-008,Toyota Corolla,Amortiguador,66229.3,24,7
+2026-11-02,REP-008,Toyota Corolla,Amortiguador,65976.7,23,5
+2026-11-09,REP-008,Toyota Corolla,Amortiguador,65286.5,26,0
+2026-11-16,REP-008,Toyota Corolla,Amortiguador,65880.5,27,7
+2023-11-27,REP-009,Toyota Hilux,Filtro de aceite,88545.8,35,22
+2023-12-04,REP-009,Toyota Hilux,Filtro de aceite,88829.7,38,21
+2023-12-11,REP-009,Toyota Hilux,Filtro de aceite,90164.7,42,0
+2023-12-18,REP-009,Toyota Hilux,Filtro de aceite,93388.7,42,32
+2023-12-25,REP-009,Toyota Hilux,Filtro de aceite,93437.6,44,25
+2024-01-01,REP-009,Toyota Hilux,Filtro de aceite,93457.2,41,0
+2024-01-08,REP-009,Toyota Hilux,Filtro de aceite,93670.2,42,32
+2024-01-15,REP-009,Toyota Hilux,Filtro de aceite,95245.1,40,26
+2024-01-22,REP-009,Toyota Hilux,Filtro de aceite,97175.5,40,0
+2024-01-29,REP-009,Toyota Hilux,Filtro de aceite,98160.4,40,32
+2024-02-05,REP-009,Toyota Hilux,Filtro de aceite,98159.0,41,24
+2024-02-12,REP-009,Toyota Hilux,Filtro de aceite,96522.9,39,0
+2024-02-19,REP-009,Toyota Hilux,Filtro de aceite,96953.9,41,31
+2024-02-26,REP-009,Toyota Hilux,Filtro de aceite,95229.7,41,24
+2024-03-04,REP-009,Toyota Hilux,Filtro de aceite,93281.9,34,0
+2024-03-11,REP-009,Toyota Hilux,Filtro de aceite,93204.0,29,21
+2024-03-18,REP-009,Toyota Hilux,Filtro de aceite,93034.9,33,14
+2024-03-25,REP-009,Toyota Hilux,Filtro de aceite,92748.5,28,0
+2024-04-01,REP-009,Toyota Hilux,Filtro de aceite,94283.8,28,15
+2024-04-08,REP-009,Toyota Hilux,Filtro de aceite,93197.2,25,11
+2024-04-15,REP-009,Toyota Hilux,Filtro de aceite,93138.9,30,0
+2024-04-22,REP-009,Toyota Hilux,Filtro de aceite,92793.3,30,16
+2024-04-29,REP-009,Toyota Hilux,Filtro de aceite,93130.8,30,12
+2024-05-06,REP-009,Toyota Hilux,Filtro de aceite,93474.4,27,0
+2024-05-13,REP-009,Toyota Hilux,Filtro de aceite,93237.3,25,15
+2024-05-20,REP-009,Toyota Hilux,Filtro de aceite,92209.3,27,10
+2024-05-27,REP-009,Toyota Hilux,Filtro de aceite,91432.7,28,0
+2024-06-03,REP-009,Toyota Hilux,Filtro de aceite,91400.3,28,19
+2024-06-10,REP-009,Toyota Hilux,Filtro de aceite,91984.7,28,13
+2024-06-17,REP-009,Toyota Hilux,Filtro de aceite,92773.3,28,0
+2024-06-24,REP-009,Toyota Hilux,Filtro de aceite,92214.3,28,18
+2024-07-01,REP-009,Toyota Hilux,Filtro de aceite,94025.4,33,16
+2024-07-08,REP-009,Toyota Hilux,Filtro de aceite,94000.5,37,0
+2024-07-15,REP-009,Toyota Hilux,Filtro de aceite,92275.9,40,29
+2024-07-22,REP-009,Toyota Hilux,Filtro de aceite,94676.7,40,24
+2024-07-29,REP-009,Toyota Hilux,Filtro de aceite,94740.6,40,0
+2024-08-05,REP-009,Toyota Hilux,Filtro de aceite,95005.5,38,25
+2024-08-12,REP-009,Toyota Hilux,Filtro de aceite,92884.0,31,18
+2024-08-19,REP-009,Toyota Hilux,Filtro de aceite,92163.6,32,0
+2024-08-26,REP-009,Toyota Hilux,Filtro de aceite,91983.0,35,20
+2024-09-02,REP-009,Toyota Hilux,Filtro de aceite,90682.0,27,14
+2024-09-09,REP-009,Toyota Hilux,Filtro de aceite,90636.8,22,0
+2024-09-16,REP-009,Toyota Hilux,Filtro de aceite,90431.6,25,12
+2024-09-23,REP-009,Toyota Hilux,Filtro de aceite,91738.4,29,11
+2024-09-30,REP-009,Toyota Hilux,Filtro de aceite,89718.6,28,0
+2024-10-07,REP-009,Toyota Hilux,Filtro de aceite,90932.8,32,18
+2024-10-14,REP-009,Toyota Hilux,Filtro de aceite,92226.9,33,15
+2024-10-21,REP-009,Toyota Hilux,Filtro de aceite,94122.1,30,0
+2024-10-28,REP-009,Toyota Hilux,Filtro de aceite,94409.9,29,19
+2024-11-04,REP-009,Toyota Hilux,Filtro de aceite,93114.2,27,14
+2024-11-11,REP-009,Toyota Hilux,Filtro de aceite,92744.8,33,0
+2024-11-18,REP-009,Toyota Hilux,Filtro de aceite,92915.9,35,21
+2024-11-25,REP-009,Toyota Hilux,Filtro de aceite,94058.4,34,17
+2024-12-02,REP-009,Toyota Hilux,Filtro de aceite,92613.1,37,0
+2024-12-09,REP-009,Toyota Hilux,Filtro de aceite,93627.9,37,28
+2024-12-16,REP-009,Toyota Hilux,Filtro de aceite,92482.6,40,22
+2024-12-23,REP-009,Toyota Hilux,Filtro de aceite,92510.4,39,0
+2024-12-30,REP-009,Toyota Hilux,Filtro de aceite,91816.5,39,31
+2025-01-06,REP-009,Toyota Hilux,Filtro de aceite,91878.6,38,23
+2025-01-13,REP-009,Toyota Hilux,Filtro de aceite,93309.2,41,0
+2025-01-20,REP-009,Toyota Hilux,Filtro de aceite,93301.1,40,32
+2025-01-27,REP-009,Toyota Hilux,Filtro de aceite,92912.9,40,24
+2025-02-03,REP-009,Toyota Hilux,Filtro de aceite,92510.5,38,0
+2025-02-10,REP-009,Toyota Hilux,Filtro de aceite,92007.7,38,30
+2025-02-17,REP-009,Toyota Hilux,Filtro de aceite,93334.5,40,22
+2025-02-24,REP-009,Toyota Hilux,Filtro de aceite,93695.5,37,0
+2025-03-03,REP-009,Toyota Hilux,Filtro de aceite,93723.0,34,23
+2025-03-10,REP-009,Toyota Hilux,Filtro de aceite,92128.0,33,16
+2025-03-17,REP-009,Toyota Hilux,Filtro de aceite,92266.5,30,0
+2025-03-24,REP-009,Toyota Hilux,Filtro de aceite,90351.1,34,19
+2025-03-31,REP-009,Toyota Hilux,Filtro de aceite,91978.0,34,16
+2025-04-07,REP-009,Toyota Hilux,Filtro de aceite,92314.7,31,0
+2025-04-14,REP-009,Toyota Hilux,Filtro de aceite,91964.6,28,17
+2025-04-21,REP-009,Toyota Hilux,Filtro de aceite,89699.5,25,12
+2025-04-28,REP-009,Toyota Hilux,Filtro de aceite,89224.1,29,0
+2025-05-05,REP-009,Toyota Hilux,Filtro de aceite,88506.3,28,16
+2025-05-12,REP-009,Toyota Hilux,Filtro de aceite,89059.3,25,11
+2025-05-19,REP-009,Toyota Hilux,Filtro de aceite,89970.6,25,0
+2025-05-26,REP-009,Toyota Hilux,Filtro de aceite,90602.7,28,13
+2025-06-02,REP-009,Toyota Hilux,Filtro de aceite,92516.0,31,14
+2025-06-09,REP-009,Toyota Hilux,Filtro de aceite,92481.6,29,0
+2025-06-16,REP-009,Toyota Hilux,Filtro de aceite,93643.3,33,18
+2025-06-23,REP-009,Toyota Hilux,Filtro de aceite,93095.4,30,16
+2025-06-30,REP-009,Toyota Hilux,Filtro de aceite,93422.8,34,0
+2025-07-07,REP-009,Toyota Hilux,Filtro de aceite,93543.2,38,27
+2025-07-14,REP-009,Toyota Hilux,Filtro de aceite,94088.8,38,23
+2025-07-21,REP-009,Toyota Hilux,Filtro de aceite,94200.3,39,0
+2025-07-28,REP-009,Toyota Hilux,Filtro de aceite,93712.0,40,31
+2025-08-04,REP-009,Toyota Hilux,Filtro de aceite,96050.8,37,19
+2025-08-11,REP-009,Toyota Hilux,Filtro de aceite,95473.7,31,0
+2025-08-18,REP-009,Toyota Hilux,Filtro de aceite,95268.9,30,19
+2025-08-25,REP-009,Toyota Hilux,Filtro de aceite,95281.3,31,15
+2025-09-01,REP-009,Toyota Hilux,Filtro de aceite,94470.2,32,0
+2025-09-08,REP-009,Toyota Hilux,Filtro de aceite,91578.8,33,17
+2025-09-15,REP-009,Toyota Hilux,Filtro de aceite,91857.7,34,14
+2025-09-22,REP-009,Toyota Hilux,Filtro de aceite,90631.4,33,0
+2025-09-29,REP-009,Toyota Hilux,Filtro de aceite,90940.9,29,18
+2025-10-06,REP-009,Toyota Hilux,Filtro de aceite,91604.4,31,14
+2025-10-13,REP-009,Toyota Hilux,Filtro de aceite,90258.6,34,0
+2025-10-20,REP-009,Toyota Hilux,Filtro de aceite,90845.4,35,22
+2025-10-27,REP-009,Toyota Hilux,Filtro de aceite,89954.0,33,17
+2025-11-03,REP-009,Toyota Hilux,Filtro de aceite,88436.8,34,0
+2025-11-10,REP-009,Toyota Hilux,Filtro de aceite,88128.7,35,21
+2025-11-17,REP-009,Toyota Hilux,Filtro de aceite,89133.3,34,16
+2025-11-24,REP-009,Toyota Hilux,Filtro de aceite,89833.2,36,0
+2025-12-01,REP-009,Toyota Hilux,Filtro de aceite,90591.0,37,28
+2025-12-08,REP-009,Toyota Hilux,Filtro de aceite,92097.9,41,22
+2025-12-15,REP-009,Toyota Hilux,Filtro de aceite,92532.6,40,0
+2025-12-22,REP-009,Toyota Hilux,Filtro de aceite,93421.1,37,31
+2025-12-29,REP-009,Toyota Hilux,Filtro de aceite,94414.4,35,22
+2026-01-05,REP-009,Toyota Hilux,Filtro de aceite,96631.1,38,0
+2026-01-12,REP-009,Toyota Hilux,Filtro de aceite,96052.9,37,30
+2026-01-19,REP-009,Toyota Hilux,Filtro de aceite,96783.9,43,22
+2026-01-26,REP-009,Toyota Hilux,Filtro de aceite,96461.5,40,0
+2026-02-02,REP-009,Toyota Hilux,Filtro de aceite,96271.9,40,32
+2026-02-09,REP-009,Toyota Hilux,Filtro de aceite,95795.5,39,24
+2026-02-16,REP-009,Toyota Hilux,Filtro de aceite,95640.2,36,0
+2026-02-23,REP-009,Toyota Hilux,Filtro de aceite,95197.5,39,28
+2026-03-02,REP-009,Toyota Hilux,Filtro de aceite,95431.8,32,19
+2026-03-09,REP-009,Toyota Hilux,Filtro de aceite,94064.4,33,0
+2026-03-16,REP-009,Toyota Hilux,Filtro de aceite,92341.7,32,21
+2026-03-23,REP-009,Toyota Hilux,Filtro de aceite,91916.2,30,15
+2026-03-30,REP-009,Toyota Hilux,Filtro de aceite,91505.6,34,0
+2026-04-06,REP-009,Toyota Hilux,Filtro de aceite,90980.7,32,19
+2026-04-13,REP-009,Toyota Hilux,Filtro de aceite,90944.3,31,13
+2026-04-20,REP-009,Toyota Hilux,Filtro de aceite,90562.9,32,0
+2026-04-27,REP-009,Toyota Hilux,Filtro de aceite,89514.4,27,17
+2026-05-04,REP-009,Toyota Hilux,Filtro de aceite,88847.6,26,11
+2026-05-11,REP-009,Toyota Hilux,Filtro de aceite,89052.5,28,0
+2026-05-18,REP-009,Toyota Hilux,Filtro de aceite,88061.4,33,15
+2026-05-25,REP-009,Toyota Hilux,Filtro de aceite,87866.9,31,14
+2026-06-01,REP-009,Toyota Hilux,Filtro de aceite,89171.5,31,0
+2026-06-08,REP-009,Toyota Hilux,Filtro de aceite,90235.8,27,19
+2026-06-15,REP-009,Toyota Hilux,Filtro de aceite,90412.8,34,13
+2026-06-22,REP-009,Toyota Hilux,Filtro de aceite,91876.0,34,0
+2026-06-29,REP-009,Toyota Hilux,Filtro de aceite,91528.1,33,21
+2026-07-06,REP-009,Toyota Hilux,Filtro de aceite,92895.0,32,20
+2026-07-13,REP-009,Toyota Hilux,Filtro de aceite,92431.8,36,0
+2026-07-20,REP-009,Toyota Hilux,Filtro de aceite,92470.5,38,28
+2026-07-27,REP-009,Toyota Hilux,Filtro de aceite,93570.5,38,22
+2026-08-03,REP-009,Toyota Hilux,Filtro de aceite,94264.5,32,0
+2026-08-10,REP-009,Toyota Hilux,Filtro de aceite,93245.9,29,20
+2026-08-17,REP-009,Toyota Hilux,Filtro de aceite,94093.0,35,14
+2026-08-24,REP-009,Toyota Hilux,Filtro de aceite,92867.3,34,0
+2026-08-31,REP-009,Toyota Hilux,Filtro de aceite,92860.4,32,21
+2026-09-07,REP-009,Toyota Hilux,Filtro de aceite,92399.5,30,13
+2026-09-14,REP-009,Toyota Hilux,Filtro de aceite,91942.7,29,0
+2026-09-21,REP-009,Toyota Hilux,Filtro de aceite,91328.2,25,16
+2026-09-28,REP-009,Toyota Hilux,Filtro de aceite,90100.6,29,10
+2026-10-05,REP-009,Toyota Hilux,Filtro de aceite,89981.7,30,0
+2026-10-12,REP-009,Toyota Hilux,Filtro de aceite,90280.5,32,19
+2026-10-19,REP-009,Toyota Hilux,Filtro de aceite,91310.3,36,15
+2026-10-26,REP-009,Toyota Hilux,Filtro de aceite,92230.8,31,0
+2026-11-02,REP-009,Toyota Hilux,Filtro de aceite,91797.8,30,20
+2026-11-09,REP-009,Toyota Hilux,Filtro de aceite,91549.8,32,15
+2026-11-16,REP-009,Toyota Hilux,Filtro de aceite,91109.3,34,0
+2023-11-27,REP-010,Toyota Hilux,Pastillas de freno,88545.8,35,14
+2023-12-04,REP-010,Toyota Hilux,Pastillas de freno,88829.7,38,13
+2023-12-11,REP-010,Toyota Hilux,Pastillas de freno,90164.7,42,0
+2023-12-18,REP-010,Toyota Hilux,Pastillas de freno,93388.7,42,22
+2023-12-25,REP-010,Toyota Hilux,Pastillas de freno,93437.6,44,16
+2024-01-01,REP-010,Toyota Hilux,Pastillas de freno,93457.2,41,0
+2024-01-08,REP-010,Toyota Hilux,Pastillas de freno,93670.2,42,20
+2024-01-15,REP-010,Toyota Hilux,Pastillas de freno,95245.1,40,17
+2024-01-22,REP-010,Toyota Hilux,Pastillas de freno,97175.5,40,0
+2024-01-29,REP-010,Toyota Hilux,Pastillas de freno,98160.4,40,20
+2024-02-05,REP-010,Toyota Hilux,Pastillas de freno,98159.0,41,16
+2024-02-12,REP-010,Toyota Hilux,Pastillas de freno,96522.9,39,0
+2024-02-19,REP-010,Toyota Hilux,Pastillas de freno,96953.9,41,20
+2024-02-26,REP-010,Toyota Hilux,Pastillas de freno,95229.7,41,16
+2024-03-04,REP-010,Toyota Hilux,Pastillas de freno,93281.9,34,0
+2024-03-11,REP-010,Toyota Hilux,Pastillas de freno,93204.0,29,14
+2024-03-18,REP-010,Toyota Hilux,Pastillas de freno,93034.9,33,9
+2024-03-25,REP-010,Toyota Hilux,Pastillas de freno,92748.5,28,0
+2024-04-01,REP-010,Toyota Hilux,Pastillas de freno,94283.8,28,10
+2024-04-08,REP-010,Toyota Hilux,Pastillas de freno,93197.2,25,8
+2024-04-15,REP-010,Toyota Hilux,Pastillas de freno,93138.9,30,0
+2024-04-22,REP-010,Toyota Hilux,Pastillas de freno,92793.3,30,11
+2024-04-29,REP-010,Toyota Hilux,Pastillas de freno,93130.8,30,8
+2024-05-06,REP-010,Toyota Hilux,Pastillas de freno,93474.4,27,0
+2024-05-13,REP-010,Toyota Hilux,Pastillas de freno,93237.3,25,9
+2024-05-20,REP-010,Toyota Hilux,Pastillas de freno,92209.3,27,7
+2024-05-27,REP-010,Toyota Hilux,Pastillas de freno,91432.7,28,0
+2024-06-03,REP-010,Toyota Hilux,Pastillas de freno,91400.3,28,11
+2024-06-10,REP-010,Toyota Hilux,Pastillas de freno,91984.7,28,8
+2024-06-17,REP-010,Toyota Hilux,Pastillas de freno,92773.3,28,0
+2024-06-24,REP-010,Toyota Hilux,Pastillas de freno,92214.3,28,11
+2024-07-01,REP-010,Toyota Hilux,Pastillas de freno,94025.4,33,11
+2024-07-08,REP-010,Toyota Hilux,Pastillas de freno,94000.5,37,0
+2024-07-15,REP-010,Toyota Hilux,Pastillas de freno,92275.9,40,19
+2024-07-22,REP-010,Toyota Hilux,Pastillas de freno,94676.7,40,16
+2024-07-29,REP-010,Toyota Hilux,Pastillas de freno,94740.6,40,0
+2024-08-05,REP-010,Toyota Hilux,Pastillas de freno,95005.5,38,16
+2024-08-12,REP-010,Toyota Hilux,Pastillas de freno,92884.0,31,12
+2024-08-19,REP-010,Toyota Hilux,Pastillas de freno,92163.6,32,0
+2024-08-26,REP-010,Toyota Hilux,Pastillas de freno,91983.0,35,14
+2024-09-02,REP-010,Toyota Hilux,Pastillas de freno,90682.0,27,9
+2024-09-09,REP-010,Toyota Hilux,Pastillas de freno,90636.8,22,0
+2024-09-16,REP-010,Toyota Hilux,Pastillas de freno,90431.6,25,8
+2024-09-23,REP-010,Toyota Hilux,Pastillas de freno,91738.4,29,6
+2024-09-30,REP-010,Toyota Hilux,Pastillas de freno,89718.6,28,0
+2024-10-07,REP-010,Toyota Hilux,Pastillas de freno,90932.8,32,12
+2024-10-14,REP-010,Toyota Hilux,Pastillas de freno,92226.9,33,10
+2024-10-21,REP-010,Toyota Hilux,Pastillas de freno,94122.1,30,0
+2024-10-28,REP-010,Toyota Hilux,Pastillas de freno,94409.9,29,12
+2024-11-04,REP-010,Toyota Hilux,Pastillas de freno,93114.2,27,9
+2024-11-11,REP-010,Toyota Hilux,Pastillas de freno,92744.8,33,0
+2024-11-18,REP-010,Toyota Hilux,Pastillas de freno,92915.9,35,14
+2024-11-25,REP-010,Toyota Hilux,Pastillas de freno,94058.4,34,11
+2024-12-02,REP-010,Toyota Hilux,Pastillas de freno,92613.1,37,0
+2024-12-09,REP-010,Toyota Hilux,Pastillas de freno,93627.9,37,19
+2024-12-16,REP-010,Toyota Hilux,Pastillas de freno,92482.6,40,14
+2024-12-23,REP-010,Toyota Hilux,Pastillas de freno,92510.4,39,0
+2024-12-30,REP-010,Toyota Hilux,Pastillas de freno,91816.5,39,19
+2025-01-06,REP-010,Toyota Hilux,Pastillas de freno,91878.6,38,15
+2025-01-13,REP-010,Toyota Hilux,Pastillas de freno,93309.2,41,0
+2025-01-20,REP-010,Toyota Hilux,Pastillas de freno,93301.1,40,21
+2025-01-27,REP-010,Toyota Hilux,Pastillas de freno,92912.9,40,15
+2025-02-03,REP-010,Toyota Hilux,Pastillas de freno,92510.5,38,0
+2025-02-10,REP-010,Toyota Hilux,Pastillas de freno,92007.7,38,19
+2025-02-17,REP-010,Toyota Hilux,Pastillas de freno,93334.5,40,15
+2025-02-24,REP-010,Toyota Hilux,Pastillas de freno,93695.5,37,0
+2025-03-03,REP-010,Toyota Hilux,Pastillas de freno,93723.0,34,15
+2025-03-10,REP-010,Toyota Hilux,Pastillas de freno,92128.0,33,11
+2025-03-17,REP-010,Toyota Hilux,Pastillas de freno,92266.5,30,0
+2025-03-24,REP-010,Toyota Hilux,Pastillas de freno,90351.1,34,13
+2025-03-31,REP-010,Toyota Hilux,Pastillas de freno,91978.0,34,11
+2025-04-07,REP-010,Toyota Hilux,Pastillas de freno,92314.7,31,0
+2025-04-14,REP-010,Toyota Hilux,Pastillas de freno,91964.6,28,11
+2025-04-21,REP-010,Toyota Hilux,Pastillas de freno,89699.5,25,8
+2025-04-28,REP-010,Toyota Hilux,Pastillas de freno,89224.1,29,0
+2025-05-05,REP-010,Toyota Hilux,Pastillas de freno,88506.3,28,10
+2025-05-12,REP-010,Toyota Hilux,Pastillas de freno,89059.3,25,8
+2025-05-19,REP-010,Toyota Hilux,Pastillas de freno,89970.6,25,0
+2025-05-26,REP-010,Toyota Hilux,Pastillas de freno,90602.7,28,9
+2025-06-02,REP-010,Toyota Hilux,Pastillas de freno,92516.0,31,9
+2025-06-09,REP-010,Toyota Hilux,Pastillas de freno,92481.6,29,0
+2025-06-16,REP-010,Toyota Hilux,Pastillas de freno,93643.3,33,12
+2025-06-23,REP-010,Toyota Hilux,Pastillas de freno,93095.4,30,10
+2025-06-30,REP-010,Toyota Hilux,Pastillas de freno,93422.8,34,0
+2025-07-07,REP-010,Toyota Hilux,Pastillas de freno,93543.2,38,17
+2025-07-14,REP-010,Toyota Hilux,Pastillas de freno,94088.8,38,15
+2025-07-21,REP-010,Toyota Hilux,Pastillas de freno,94200.3,39,0
+2025-07-28,REP-010,Toyota Hilux,Pastillas de freno,93712.0,40,19
+2025-08-04,REP-010,Toyota Hilux,Pastillas de freno,96050.8,37,13
+2025-08-11,REP-010,Toyota Hilux,Pastillas de freno,95473.7,31,0
+2025-08-18,REP-010,Toyota Hilux,Pastillas de freno,95268.9,30,12
+2025-08-25,REP-010,Toyota Hilux,Pastillas de freno,95281.3,31,9
+2025-09-01,REP-010,Toyota Hilux,Pastillas de freno,94470.2,32,0
+2025-09-08,REP-010,Toyota Hilux,Pastillas de freno,91578.8,33,12
+2025-09-15,REP-010,Toyota Hilux,Pastillas de freno,91857.7,34,9
+2025-09-22,REP-010,Toyota Hilux,Pastillas de freno,90631.4,33,0
+2025-09-29,REP-010,Toyota Hilux,Pastillas de freno,90940.9,29,11
+2025-10-06,REP-010,Toyota Hilux,Pastillas de freno,91604.4,31,9
+2025-10-13,REP-010,Toyota Hilux,Pastillas de freno,90258.6,34,0
+2025-10-20,REP-010,Toyota Hilux,Pastillas de freno,90845.4,35,14
+2025-10-27,REP-010,Toyota Hilux,Pastillas de freno,89954.0,33,10
+2025-11-03,REP-010,Toyota Hilux,Pastillas de freno,88436.8,34,0
+2025-11-10,REP-010,Toyota Hilux,Pastillas de freno,88128.7,35,14
+2025-11-17,REP-010,Toyota Hilux,Pastillas de freno,89133.3,34,11
+2025-11-24,REP-010,Toyota Hilux,Pastillas de freno,89833.2,36,0
+2025-12-01,REP-010,Toyota Hilux,Pastillas de freno,90591.0,37,18
+2025-12-08,REP-010,Toyota Hilux,Pastillas de freno,92097.9,41,14
+2025-12-15,REP-010,Toyota Hilux,Pastillas de freno,92532.6,40,0
+2025-12-22,REP-010,Toyota Hilux,Pastillas de freno,93421.1,37,20
+2025-12-29,REP-010,Toyota Hilux,Pastillas de freno,94414.4,35,15
+2026-01-05,REP-010,Toyota Hilux,Pastillas de freno,96631.1,38,0
+2026-01-12,REP-010,Toyota Hilux,Pastillas de freno,96052.9,37,20
+2026-01-19,REP-010,Toyota Hilux,Pastillas de freno,96783.9,43,14
+2026-01-26,REP-010,Toyota Hilux,Pastillas de freno,96461.5,40,0
+2026-02-02,REP-010,Toyota Hilux,Pastillas de freno,96271.9,40,20
+2026-02-09,REP-010,Toyota Hilux,Pastillas de freno,95795.5,39,15
+2026-02-16,REP-010,Toyota Hilux,Pastillas de freno,95640.2,36,0
+2026-02-23,REP-010,Toyota Hilux,Pastillas de freno,95197.5,39,19
+2026-03-02,REP-010,Toyota Hilux,Pastillas de freno,95431.8,32,12
+2026-03-09,REP-010,Toyota Hilux,Pastillas de freno,94064.4,33,0
+2026-03-16,REP-010,Toyota Hilux,Pastillas de freno,92341.7,32,14
+2026-03-23,REP-010,Toyota Hilux,Pastillas de freno,91916.2,30,10
+2026-03-30,REP-010,Toyota Hilux,Pastillas de freno,91505.6,34,0
+2026-04-06,REP-010,Toyota Hilux,Pastillas de freno,90980.7,32,12
+2026-04-13,REP-010,Toyota Hilux,Pastillas de freno,90944.3,31,8
+2026-04-20,REP-010,Toyota Hilux,Pastillas de freno,90562.9,32,0
+2026-04-27,REP-010,Toyota Hilux,Pastillas de freno,89514.4,27,11
+2026-05-04,REP-010,Toyota Hilux,Pastillas de freno,88847.6,26,7
+2026-05-11,REP-010,Toyota Hilux,Pastillas de freno,89052.5,28,0
+2026-05-18,REP-010,Toyota Hilux,Pastillas de freno,88061.4,33,10
+2026-05-25,REP-010,Toyota Hilux,Pastillas de freno,87866.9,31,9
+2026-06-01,REP-010,Toyota Hilux,Pastillas de freno,89171.5,31,0
+2026-06-08,REP-010,Toyota Hilux,Pastillas de freno,90235.8,27,12
+2026-06-15,REP-010,Toyota Hilux,Pastillas de freno,90412.8,34,8
+2026-06-22,REP-010,Toyota Hilux,Pastillas de freno,91876.0,34,0
+2026-06-29,REP-010,Toyota Hilux,Pastillas de freno,91528.1,33,13
+2026-07-06,REP-010,Toyota Hilux,Pastillas de freno,92895.0,32,13
+2026-07-13,REP-010,Toyota Hilux,Pastillas de freno,92431.8,36,0
+2026-07-20,REP-010,Toyota Hilux,Pastillas de freno,92470.5,38,18
+2026-07-27,REP-010,Toyota Hilux,Pastillas de freno,93570.5,38,15
+2026-08-03,REP-010,Toyota Hilux,Pastillas de freno,94264.5,32,0
+2026-08-10,REP-010,Toyota Hilux,Pastillas de freno,93245.9,29,14
+2026-08-17,REP-010,Toyota Hilux,Pastillas de freno,94093.0,35,9
+2026-08-24,REP-010,Toyota Hilux,Pastillas de freno,92867.3,34,0
+2026-08-31,REP-010,Toyota Hilux,Pastillas de freno,92860.4,32,14
+2026-09-07,REP-010,Toyota Hilux,Pastillas de freno,92399.5,30,8
+2026-09-14,REP-010,Toyota Hilux,Pastillas de freno,91942.7,29,0
+2026-09-21,REP-010,Toyota Hilux,Pastillas de freno,91328.2,25,10
+2026-09-28,REP-010,Toyota Hilux,Pastillas de freno,90100.6,29,7
+2026-10-05,REP-010,Toyota Hilux,Pastillas de freno,89981.7,30,0
+2026-10-12,REP-010,Toyota Hilux,Pastillas de freno,90280.5,32,12
+2026-10-19,REP-010,Toyota Hilux,Pastillas de freno,91310.3,36,10
+2026-10-26,REP-010,Toyota Hilux,Pastillas de freno,92230.8,31,0
+2026-11-02,REP-010,Toyota Hilux,Pastillas de freno,91797.8,30,12
+2026-11-09,REP-010,Toyota Hilux,Pastillas de freno,91549.8,32,9
+2026-11-16,REP-010,Toyota Hilux,Pastillas de freno,91109.3,34,0
+2023-11-27,REP-011,Toyota Hilux,Bujias,88545.8,35,16
+2023-12-04,REP-011,Toyota Hilux,Bujias,88829.7,38,16
+2023-12-11,REP-011,Toyota Hilux,Bujias,90164.7,42,0
+2023-12-18,REP-011,Toyota Hilux,Bujias,93388.7,42,24
+2023-12-25,REP-011,Toyota Hilux,Bujias,93437.6,44,19
+2024-01-01,REP-011,Toyota Hilux,Bujias,93457.2,41,0
+2024-01-08,REP-011,Toyota Hilux,Bujias,93670.2,42,24
+2024-01-15,REP-011,Toyota Hilux,Bujias,95245.1,40,19
+2024-01-22,REP-011,Toyota Hilux,Bujias,97175.5,40,0
+2024-01-29,REP-011,Toyota Hilux,Bujias,98160.4,40,24
+2024-02-05,REP-011,Toyota Hilux,Bujias,98159.0,41,18
+2024-02-12,REP-011,Toyota Hilux,Bujias,96522.9,39,0
+2024-02-19,REP-011,Toyota Hilux,Bujias,96953.9,41,23
+2024-02-26,REP-011,Toyota Hilux,Bujias,95229.7,41,18
+2024-03-04,REP-011,Toyota Hilux,Bujias,93281.9,34,0
+2024-03-11,REP-011,Toyota Hilux,Bujias,93204.0,29,16
+2024-03-18,REP-011,Toyota Hilux,Bujias,93034.9,33,10
+2024-03-25,REP-011,Toyota Hilux,Bujias,92748.5,28,0
+2024-04-01,REP-011,Toyota Hilux,Bujias,94283.8,28,11
+2024-04-08,REP-011,Toyota Hilux,Bujias,93197.2,25,9
+2024-04-15,REP-011,Toyota Hilux,Bujias,93138.9,30,0
+2024-04-22,REP-011,Toyota Hilux,Bujias,92793.3,30,13
+2024-04-29,REP-011,Toyota Hilux,Bujias,93130.8,30,9
+2024-05-06,REP-011,Toyota Hilux,Bujias,93474.4,27,0
+2024-05-13,REP-011,Toyota Hilux,Bujias,93237.3,25,11
+2024-05-20,REP-011,Toyota Hilux,Bujias,92209.3,27,7
+2024-05-27,REP-011,Toyota Hilux,Bujias,91432.7,28,0
+2024-06-03,REP-011,Toyota Hilux,Bujias,91400.3,28,13
+2024-06-10,REP-011,Toyota Hilux,Bujias,91984.7,28,11
+2024-06-17,REP-011,Toyota Hilux,Bujias,92773.3,28,0
+2024-06-24,REP-011,Toyota Hilux,Bujias,92214.3,28,13
+2024-07-01,REP-011,Toyota Hilux,Bujias,94025.4,33,13
+2024-07-08,REP-011,Toyota Hilux,Bujias,94000.5,37,0
+2024-07-15,REP-011,Toyota Hilux,Bujias,92275.9,40,22
+2024-07-22,REP-011,Toyota Hilux,Bujias,94676.7,40,18
+2024-07-29,REP-011,Toyota Hilux,Bujias,94740.6,40,0
+2024-08-05,REP-011,Toyota Hilux,Bujias,95005.5,38,19
+2024-08-12,REP-011,Toyota Hilux,Bujias,92884.0,31,14
+2024-08-19,REP-011,Toyota Hilux,Bujias,92163.6,32,0
+2024-08-26,REP-011,Toyota Hilux,Bujias,91983.0,35,15
+2024-09-02,REP-011,Toyota Hilux,Bujias,90682.0,27,11
+2024-09-09,REP-011,Toyota Hilux,Bujias,90636.8,22,0
+2024-09-16,REP-011,Toyota Hilux,Bujias,90431.6,25,9
+2024-09-23,REP-011,Toyota Hilux,Bujias,91738.4,29,8
+2024-09-30,REP-011,Toyota Hilux,Bujias,89718.6,28,0
+2024-10-07,REP-011,Toyota Hilux,Bujias,90932.8,32,13
+2024-10-14,REP-011,Toyota Hilux,Bujias,92226.9,33,12
+2024-10-21,REP-011,Toyota Hilux,Bujias,94122.1,30,0
+2024-10-28,REP-011,Toyota Hilux,Bujias,94409.9,29,14
+2024-11-04,REP-011,Toyota Hilux,Bujias,93114.2,27,11
+2024-11-11,REP-011,Toyota Hilux,Bujias,92744.8,33,0
+2024-11-18,REP-011,Toyota Hilux,Bujias,92915.9,35,16
+2024-11-25,REP-011,Toyota Hilux,Bujias,94058.4,34,13
+2024-12-02,REP-011,Toyota Hilux,Bujias,92613.1,37,0
+2024-12-09,REP-011,Toyota Hilux,Bujias,93627.9,37,22
+2024-12-16,REP-011,Toyota Hilux,Bujias,92482.6,40,17
+2024-12-23,REP-011,Toyota Hilux,Bujias,92510.4,39,0
+2024-12-30,REP-011,Toyota Hilux,Bujias,91816.5,39,23
+2025-01-06,REP-011,Toyota Hilux,Bujias,91878.6,38,17
+2025-01-13,REP-011,Toyota Hilux,Bujias,93309.2,41,0
+2025-01-20,REP-011,Toyota Hilux,Bujias,93301.1,40,25
+2025-01-27,REP-011,Toyota Hilux,Bujias,92912.9,40,18
+2025-02-03,REP-011,Toyota Hilux,Bujias,92510.5,38,0
+2025-02-10,REP-011,Toyota Hilux,Bujias,92007.7,38,22
+2025-02-17,REP-011,Toyota Hilux,Bujias,93334.5,40,17
+2025-02-24,REP-011,Toyota Hilux,Bujias,93695.5,37,0
+2025-03-03,REP-011,Toyota Hilux,Bujias,93723.0,34,18
+2025-03-10,REP-011,Toyota Hilux,Bujias,92128.0,33,12
+2025-03-17,REP-011,Toyota Hilux,Bujias,92266.5,30,0
+2025-03-24,REP-011,Toyota Hilux,Bujias,90351.1,34,15
+2025-03-31,REP-011,Toyota Hilux,Bujias,91978.0,34,12
+2025-04-07,REP-011,Toyota Hilux,Bujias,92314.7,31,0
+2025-04-14,REP-011,Toyota Hilux,Bujias,91964.6,28,12
+2025-04-21,REP-011,Toyota Hilux,Bujias,89699.5,25,9
+2025-04-28,REP-011,Toyota Hilux,Bujias,89224.1,29,0
+2025-05-05,REP-011,Toyota Hilux,Bujias,88506.3,28,12
+2025-05-12,REP-011,Toyota Hilux,Bujias,89059.3,25,8
+2025-05-19,REP-011,Toyota Hilux,Bujias,89970.6,25,0
+2025-05-26,REP-011,Toyota Hilux,Bujias,90602.7,28,11
+2025-06-02,REP-011,Toyota Hilux,Bujias,92516.0,31,10
+2025-06-09,REP-011,Toyota Hilux,Bujias,92481.6,29,0
+2025-06-16,REP-011,Toyota Hilux,Bujias,93643.3,33,14
+2025-06-23,REP-011,Toyota Hilux,Bujias,93095.4,30,13
+2025-06-30,REP-011,Toyota Hilux,Bujias,93422.8,34,0
+2025-07-07,REP-011,Toyota Hilux,Bujias,93543.2,38,20
+2025-07-14,REP-011,Toyota Hilux,Bujias,94088.8,38,17
+2025-07-21,REP-011,Toyota Hilux,Bujias,94200.3,39,0
+2025-07-28,REP-011,Toyota Hilux,Bujias,93712.0,40,23
+2025-08-04,REP-011,Toyota Hilux,Bujias,96050.8,37,15
+2025-08-11,REP-011,Toyota Hilux,Bujias,95473.7,31,0
+2025-08-18,REP-011,Toyota Hilux,Bujias,95268.9,30,15
+2025-08-25,REP-011,Toyota Hilux,Bujias,95281.3,31,11
+2025-09-01,REP-011,Toyota Hilux,Bujias,94470.2,32,0
+2025-09-08,REP-011,Toyota Hilux,Bujias,91578.8,33,13
+2025-09-15,REP-011,Toyota Hilux,Bujias,91857.7,34,10
+2025-09-22,REP-011,Toyota Hilux,Bujias,90631.4,33,0
+2025-09-29,REP-011,Toyota Hilux,Bujias,90940.9,29,13
+2025-10-06,REP-011,Toyota Hilux,Bujias,91604.4,31,10
+2025-10-13,REP-011,Toyota Hilux,Bujias,90258.6,34,0
+2025-10-20,REP-011,Toyota Hilux,Bujias,90845.4,35,16
+2025-10-27,REP-011,Toyota Hilux,Bujias,89954.0,33,13
+2025-11-03,REP-011,Toyota Hilux,Bujias,88436.8,34,0
+2025-11-10,REP-011,Toyota Hilux,Bujias,88128.7,35,15
+2025-11-17,REP-011,Toyota Hilux,Bujias,89133.3,34,13
+2025-11-24,REP-011,Toyota Hilux,Bujias,89833.2,36,0
+2025-12-01,REP-011,Toyota Hilux,Bujias,90591.0,37,21
+2025-12-08,REP-011,Toyota Hilux,Bujias,92097.9,41,17
+2025-12-15,REP-011,Toyota Hilux,Bujias,92532.6,40,0
+2025-12-22,REP-011,Toyota Hilux,Bujias,93421.1,37,23
+2025-12-29,REP-011,Toyota Hilux,Bujias,94414.4,35,17
+2026-01-05,REP-011,Toyota Hilux,Bujias,96631.1,38,0
+2026-01-12,REP-011,Toyota Hilux,Bujias,96052.9,37,22
+2026-01-19,REP-011,Toyota Hilux,Bujias,96783.9,43,17
+2026-01-26,REP-011,Toyota Hilux,Bujias,96461.5,40,0
+2026-02-02,REP-011,Toyota Hilux,Bujias,96271.9,40,24
+2026-02-09,REP-011,Toyota Hilux,Bujias,95795.5,39,18
+2026-02-16,REP-011,Toyota Hilux,Bujias,95640.2,36,0
+2026-02-23,REP-011,Toyota Hilux,Bujias,95197.5,39,22
+2026-03-02,REP-011,Toyota Hilux,Bujias,95431.8,32,14
+2026-03-09,REP-011,Toyota Hilux,Bujias,94064.4,33,0
+2026-03-16,REP-011,Toyota Hilux,Bujias,92341.7,32,16
+2026-03-23,REP-011,Toyota Hilux,Bujias,91916.2,30,12
+2026-03-30,REP-011,Toyota Hilux,Bujias,91505.6,34,0
+2026-04-06,REP-011,Toyota Hilux,Bujias,90980.7,32,14
+2026-04-13,REP-011,Toyota Hilux,Bujias,90944.3,31,11
+2026-04-20,REP-011,Toyota Hilux,Bujias,90562.9,32,0
+2026-04-27,REP-011,Toyota Hilux,Bujias,89514.4,27,13
+2026-05-04,REP-011,Toyota Hilux,Bujias,88847.6,26,8
+2026-05-11,REP-011,Toyota Hilux,Bujias,89052.5,28,0
+2026-05-18,REP-011,Toyota Hilux,Bujias,88061.4,33,11
+2026-05-25,REP-011,Toyota Hilux,Bujias,87866.9,31,10
+2026-06-01,REP-011,Toyota Hilux,Bujias,89171.5,31,0
+2026-06-08,REP-011,Toyota Hilux,Bujias,90235.8,27,15
+2026-06-15,REP-011,Toyota Hilux,Bujias,90412.8,34,10
+2026-06-22,REP-011,Toyota Hilux,Bujias,91876.0,34,0
+2026-06-29,REP-011,Toyota Hilux,Bujias,91528.1,33,16
+2026-07-06,REP-011,Toyota Hilux,Bujias,92895.0,32,15
+2026-07-13,REP-011,Toyota Hilux,Bujias,92431.8,36,0
+2026-07-20,REP-011,Toyota Hilux,Bujias,92470.5,38,21
+2026-07-27,REP-011,Toyota Hilux,Bujias,93570.5,38,17
+2026-08-03,REP-011,Toyota Hilux,Bujias,94264.5,32,0
+2026-08-10,REP-011,Toyota Hilux,Bujias,93245.9,29,16
+2026-08-17,REP-011,Toyota Hilux,Bujias,94093.0,35,11
+2026-08-24,REP-011,Toyota Hilux,Bujias,92867.3,34,0
+2026-08-31,REP-011,Toyota Hilux,Bujias,92860.4,32,16
+2026-09-07,REP-011,Toyota Hilux,Bujias,92399.5,30,10
+2026-09-14,REP-011,Toyota Hilux,Bujias,91942.7,29,0
+2026-09-21,REP-011,Toyota Hilux,Bujias,91328.2,25,11
+2026-09-28,REP-011,Toyota Hilux,Bujias,90100.6,29,8
+2026-10-05,REP-011,Toyota Hilux,Bujias,89981.7,30,0
+2026-10-12,REP-011,Toyota Hilux,Bujias,90280.5,32,14
+2026-10-19,REP-011,Toyota Hilux,Bujias,91310.3,36,11
+2026-10-26,REP-011,Toyota Hilux,Bujias,92230.8,31,0
+2026-11-02,REP-011,Toyota Hilux,Bujias,91797.8,30,15
+2026-11-09,REP-011,Toyota Hilux,Bujias,91549.8,32,11
+2026-11-16,REP-011,Toyota Hilux,Bujias,91109.3,34,0
+2023-11-27,REP-012,Toyota Hilux,Amortiguador,88545.8,35,10
+2023-12-04,REP-012,Toyota Hilux,Amortiguador,88829.7,38,9
+2023-12-11,REP-012,Toyota Hilux,Amortiguador,90164.7,42,0
+2023-12-18,REP-012,Toyota Hilux,Amortiguador,93388.7,42,14
+2023-12-25,REP-012,Toyota Hilux,Amortiguador,93437.6,44,11
+2024-01-01,REP-012,Toyota Hilux,Amortiguador,93457.2,41,0
+2024-01-08,REP-012,Toyota Hilux,Amortiguador,93670.2,42,14
+2024-01-15,REP-012,Toyota Hilux,Amortiguador,95245.1,40,11
+2024-01-22,REP-012,Toyota Hilux,Amortiguador,97175.5,40,0
+2024-01-29,REP-012,Toyota Hilux,Amortiguador,98160.4,40,14
+2024-02-05,REP-012,Toyota Hilux,Amortiguador,98159.0,41,11
+2024-02-12,REP-012,Toyota Hilux,Amortiguador,96522.9,39,0
+2024-02-19,REP-012,Toyota Hilux,Amortiguador,96953.9,41,13
+2024-02-26,REP-012,Toyota Hilux,Amortiguador,95229.7,41,10
+2024-03-04,REP-012,Toyota Hilux,Amortiguador,93281.9,34,0
+2024-03-11,REP-012,Toyota Hilux,Amortiguador,93204.0,29,9
+2024-03-18,REP-012,Toyota Hilux,Amortiguador,93034.9,33,6
+2024-03-25,REP-012,Toyota Hilux,Amortiguador,92748.5,28,0
+2024-04-01,REP-012,Toyota Hilux,Amortiguador,94283.8,28,6
+2024-04-08,REP-012,Toyota Hilux,Amortiguador,93197.2,25,5
+2024-04-15,REP-012,Toyota Hilux,Amortiguador,93138.9,30,0
+2024-04-22,REP-012,Toyota Hilux,Amortiguador,92793.3,30,7
+2024-04-29,REP-012,Toyota Hilux,Amortiguador,93130.8,30,5
+2024-05-06,REP-012,Toyota Hilux,Amortiguador,93474.4,27,0
+2024-05-13,REP-012,Toyota Hilux,Amortiguador,93237.3,25,6
+2024-05-20,REP-012,Toyota Hilux,Amortiguador,92209.3,27,5
+2024-05-27,REP-012,Toyota Hilux,Amortiguador,91432.7,28,0
+2024-06-03,REP-012,Toyota Hilux,Amortiguador,91400.3,28,8
+2024-06-10,REP-012,Toyota Hilux,Amortiguador,91984.7,28,6
+2024-06-17,REP-012,Toyota Hilux,Amortiguador,92773.3,28,0
+2024-06-24,REP-012,Toyota Hilux,Amortiguador,92214.3,28,8
+2024-07-01,REP-012,Toyota Hilux,Amortiguador,94025.4,33,8
+2024-07-08,REP-012,Toyota Hilux,Amortiguador,94000.5,37,0
+2024-07-15,REP-012,Toyota Hilux,Amortiguador,92275.9,40,13
+2024-07-22,REP-012,Toyota Hilux,Amortiguador,94676.7,40,11
+2024-07-29,REP-012,Toyota Hilux,Amortiguador,94740.6,40,0
+2024-08-05,REP-012,Toyota Hilux,Amortiguador,95005.5,38,11
+2024-08-12,REP-012,Toyota Hilux,Amortiguador,92884.0,31,8
+2024-08-19,REP-012,Toyota Hilux,Amortiguador,92163.6,32,0
+2024-08-26,REP-012,Toyota Hilux,Amortiguador,91983.0,35,9
+2024-09-02,REP-012,Toyota Hilux,Amortiguador,90682.0,27,7
+2024-09-09,REP-012,Toyota Hilux,Amortiguador,90636.8,22,0
+2024-09-16,REP-012,Toyota Hilux,Amortiguador,90431.6,25,6
+2024-09-23,REP-012,Toyota Hilux,Amortiguador,91738.4,29,5
+2024-09-30,REP-012,Toyota Hilux,Amortiguador,89718.6,28,0
+2024-10-07,REP-012,Toyota Hilux,Amortiguador,90932.8,32,8
+2024-10-14,REP-012,Toyota Hilux,Amortiguador,92226.9,33,7
+2024-10-21,REP-012,Toyota Hilux,Amortiguador,94122.1,30,0
+2024-10-28,REP-012,Toyota Hilux,Amortiguador,94409.9,29,9
+2024-11-04,REP-012,Toyota Hilux,Amortiguador,93114.2,27,7
+2024-11-11,REP-012,Toyota Hilux,Amortiguador,92744.8,33,0
+2024-11-18,REP-012,Toyota Hilux,Amortiguador,92915.9,35,9
+2024-11-25,REP-012,Toyota Hilux,Amortiguador,94058.4,34,7
+2024-12-02,REP-012,Toyota Hilux,Amortiguador,92613.1,37,0
+2024-12-09,REP-012,Toyota Hilux,Amortiguador,93627.9,37,13
+2024-12-16,REP-012,Toyota Hilux,Amortiguador,92482.6,40,10
+2024-12-23,REP-012,Toyota Hilux,Amortiguador,92510.4,39,0
+2024-12-30,REP-012,Toyota Hilux,Amortiguador,91816.5,39,13
+2025-01-06,REP-012,Toyota Hilux,Amortiguador,91878.6,38,10
+2025-01-13,REP-012,Toyota Hilux,Amortiguador,93309.2,41,0
+2025-01-20,REP-012,Toyota Hilux,Amortiguador,93301.1,40,14
+2025-01-27,REP-012,Toyota Hilux,Amortiguador,92912.9,40,11
+2025-02-03,REP-012,Toyota Hilux,Amortiguador,92510.5,38,0
+2025-02-10,REP-012,Toyota Hilux,Amortiguador,92007.7,38,13
+2025-02-17,REP-012,Toyota Hilux,Amortiguador,93334.5,40,11
+2025-02-24,REP-012,Toyota Hilux,Amortiguador,93695.5,37,0
+2025-03-03,REP-012,Toyota Hilux,Amortiguador,93723.0,34,10
+2025-03-10,REP-012,Toyota Hilux,Amortiguador,92128.0,33,7
+2025-03-17,REP-012,Toyota Hilux,Amortiguador,92266.5,30,0
+2025-03-24,REP-012,Toyota Hilux,Amortiguador,90351.1,34,8
+2025-03-31,REP-012,Toyota Hilux,Amortiguador,91978.0,34,7
+2025-04-07,REP-012,Toyota Hilux,Amortiguador,92314.7,31,0
+2025-04-14,REP-012,Toyota Hilux,Amortiguador,91964.6,28,8
+2025-04-21,REP-012,Toyota Hilux,Amortiguador,89699.5,25,5
+2025-04-28,REP-012,Toyota Hilux,Amortiguador,89224.1,29,0
+2025-05-05,REP-012,Toyota Hilux,Amortiguador,88506.3,28,7
+2025-05-12,REP-012,Toyota Hilux,Amortiguador,89059.3,25,5
+2025-05-19,REP-012,Toyota Hilux,Amortiguador,89970.6,25,0
+2025-05-26,REP-012,Toyota Hilux,Amortiguador,90602.7,28,6
+2025-06-02,REP-012,Toyota Hilux,Amortiguador,92516.0,31,6
+2025-06-09,REP-012,Toyota Hilux,Amortiguador,92481.6,29,0
+2025-06-16,REP-012,Toyota Hilux,Amortiguador,93643.3,33,8
+2025-06-23,REP-012,Toyota Hilux,Amortiguador,93095.4,30,7
+2025-06-30,REP-012,Toyota Hilux,Amortiguador,93422.8,34,0
+2025-07-07,REP-012,Toyota Hilux,Amortiguador,93543.2,38,12
+2025-07-14,REP-012,Toyota Hilux,Amortiguador,94088.8,38,10
+2025-07-21,REP-012,Toyota Hilux,Amortiguador,94200.3,39,0
+2025-07-28,REP-012,Toyota Hilux,Amortiguador,93712.0,40,14
+2025-08-04,REP-012,Toyota Hilux,Amortiguador,96050.8,37,8
+2025-08-11,REP-012,Toyota Hilux,Amortiguador,95473.7,31,0
+2025-08-18,REP-012,Toyota Hilux,Amortiguador,95268.9,30,9
+2025-08-25,REP-012,Toyota Hilux,Amortiguador,95281.3,31,6
+2025-09-01,REP-012,Toyota Hilux,Amortiguador,94470.2,32,0
+2025-09-08,REP-012,Toyota Hilux,Amortiguador,91578.8,33,8
+2025-09-15,REP-012,Toyota Hilux,Amortiguador,91857.7,34,7
+2025-09-22,REP-012,Toyota Hilux,Amortiguador,90631.4,33,0
+2025-09-29,REP-012,Toyota Hilux,Amortiguador,90940.9,29,8
+2025-10-06,REP-012,Toyota Hilux,Amortiguador,91604.4,31,6
+2025-10-13,REP-012,Toyota Hilux,Amortiguador,90258.6,34,0
+2025-10-20,REP-012,Toyota Hilux,Amortiguador,90845.4,35,10
+2025-10-27,REP-012,Toyota Hilux,Amortiguador,89954.0,33,8
+2025-11-03,REP-012,Toyota Hilux,Amortiguador,88436.8,34,0
+2025-11-10,REP-012,Toyota Hilux,Amortiguador,88128.7,35,10
+2025-11-17,REP-012,Toyota Hilux,Amortiguador,89133.3,34,7
+2025-11-24,REP-012,Toyota Hilux,Amortiguador,89833.2,36,0
+2025-12-01,REP-012,Toyota Hilux,Amortiguador,90591.0,37,13
+2025-12-08,REP-012,Toyota Hilux,Amortiguador,92097.9,41,10
+2025-12-15,REP-012,Toyota Hilux,Amortiguador,92532.6,40,0
+2025-12-22,REP-012,Toyota Hilux,Amortiguador,93421.1,37,14
+2025-12-29,REP-012,Toyota Hilux,Amortiguador,94414.4,35,10
+2026-01-05,REP-012,Toyota Hilux,Amortiguador,96631.1,38,0
+2026-01-12,REP-012,Toyota Hilux,Amortiguador,96052.9,37,14
+2026-01-19,REP-012,Toyota Hilux,Amortiguador,96783.9,43,10
+2026-01-26,REP-012,Toyota Hilux,Amortiguador,96461.5,40,0
+2026-02-02,REP-012,Toyota Hilux,Amortiguador,96271.9,40,14
+2026-02-09,REP-012,Toyota Hilux,Amortiguador,95795.5,39,11
+2026-02-16,REP-012,Toyota Hilux,Amortiguador,95640.2,36,0
+2026-02-23,REP-012,Toyota Hilux,Amortiguador,95197.5,39,12
+2026-03-02,REP-012,Toyota Hilux,Amortiguador,95431.8,32,9
+2026-03-09,REP-012,Toyota Hilux,Amortiguador,94064.4,33,0
+2026-03-16,REP-012,Toyota Hilux,Amortiguador,92341.7,32,9
+2026-03-23,REP-012,Toyota Hilux,Amortiguador,91916.2,30,7
+2026-03-30,REP-012,Toyota Hilux,Amortiguador,91505.6,34,0
+2026-04-06,REP-012,Toyota Hilux,Amortiguador,90980.7,32,8
+2026-04-13,REP-012,Toyota Hilux,Amortiguador,90944.3,31,6
+2026-04-20,REP-012,Toyota Hilux,Amortiguador,90562.9,32,0
+2026-04-27,REP-012,Toyota Hilux,Amortiguador,89514.4,27,8
+2026-05-04,REP-012,Toyota Hilux,Amortiguador,88847.6,26,5
+2026-05-11,REP-012,Toyota Hilux,Amortiguador,89052.5,28,0
+2026-05-18,REP-012,Toyota Hilux,Amortiguador,88061.4,33,7
+2026-05-25,REP-012,Toyota Hilux,Amortiguador,87866.9,31,6
+2026-06-01,REP-012,Toyota Hilux,Amortiguador,89171.5,31,0
+2026-06-08,REP-012,Toyota Hilux,Amortiguador,90235.8,27,9
+2026-06-15,REP-012,Toyota Hilux,Amortiguador,90412.8,34,6
+2026-06-22,REP-012,Toyota Hilux,Amortiguador,91876.0,34,0
+2026-06-29,REP-012,Toyota Hilux,Amortiguador,91528.1,33,9
+2026-07-06,REP-012,Toyota Hilux,Amortiguador,92895.0,32,9
+2026-07-13,REP-012,Toyota Hilux,Amortiguador,92431.8,36,0
+2026-07-20,REP-012,Toyota Hilux,Amortiguador,92470.5,38,13
+2026-07-27,REP-012,Toyota Hilux,Amortiguador,93570.5,38,10
+2026-08-03,REP-012,Toyota Hilux,Amortiguador,94264.5,32,0
+2026-08-10,REP-012,Toyota Hilux,Amortiguador,93245.9,29,9
+2026-08-17,REP-012,Toyota Hilux,Amortiguador,94093.0,35,6
+2026-08-24,REP-012,Toyota Hilux,Amortiguador,92867.3,34,0
+2026-08-31,REP-012,Toyota Hilux,Amortiguador,92860.4,32,9
+2026-09-07,REP-012,Toyota Hilux,Amortiguador,92399.5,30,6
+2026-09-14,REP-012,Toyota Hilux,Amortiguador,91942.7,29,0
+2026-09-21,REP-012,Toyota Hilux,Amortiguador,91328.2,25,7
+2026-09-28,REP-012,Toyota Hilux,Amortiguador,90100.6,29,5
+2026-10-05,REP-012,Toyota Hilux,Amortiguador,89981.7,30,0
+2026-10-12,REP-012,Toyota Hilux,Amortiguador,90280.5,32,9
+2026-10-19,REP-012,Toyota Hilux,Amortiguador,91310.3,36,7
+2026-10-26,REP-012,Toyota Hilux,Amortiguador,92230.8,31,0
+2026-11-02,REP-012,Toyota Hilux,Amortiguador,91797.8,30,9
+2026-11-09,REP-012,Toyota Hilux,Amortiguador,91549.8,32,7
+2026-11-16,REP-012,Toyota Hilux,Amortiguador,91109.3,34,0
+2023-11-27,REP-013,Toyota RAV4,Filtro de aceite,58089.5,17,12
+2023-12-04,REP-013,Toyota RAV4,Filtro de aceite,58403.4,20,12
+2023-12-11,REP-013,Toyota RAV4,Filtro de aceite,59134.9,21,0
+2023-12-18,REP-013,Toyota RAV4,Filtro de aceite,60254.7,21,19
+2023-12-25,REP-013,Toyota RAV4,Filtro de aceite,61226.0,24,15
+2024-01-01,REP-013,Toyota RAV4,Filtro de aceite,62064.2,26,0
+2024-01-08,REP-013,Toyota RAV4,Filtro de aceite,64059.2,25,23
+2024-01-15,REP-013,Toyota RAV4,Filtro de aceite,61970.2,26,17
+2024-01-22,REP-013,Toyota RAV4,Filtro de aceite,60513.2,24,0
+2024-01-29,REP-013,Toyota RAV4,Filtro de aceite,60877.3,25,22
+2024-02-05,REP-013,Toyota RAV4,Filtro de aceite,63069.8,25,17
+2024-02-12,REP-013,Toyota RAV4,Filtro de aceite,63557.8,27,0
+2024-02-19,REP-013,Toyota RAV4,Filtro de aceite,62371.1,25,25
+2024-02-26,REP-013,Toyota RAV4,Filtro de aceite,62536.0,26,18
+2024-03-04,REP-013,Toyota RAV4,Filtro de aceite,61993.7,20,0
+2024-03-11,REP-013,Toyota RAV4,Filtro de aceite,61555.6,21,15
+2024-03-18,REP-013,Toyota RAV4,Filtro de aceite,60935.1,19,12
+2024-03-25,REP-013,Toyota RAV4,Filtro de aceite,61037.0,20,0
+2024-04-01,REP-013,Toyota RAV4,Filtro de aceite,61801.5,21,12
+2024-04-08,REP-013,Toyota RAV4,Filtro de aceite,60991.6,19,10
+2024-04-15,REP-013,Toyota RAV4,Filtro de aceite,61344.5,20,0
+2024-04-22,REP-013,Toyota RAV4,Filtro de aceite,61770.7,18,12
+2024-04-29,REP-013,Toyota RAV4,Filtro de aceite,62541.5,20,9
+2024-05-06,REP-013,Toyota RAV4,Filtro de aceite,61177.4,23,0
+2024-05-13,REP-013,Toyota RAV4,Filtro de aceite,60944.2,21,15
+2024-05-20,REP-013,Toyota RAV4,Filtro de aceite,60174.8,20,10
+2024-05-27,REP-013,Toyota RAV4,Filtro de aceite,60265.5,16,0
+2024-06-03,REP-013,Toyota RAV4,Filtro de aceite,60530.5,17,0
+2024-06-10,REP-013,Toyota RAV4,Filtro de aceite,59662.2,17,12
+2024-06-17,REP-013,Toyota RAV4,Filtro de aceite,60136.5,20,9
+2024-06-24,REP-013,Toyota RAV4,Filtro de aceite,62323.7,22,0
+2024-07-01,REP-013,Toyota RAV4,Filtro de aceite,62781.3,25,20
+2024-07-08,REP-013,Toyota RAV4,Filtro de aceite,61529.8,23,17
+2024-07-15,REP-013,Toyota RAV4,Filtro de aceite,60918.2,28,0
+2024-07-22,REP-013,Toyota RAV4,Filtro de aceite,61255.5,25,25
+2024-07-29,REP-013,Toyota RAV4,Filtro de aceite,60731.4,26,18
+2024-08-05,REP-013,Toyota RAV4,Filtro de aceite,61909.0,23,0
+2024-08-12,REP-013,Toyota RAV4,Filtro de aceite,60431.4,20,17
+2024-08-19,REP-013,Toyota RAV4,Filtro de aceite,61020.6,23,12
+2024-08-26,REP-013,Toyota RAV4,Filtro de aceite,59595.5,21,0
+2024-09-02,REP-013,Toyota RAV4,Filtro de aceite,59698.4,18,13
+2024-09-09,REP-013,Toyota RAV4,Filtro de aceite,58891.9,21,9
+2024-09-16,REP-013,Toyota RAV4,Filtro de aceite,59827.6,20,0
+2024-09-23,REP-013,Toyota RAV4,Filtro de aceite,60852.1,14,13
+2024-09-30,REP-013,Toyota RAV4,Filtro de aceite,60988.9,14,0
+2024-10-07,REP-013,Toyota RAV4,Filtro de aceite,61971.8,18,0
+2024-10-14,REP-013,Toyota RAV4,Filtro de aceite,59593.3,21,13
+2024-10-21,REP-013,Toyota RAV4,Filtro de aceite,60073.4,19,12
+2024-10-28,REP-013,Toyota RAV4,Filtro de aceite,60738.9,20,0
+2024-11-04,REP-013,Toyota RAV4,Filtro de aceite,61355.8,22,14
+2024-11-11,REP-013,Toyota RAV4,Filtro de aceite,59609.1,21,13
+2024-11-18,REP-013,Toyota RAV4,Filtro de aceite,60335.6,20,0
+2024-11-25,REP-013,Toyota RAV4,Filtro de aceite,61073.8,18,15
+2024-12-02,REP-013,Toyota RAV4,Filtro de aceite,61521.5,24,13
+2024-12-09,REP-013,Toyota RAV4,Filtro de aceite,60592.8,18,0
+2024-12-16,REP-013,Toyota RAV4,Filtro de aceite,60554.7,26,16
+2024-12-23,REP-013,Toyota RAV4,Filtro de aceite,62129.7,22,18
+2024-12-30,REP-013,Toyota RAV4,Filtro de aceite,63193.7,24,0
+2025-01-06,REP-013,Toyota RAV4,Filtro de aceite,63410.0,26,22
+2025-01-13,REP-013,Toyota RAV4,Filtro de aceite,63787.2,27,18
+2025-01-20,REP-013,Toyota RAV4,Filtro de aceite,64316.3,32,0
+2025-01-27,REP-013,Toyota RAV4,Filtro de aceite,64241.2,26,29
+2025-02-03,REP-013,Toyota RAV4,Filtro de aceite,64865.3,29,18
+2025-02-10,REP-013,Toyota RAV4,Filtro de aceite,65299.4,27,0
+2025-02-17,REP-013,Toyota RAV4,Filtro de aceite,66891.8,29,24
+2025-02-24,REP-013,Toyota RAV4,Filtro de aceite,65314.2,26,21
+2025-03-03,REP-013,Toyota RAV4,Filtro de aceite,63798.5,23,0
+2025-03-10,REP-013,Toyota RAV4,Filtro de aceite,60616.5,20,17
+2025-03-17,REP-013,Toyota RAV4,Filtro de aceite,61048.8,20,11
+2025-03-24,REP-013,Toyota RAV4,Filtro de aceite,62782.4,20,0
+2025-03-31,REP-013,Toyota RAV4,Filtro de aceite,63502.7,21,15
+2025-04-07,REP-013,Toyota RAV4,Filtro de aceite,63421.8,20,10
+2025-04-14,REP-013,Toyota RAV4,Filtro de aceite,63849.3,20,0
+2025-04-21,REP-013,Toyota RAV4,Filtro de aceite,63384.5,19,13
+2025-04-28,REP-013,Toyota RAV4,Filtro de aceite,62329.9,20,9
+2025-05-05,REP-013,Toyota RAV4,Filtro de aceite,63809.4,20,0
+2025-05-12,REP-013,Toyota RAV4,Filtro de aceite,63285.6,19,13
+2025-05-19,REP-013,Toyota RAV4,Filtro de aceite,63541.4,22,9
+2025-05-26,REP-013,Toyota RAV4,Filtro de aceite,60562.0,20,0
+2025-06-02,REP-013,Toyota RAV4,Filtro de aceite,58678.0,22,15
+2025-06-09,REP-013,Toyota RAV4,Filtro de aceite,59415.0,25,12
+2025-06-16,REP-013,Toyota RAV4,Filtro de aceite,59003.3,25,0
+2025-06-23,REP-013,Toyota RAV4,Filtro de aceite,59741.2,20,18
+2025-06-30,REP-013,Toyota RAV4,Filtro de aceite,59617.5,21,11
+2025-07-07,REP-013,Toyota RAV4,Filtro de aceite,62805.8,24,0
+2025-07-14,REP-013,Toyota RAV4,Filtro de aceite,63650.9,27,22
+2025-07-21,REP-013,Toyota RAV4,Filtro de aceite,64671.7,29,19
+2025-07-28,REP-013,Toyota RAV4,Filtro de aceite,62256.5,27,0
+2025-08-04,REP-013,Toyota RAV4,Filtro de aceite,62676.9,24,19
+2025-08-11,REP-013,Toyota RAV4,Filtro de aceite,62102.9,21,13
+2025-08-18,REP-013,Toyota RAV4,Filtro de aceite,63183.0,20,0
+2025-08-25,REP-013,Toyota RAV4,Filtro de aceite,63227.6,22,15
+2025-09-01,REP-013,Toyota RAV4,Filtro de aceite,62438.2,22,11
+2025-09-08,REP-013,Toyota RAV4,Filtro de aceite,60813.0,21,0
+2025-09-15,REP-013,Toyota RAV4,Filtro de aceite,60795.8,15,13
+2025-09-22,REP-013,Toyota RAV4,Filtro de aceite,61736.2,17,0
+2025-09-29,REP-013,Toyota RAV4,Filtro de aceite,62766.1,21,11
+2025-10-06,REP-013,Toyota RAV4,Filtro de aceite,62011.5,19,12
+2025-10-13,REP-013,Toyota RAV4,Filtro de aceite,64041.3,21,0
+2025-10-20,REP-013,Toyota RAV4,Filtro de aceite,64292.4,24,16
+2025-10-27,REP-013,Toyota RAV4,Filtro de aceite,62678.4,22,13
+2025-11-03,REP-013,Toyota RAV4,Filtro de aceite,61272.2,23,0
+2025-11-10,REP-013,Toyota RAV4,Filtro de aceite,61104.8,22,17
+2025-11-17,REP-013,Toyota RAV4,Filtro de aceite,60763.4,25,12
+2025-11-24,REP-013,Toyota RAV4,Filtro de aceite,61280.6,18,0
+2025-12-01,REP-013,Toyota RAV4,Filtro de aceite,61600.8,21,17
+2025-12-08,REP-013,Toyota RAV4,Filtro de aceite,61556.3,24,14
+2025-12-15,REP-013,Toyota RAV4,Filtro de aceite,60389.6,27,0
+2025-12-22,REP-013,Toyota RAV4,Filtro de aceite,61509.8,26,24
+2025-12-29,REP-013,Toyota RAV4,Filtro de aceite,60286.4,25,17
+2026-01-05,REP-013,Toyota RAV4,Filtro de aceite,61827.6,27,0
+2026-01-12,REP-013,Toyota RAV4,Filtro de aceite,60207.9,27,24
+2026-01-19,REP-013,Toyota RAV4,Filtro de aceite,59264.0,28,18
+2026-01-26,REP-013,Toyota RAV4,Filtro de aceite,59251.3,28,0
+2026-02-02,REP-013,Toyota RAV4,Filtro de aceite,59642.8,25,24
+2026-02-09,REP-013,Toyota RAV4,Filtro de aceite,59754.3,25,17
+2026-02-16,REP-013,Toyota RAV4,Filtro de aceite,60016.3,27,0
+2026-02-23,REP-013,Toyota RAV4,Filtro de aceite,60867.3,29,24
+2026-03-02,REP-013,Toyota RAV4,Filtro de aceite,60125.1,24,16
+2026-03-09,REP-013,Toyota RAV4,Filtro de aceite,60609.5,19,0
+2026-03-16,REP-013,Toyota RAV4,Filtro de aceite,58576.1,19,14
+2026-03-23,REP-013,Toyota RAV4,Filtro de aceite,58375.1,19,11
+2026-03-30,REP-013,Toyota RAV4,Filtro de aceite,57502.8,24,0
+2026-04-06,REP-013,Toyota RAV4,Filtro de aceite,59177.1,18,15
+2026-04-13,REP-013,Toyota RAV4,Filtro de aceite,58763.3,21,9
+2026-04-20,REP-013,Toyota RAV4,Filtro de aceite,59678.1,18,0
+2026-04-27,REP-013,Toyota RAV4,Filtro de aceite,58134.5,13,11
+2026-05-04,REP-013,Toyota RAV4,Filtro de aceite,60046.8,15,0
+2026-05-11,REP-013,Toyota RAV4,Filtro de aceite,60176.9,16,0
+2026-05-18,REP-013,Toyota RAV4,Filtro de aceite,62079.9,20,0
+2026-05-25,REP-013,Toyota RAV4,Filtro de aceite,61595.8,18,13
+2026-06-01,REP-013,Toyota RAV4,Filtro de aceite,60080.9,24,11
+2026-06-08,REP-013,Toyota RAV4,Filtro de aceite,59398.2,25,0
+2026-06-15,REP-013,Toyota RAV4,Filtro de aceite,59584.3,23,18
+2026-06-22,REP-013,Toyota RAV4,Filtro de aceite,59057.4,20,12
+2026-06-29,REP-013,Toyota RAV4,Filtro de aceite,60443.0,21,0
+2026-07-06,REP-013,Toyota RAV4,Filtro de aceite,60997.4,23,19
+2026-07-13,REP-013,Toyota RAV4,Filtro de aceite,60475.6,26,16
+2026-07-20,REP-013,Toyota RAV4,Filtro de aceite,61696.1,28,0
+2026-07-27,REP-013,Toyota RAV4,Filtro de aceite,61535.6,33,25
+2026-08-03,REP-013,Toyota RAV4,Filtro de aceite,62097.8,26,19
+2026-08-10,REP-013,Toyota RAV4,Filtro de aceite,61345.8,26,0
+2026-08-17,REP-013,Toyota RAV4,Filtro de aceite,61750.4,23,20
+2026-08-24,REP-013,Toyota RAV4,Filtro de aceite,61197.3,20,13
+2026-08-31,REP-013,Toyota RAV4,Filtro de aceite,62048.3,21,0
+2026-09-07,REP-013,Toyota RAV4,Filtro de aceite,59929.1,18,14
+2026-09-14,REP-013,Toyota RAV4,Filtro de aceite,58864.4,14,9
+2026-09-21,REP-013,Toyota RAV4,Filtro de aceite,59060.2,13,0
+2026-09-28,REP-013,Toyota RAV4,Filtro de aceite,58713.7,13,0
+2026-10-05,REP-013,Toyota RAV4,Filtro de aceite,58892.8,16,0
+2026-10-12,REP-013,Toyota RAV4,Filtro de aceite,60019.4,22,0
+2026-10-19,REP-013,Toyota RAV4,Filtro de aceite,59853.6,22,16
+2026-10-26,REP-013,Toyota RAV4,Filtro de aceite,60439.2,21,12
+2026-11-02,REP-013,Toyota RAV4,Filtro de aceite,59766.5,22,0
+2026-11-09,REP-013,Toyota RAV4,Filtro de aceite,58250.4,22,16
+2026-11-16,REP-013,Toyota RAV4,Filtro de aceite,59627.7,22,12
+2023-11-27,REP-014,Toyota RAV4,Pastillas de freno,58089.5,17,0
+2023-12-04,REP-014,Toyota RAV4,Pastillas de freno,58403.4,20,0
+2023-12-11,REP-014,Toyota RAV4,Pastillas de freno,59134.9,21,12
+2023-12-18,REP-014,Toyota RAV4,Pastillas de freno,60254.7,21,10
+2023-12-25,REP-014,Toyota RAV4,Pastillas de freno,61226.0,24,0
+2024-01-01,REP-014,Toyota RAV4,Pastillas de freno,62064.2,26,14
+2024-01-08,REP-014,Toyota RAV4,Pastillas de freno,64059.2,25,12
+2024-01-15,REP-014,Toyota RAV4,Pastillas de freno,61970.2,26,0
+2024-01-22,REP-014,Toyota RAV4,Pastillas de freno,60513.2,24,15
+2024-01-29,REP-014,Toyota RAV4,Pastillas de freno,60877.3,25,11
+2024-02-05,REP-014,Toyota RAV4,Pastillas de freno,63069.8,25,0
+2024-02-12,REP-014,Toyota RAV4,Pastillas de freno,63557.8,27,15
+2024-02-19,REP-014,Toyota RAV4,Pastillas de freno,62371.1,25,13
+2024-02-26,REP-014,Toyota RAV4,Pastillas de freno,62536.0,26,0
+2024-03-04,REP-014,Toyota RAV4,Pastillas de freno,61993.7,20,12
+2024-03-11,REP-014,Toyota RAV4,Pastillas de freno,61555.6,21,8
+2024-03-18,REP-014,Toyota RAV4,Pastillas de freno,60935.1,19,0
+2024-03-25,REP-014,Toyota RAV4,Pastillas de freno,61037.0,20,9
+2024-04-01,REP-014,Toyota RAV4,Pastillas de freno,61801.5,21,6
+2024-04-08,REP-014,Toyota RAV4,Pastillas de freno,60991.6,19,0
+2024-04-15,REP-014,Toyota RAV4,Pastillas de freno,61344.5,20,8
+2024-04-22,REP-014,Toyota RAV4,Pastillas de freno,61770.7,18,7
+2024-04-29,REP-014,Toyota RAV4,Pastillas de freno,62541.5,20,0
+2024-05-06,REP-014,Toyota RAV4,Pastillas de freno,61177.4,23,8
+2024-05-13,REP-014,Toyota RAV4,Pastillas de freno,60944.2,21,7
+2024-05-20,REP-014,Toyota RAV4,Pastillas de freno,60174.8,20,0
+2024-05-27,REP-014,Toyota RAV4,Pastillas de freno,60265.5,16,8
+2024-06-03,REP-014,Toyota RAV4,Pastillas de freno,60530.5,17,0
+2024-06-10,REP-014,Toyota RAV4,Pastillas de freno,59662.2,17,0
+2024-06-17,REP-014,Toyota RAV4,Pastillas de freno,60136.5,20,0
+2024-06-24,REP-014,Toyota RAV4,Pastillas de freno,62323.7,22,9
+2024-07-01,REP-014,Toyota RAV4,Pastillas de freno,62781.3,25,10
+2024-07-08,REP-014,Toyota RAV4,Pastillas de freno,61529.8,23,0
+2024-07-15,REP-014,Toyota RAV4,Pastillas de freno,60918.2,28,14
+2024-07-22,REP-014,Toyota RAV4,Pastillas de freno,61255.5,25,12
+2024-07-29,REP-014,Toyota RAV4,Pastillas de freno,60731.4,26,0
+2024-08-05,REP-014,Toyota RAV4,Pastillas de freno,61909.0,23,13
+2024-08-12,REP-014,Toyota RAV4,Pastillas de freno,60431.4,20,8
+2024-08-19,REP-014,Toyota RAV4,Pastillas de freno,61020.6,23,0
+2024-08-26,REP-014,Toyota RAV4,Pastillas de freno,59595.5,21,11
+2024-09-02,REP-014,Toyota RAV4,Pastillas de freno,59698.4,18,7
+2024-09-09,REP-014,Toyota RAV4,Pastillas de freno,58891.9,21,0
+2024-09-16,REP-014,Toyota RAV4,Pastillas de freno,59827.6,20,9
+2024-09-23,REP-014,Toyota RAV4,Pastillas de freno,60852.1,14,7
+2024-09-30,REP-014,Toyota RAV4,Pastillas de freno,60988.9,14,0
+2024-10-07,REP-014,Toyota RAV4,Pastillas de freno,61971.8,18,0
+2024-10-14,REP-014,Toyota RAV4,Pastillas de freno,59593.3,21,0
+2024-10-21,REP-014,Toyota RAV4,Pastillas de freno,60073.4,19,10
+2024-10-28,REP-014,Toyota RAV4,Pastillas de freno,60738.9,20,7
+2024-11-04,REP-014,Toyota RAV4,Pastillas de freno,61355.8,22,0
+2024-11-11,REP-014,Toyota RAV4,Pastillas de freno,59609.1,21,10
+2024-11-18,REP-014,Toyota RAV4,Pastillas de freno,60335.6,20,8
+2024-11-25,REP-014,Toyota RAV4,Pastillas de freno,61073.8,18,0
+2024-12-02,REP-014,Toyota RAV4,Pastillas de freno,61521.5,24,0
+2024-12-09,REP-014,Toyota RAV4,Pastillas de freno,60592.8,18,14
+2024-12-16,REP-014,Toyota RAV4,Pastillas de freno,60554.7,26,0
+2024-12-23,REP-014,Toyota RAV4,Pastillas de freno,62129.7,22,15
+2024-12-30,REP-014,Toyota RAV4,Pastillas de freno,63193.7,24,10
+2025-01-06,REP-014,Toyota RAV4,Pastillas de freno,63410.0,26,0
+2025-01-13,REP-014,Toyota RAV4,Pastillas de freno,63787.2,27,15
+2025-01-20,REP-014,Toyota RAV4,Pastillas de freno,64316.3,32,12
+2025-01-27,REP-014,Toyota RAV4,Pastillas de freno,64241.2,26,0
+2025-02-03,REP-014,Toyota RAV4,Pastillas de freno,64865.3,29,15
+2025-02-10,REP-014,Toyota RAV4,Pastillas de freno,65299.4,27,13
+2025-02-17,REP-014,Toyota RAV4,Pastillas de freno,66891.8,29,0
+2025-02-24,REP-014,Toyota RAV4,Pastillas de freno,65314.2,26,17
+2025-03-03,REP-014,Toyota RAV4,Pastillas de freno,63798.5,23,10
+2025-03-10,REP-014,Toyota RAV4,Pastillas de freno,60616.5,20,0
+2025-03-17,REP-014,Toyota RAV4,Pastillas de freno,61048.8,20,9
+2025-03-24,REP-014,Toyota RAV4,Pastillas de freno,62782.4,20,8
+2025-03-31,REP-014,Toyota RAV4,Pastillas de freno,63502.7,21,0
+2025-04-07,REP-014,Toyota RAV4,Pastillas de freno,63421.8,20,8
+2025-04-14,REP-014,Toyota RAV4,Pastillas de freno,63849.3,20,6
+2025-04-21,REP-014,Toyota RAV4,Pastillas de freno,63384.5,19,0
+2025-04-28,REP-014,Toyota RAV4,Pastillas de freno,62329.9,20,8
+2025-05-05,REP-014,Toyota RAV4,Pastillas de freno,63809.4,20,6
+2025-05-12,REP-014,Toyota RAV4,Pastillas de freno,63285.6,19,0
+2025-05-19,REP-014,Toyota RAV4,Pastillas de freno,63541.4,22,8
+2025-05-26,REP-014,Toyota RAV4,Pastillas de freno,60562.0,20,7
+2025-06-02,REP-014,Toyota RAV4,Pastillas de freno,58678.0,22,0
+2025-06-09,REP-014,Toyota RAV4,Pastillas de freno,59415.0,25,11
+2025-06-16,REP-014,Toyota RAV4,Pastillas de freno,59003.3,25,10
+2025-06-23,REP-014,Toyota RAV4,Pastillas de freno,59741.2,20,0
+2025-06-30,REP-014,Toyota RAV4,Pastillas de freno,59617.5,21,9
+2025-07-07,REP-014,Toyota RAV4,Pastillas de freno,62805.8,24,9
+2025-07-14,REP-014,Toyota RAV4,Pastillas de freno,63650.9,27,0
+2025-07-21,REP-014,Toyota RAV4,Pastillas de freno,64671.7,29,16
+2025-07-28,REP-014,Toyota RAV4,Pastillas de freno,62256.5,27,13
+2025-08-04,REP-014,Toyota RAV4,Pastillas de freno,62676.9,24,0
+2025-08-11,REP-014,Toyota RAV4,Pastillas de freno,62102.9,21,11
+2025-08-18,REP-014,Toyota RAV4,Pastillas de freno,63183.0,20,8
+2025-08-25,REP-014,Toyota RAV4,Pastillas de freno,63227.6,22,0
+2025-09-01,REP-014,Toyota RAV4,Pastillas de freno,62438.2,22,9
+2025-09-08,REP-014,Toyota RAV4,Pastillas de freno,60813.0,21,7
+2025-09-15,REP-014,Toyota RAV4,Pastillas de freno,60795.8,15,0
+2025-09-22,REP-014,Toyota RAV4,Pastillas de freno,61736.2,17,0
+2025-09-29,REP-014,Toyota RAV4,Pastillas de freno,62766.1,21,0
+2025-10-06,REP-014,Toyota RAV4,Pastillas de freno,62011.5,19,10
+2025-10-13,REP-014,Toyota RAV4,Pastillas de freno,64041.3,21,7
+2025-10-20,REP-014,Toyota RAV4,Pastillas de freno,64292.4,24,0
+2025-10-27,REP-014,Toyota RAV4,Pastillas de freno,62678.4,22,12
+2025-11-03,REP-014,Toyota RAV4,Pastillas de freno,61272.2,23,8
+2025-11-10,REP-014,Toyota RAV4,Pastillas de freno,61104.8,22,0
+2025-11-17,REP-014,Toyota RAV4,Pastillas de freno,60763.4,25,11
+2025-11-24,REP-014,Toyota RAV4,Pastillas de freno,61280.6,18,9
+2025-12-01,REP-014,Toyota RAV4,Pastillas de freno,61600.8,21,0
+2025-12-08,REP-014,Toyota RAV4,Pastillas de freno,61556.3,24,12
+2025-12-15,REP-014,Toyota RAV4,Pastillas de freno,60389.6,27,10
+2025-12-22,REP-014,Toyota RAV4,Pastillas de freno,61509.8,26,0
+2025-12-29,REP-014,Toyota RAV4,Pastillas de freno,60286.4,25,16
+2026-01-05,REP-014,Toyota RAV4,Pastillas de freno,61827.6,27,11
+2026-01-12,REP-014,Toyota RAV4,Pastillas de freno,60207.9,27,0
+2026-01-19,REP-014,Toyota RAV4,Pastillas de freno,59264.0,28,16
+2026-01-26,REP-014,Toyota RAV4,Pastillas de freno,59251.3,28,12
+2026-02-02,REP-014,Toyota RAV4,Pastillas de freno,59642.8,25,0
+2026-02-09,REP-014,Toyota RAV4,Pastillas de freno,59754.3,25,15
+2026-02-16,REP-014,Toyota RAV4,Pastillas de freno,60016.3,27,12
+2026-02-23,REP-014,Toyota RAV4,Pastillas de freno,60867.3,29,0
+2026-03-02,REP-014,Toyota RAV4,Pastillas de freno,60125.1,24,13
+2026-03-09,REP-014,Toyota RAV4,Pastillas de freno,60609.5,19,8
+2026-03-16,REP-014,Toyota RAV4,Pastillas de freno,58576.1,19,0
+2026-03-23,REP-014,Toyota RAV4,Pastillas de freno,58375.1,19,9
+2026-03-30,REP-014,Toyota RAV4,Pastillas de freno,57502.8,24,7
+2026-04-06,REP-014,Toyota RAV4,Pastillas de freno,59177.1,18,0
+2026-04-13,REP-014,Toyota RAV4,Pastillas de freno,58763.3,21,0
+2026-04-20,REP-014,Toyota RAV4,Pastillas de freno,59678.1,18,9
+2026-04-27,REP-014,Toyota RAV4,Pastillas de freno,58134.5,13,0
+2026-05-04,REP-014,Toyota RAV4,Pastillas de freno,60046.8,15,0
+2026-05-11,REP-014,Toyota RAV4,Pastillas de freno,60176.9,16,0
+2026-05-18,REP-014,Toyota RAV4,Pastillas de freno,62079.9,20,0
+2026-05-25,REP-014,Toyota RAV4,Pastillas de freno,61595.8,18,8
+2026-06-01,REP-014,Toyota RAV4,Pastillas de freno,60080.9,24,0
+2026-06-08,REP-014,Toyota RAV4,Pastillas de freno,59398.2,25,11
+2026-06-15,REP-014,Toyota RAV4,Pastillas de freno,59584.3,23,9
+2026-06-22,REP-014,Toyota RAV4,Pastillas de freno,59057.4,20,0
+2026-06-29,REP-014,Toyota RAV4,Pastillas de freno,60443.0,21,9
+2026-07-06,REP-014,Toyota RAV4,Pastillas de freno,60997.4,23,10
+2026-07-13,REP-014,Toyota RAV4,Pastillas de freno,60475.6,26,0
+2026-07-20,REP-014,Toyota RAV4,Pastillas de freno,61696.1,28,15
+2026-07-27,REP-014,Toyota RAV4,Pastillas de freno,61535.6,33,12
+2026-08-03,REP-014,Toyota RAV4,Pastillas de freno,62097.8,26,0
+2026-08-10,REP-014,Toyota RAV4,Pastillas de freno,61345.8,26,12
+2026-08-17,REP-014,Toyota RAV4,Pastillas de freno,61750.4,23,9
+2026-08-24,REP-014,Toyota RAV4,Pastillas de freno,61197.3,20,0
+2026-08-31,REP-014,Toyota RAV4,Pastillas de freno,62048.3,21,9
+2026-09-07,REP-014,Toyota RAV4,Pastillas de freno,59929.1,18,7
+2026-09-14,REP-014,Toyota RAV4,Pastillas de freno,58864.4,14,0
+2026-09-21,REP-014,Toyota RAV4,Pastillas de freno,59060.2,13,0
+2026-09-28,REP-014,Toyota RAV4,Pastillas de freno,58713.7,13,0
+2026-10-05,REP-014,Toyota RAV4,Pastillas de freno,58892.8,16,0
+2026-10-12,REP-014,Toyota RAV4,Pastillas de freno,60019.4,22,0
+2026-10-19,REP-014,Toyota RAV4,Pastillas de freno,59853.6,22,10
+2026-10-26,REP-014,Toyota RAV4,Pastillas de freno,60439.2,21,8
+2026-11-02,REP-014,Toyota RAV4,Pastillas de freno,59766.5,22,0
+2026-11-09,REP-014,Toyota RAV4,Pastillas de freno,58250.4,22,10
+2026-11-16,REP-014,Toyota RAV4,Pastillas de freno,59627.7,22,8
+2023-11-27,REP-015,Toyota RAV4,Bujias,58089.5,17,0
+2023-12-04,REP-015,Toyota RAV4,Bujias,58403.4,20,0
+2023-12-11,REP-015,Toyota RAV4,Bujias,59134.9,21,14
+2023-12-18,REP-015,Toyota RAV4,Bujias,60254.7,21,11
+2023-12-25,REP-015,Toyota RAV4,Bujias,61226.0,24,0
+2024-01-01,REP-015,Toyota RAV4,Bujias,62064.2,26,16
+2024-01-08,REP-015,Toyota RAV4,Bujias,64059.2,25,14
+2024-01-15,REP-015,Toyota RAV4,Bujias,61970.2,26,0
+2024-01-22,REP-015,Toyota RAV4,Bujias,60513.2,24,18
+2024-01-29,REP-015,Toyota RAV4,Bujias,60877.3,25,13
+2024-02-05,REP-015,Toyota RAV4,Bujias,63069.8,25,0
+2024-02-12,REP-015,Toyota RAV4,Bujias,63557.8,27,18
+2024-02-19,REP-015,Toyota RAV4,Bujias,62371.1,25,14
+2024-02-26,REP-015,Toyota RAV4,Bujias,62536.0,26,0
+2024-03-04,REP-015,Toyota RAV4,Bujias,61993.7,20,14
+2024-03-11,REP-015,Toyota RAV4,Bujias,61555.6,21,9
+2024-03-18,REP-015,Toyota RAV4,Bujias,60935.1,19,0
+2024-03-25,REP-015,Toyota RAV4,Bujias,61037.0,20,0
+2024-04-01,REP-015,Toyota RAV4,Bujias,61801.5,21,10
+2024-04-08,REP-015,Toyota RAV4,Bujias,60991.6,19,8
+2024-04-15,REP-015,Toyota RAV4,Bujias,61344.5,20,0
+2024-04-22,REP-015,Toyota RAV4,Bujias,61770.7,18,10
+2024-04-29,REP-015,Toyota RAV4,Bujias,62541.5,20,0
+2024-05-06,REP-015,Toyota RAV4,Bujias,61177.4,23,9
+2024-05-13,REP-015,Toyota RAV4,Bujias,60944.2,21,8
+2024-05-20,REP-015,Toyota RAV4,Bujias,60174.8,20,0
+2024-05-27,REP-015,Toyota RAV4,Bujias,60265.5,16,9
+2024-06-03,REP-015,Toyota RAV4,Bujias,60530.5,17,0
+2024-06-10,REP-015,Toyota RAV4,Bujias,59662.2,17,0
+2024-06-17,REP-015,Toyota RAV4,Bujias,60136.5,20,0
+2024-06-24,REP-015,Toyota RAV4,Bujias,62323.7,22,10
+2024-07-01,REP-015,Toyota RAV4,Bujias,62781.3,25,11
+2024-07-08,REP-015,Toyota RAV4,Bujias,61529.8,23,0
+2024-07-15,REP-015,Toyota RAV4,Bujias,60918.2,28,16
+2024-07-22,REP-015,Toyota RAV4,Bujias,61255.5,25,14
+2024-07-29,REP-015,Toyota RAV4,Bujias,60731.4,26,0
+2024-08-05,REP-015,Toyota RAV4,Bujias,61909.0,23,14
+2024-08-12,REP-015,Toyota RAV4,Bujias,60431.4,20,9
+2024-08-19,REP-015,Toyota RAV4,Bujias,61020.6,23,0
+2024-08-26,REP-015,Toyota RAV4,Bujias,59595.5,21,13
+2024-09-02,REP-015,Toyota RAV4,Bujias,59698.4,18,7
+2024-09-09,REP-015,Toyota RAV4,Bujias,58891.9,21,0
+2024-09-16,REP-015,Toyota RAV4,Bujias,59827.6,20,10
+2024-09-23,REP-015,Toyota RAV4,Bujias,60852.1,14,8
+2024-09-30,REP-015,Toyota RAV4,Bujias,60988.9,14,0
+2024-10-07,REP-015,Toyota RAV4,Bujias,61971.8,18,0
+2024-10-14,REP-015,Toyota RAV4,Bujias,59593.3,21,0
+2024-10-21,REP-015,Toyota RAV4,Bujias,60073.4,19,12
+2024-10-28,REP-015,Toyota RAV4,Bujias,60738.9,20,0
+2024-11-04,REP-015,Toyota RAV4,Bujias,61355.8,22,11
+2024-11-11,REP-015,Toyota RAV4,Bujias,59609.1,21,9
+2024-11-18,REP-015,Toyota RAV4,Bujias,60335.6,20,0
+2024-11-25,REP-015,Toyota RAV4,Bujias,61073.8,18,11
+2024-12-02,REP-015,Toyota RAV4,Bujias,61521.5,24,0
+2024-12-09,REP-015,Toyota RAV4,Bujias,60592.8,18,17
+2024-12-16,REP-015,Toyota RAV4,Bujias,60554.7,26,0
+2024-12-23,REP-015,Toyota RAV4,Bujias,62129.7,22,17
+2024-12-30,REP-015,Toyota RAV4,Bujias,63193.7,24,12
+2025-01-06,REP-015,Toyota RAV4,Bujias,63410.0,26,0
+2025-01-13,REP-015,Toyota RAV4,Bujias,63787.2,27,18
+2025-01-20,REP-015,Toyota RAV4,Bujias,64316.3,32,14
+2025-01-27,REP-015,Toyota RAV4,Bujias,64241.2,26,0
+2025-02-03,REP-015,Toyota RAV4,Bujias,64865.3,29,18
+2025-02-10,REP-015,Toyota RAV4,Bujias,65299.4,27,15
+2025-02-17,REP-015,Toyota RAV4,Bujias,66891.8,29,0
+2025-02-24,REP-015,Toyota RAV4,Bujias,65314.2,26,19
+2025-03-03,REP-015,Toyota RAV4,Bujias,63798.5,23,11
+2025-03-10,REP-015,Toyota RAV4,Bujias,60616.5,20,0
+2025-03-17,REP-015,Toyota RAV4,Bujias,61048.8,20,11
+2025-03-24,REP-015,Toyota RAV4,Bujias,62782.4,20,8
+2025-03-31,REP-015,Toyota RAV4,Bujias,63502.7,21,0
+2025-04-07,REP-015,Toyota RAV4,Bujias,63421.8,20,10
+2025-04-14,REP-015,Toyota RAV4,Bujias,63849.3,20,7
+2025-04-21,REP-015,Toyota RAV4,Bujias,63384.5,19,0
+2025-04-28,REP-015,Toyota RAV4,Bujias,62329.9,20,0
+2025-05-05,REP-015,Toyota RAV4,Bujias,63809.4,20,9
+2025-05-12,REP-015,Toyota RAV4,Bujias,63285.6,19,7
+2025-05-19,REP-015,Toyota RAV4,Bujias,63541.4,22,0
+2025-05-26,REP-015,Toyota RAV4,Bujias,60562.0,20,10
+2025-06-02,REP-015,Toyota RAV4,Bujias,58678.0,22,8
+2025-06-09,REP-015,Toyota RAV4,Bujias,59415.0,25,0
+2025-06-16,REP-015,Toyota RAV4,Bujias,59003.3,25,14
+2025-06-23,REP-015,Toyota RAV4,Bujias,59741.2,20,11
+2025-06-30,REP-015,Toyota RAV4,Bujias,59617.5,21,0
+2025-07-07,REP-015,Toyota RAV4,Bujias,62805.8,24,14
+2025-07-14,REP-015,Toyota RAV4,Bujias,63650.9,27,13
+2025-07-21,REP-015,Toyota RAV4,Bujias,64671.7,29,0
+2025-07-28,REP-015,Toyota RAV4,Bujias,62256.5,27,20
+2025-08-04,REP-015,Toyota RAV4,Bujias,62676.9,24,11
+2025-08-11,REP-015,Toyota RAV4,Bujias,62102.9,21,0
+2025-08-18,REP-015,Toyota RAV4,Bujias,63183.0,20,12
+2025-08-25,REP-015,Toyota RAV4,Bujias,63227.6,22,8
+2025-09-01,REP-015,Toyota RAV4,Bujias,62438.2,22,0
+2025-09-08,REP-015,Toyota RAV4,Bujias,60813.0,21,10
+2025-09-15,REP-015,Toyota RAV4,Bujias,60795.8,15,7
+2025-09-22,REP-015,Toyota RAV4,Bujias,61736.2,17,0
+2025-09-29,REP-015,Toyota RAV4,Bujias,62766.1,21,0
+2025-10-06,REP-015,Toyota RAV4,Bujias,62011.5,19,12
+2025-10-13,REP-015,Toyota RAV4,Bujias,64041.3,21,0
+2025-10-20,REP-015,Toyota RAV4,Bujias,64292.4,24,12
+2025-10-27,REP-015,Toyota RAV4,Bujias,62678.4,22,10
+2025-11-03,REP-015,Toyota RAV4,Bujias,61272.2,23,0
+2025-11-10,REP-015,Toyota RAV4,Bujias,61104.8,22,12
+2025-11-17,REP-015,Toyota RAV4,Bujias,60763.4,25,9
+2025-11-24,REP-015,Toyota RAV4,Bujias,61280.6,18,0
+2025-12-01,REP-015,Toyota RAV4,Bujias,61600.8,21,0
+2025-12-08,REP-015,Toyota RAV4,Bujias,61556.3,24,15
+2025-12-15,REP-015,Toyota RAV4,Bujias,60389.6,27,12
+2025-12-22,REP-015,Toyota RAV4,Bujias,61509.8,26,0
+2025-12-29,REP-015,Toyota RAV4,Bujias,60286.4,25,18
+2026-01-05,REP-015,Toyota RAV4,Bujias,61827.6,27,13
+2026-01-12,REP-015,Toyota RAV4,Bujias,60207.9,27,0
+2026-01-19,REP-015,Toyota RAV4,Bujias,59264.0,28,18
+2026-01-26,REP-015,Toyota RAV4,Bujias,59251.3,28,14
+2026-02-02,REP-015,Toyota RAV4,Bujias,59642.8,25,0
+2026-02-09,REP-015,Toyota RAV4,Bujias,59754.3,25,18
+2026-02-16,REP-015,Toyota RAV4,Bujias,60016.3,27,13
+2026-02-23,REP-015,Toyota RAV4,Bujias,60867.3,29,0
+2026-03-02,REP-015,Toyota RAV4,Bujias,60125.1,24,16
+2026-03-09,REP-015,Toyota RAV4,Bujias,60609.5,19,10
+2026-03-16,REP-015,Toyota RAV4,Bujias,58576.1,19,0
+2026-03-23,REP-015,Toyota RAV4,Bujias,58375.1,19,0
+2026-03-30,REP-015,Toyota RAV4,Bujias,57502.8,24,0
+2026-04-06,REP-015,Toyota RAV4,Bujias,59177.1,18,11
+2026-04-13,REP-015,Toyota RAV4,Bujias,58763.3,21,0
+2026-04-20,REP-015,Toyota RAV4,Bujias,59678.1,18,9
+2026-04-27,REP-015,Toyota RAV4,Bujias,58134.5,13,0
+2026-05-04,REP-015,Toyota RAV4,Bujias,60046.8,15,0
+2026-05-11,REP-015,Toyota RAV4,Bujias,60176.9,16,0
+2026-05-18,REP-015,Toyota RAV4,Bujias,62079.9,20,0
+2026-05-25,REP-015,Toyota RAV4,Bujias,61595.8,18,10
+2026-06-01,REP-015,Toyota RAV4,Bujias,60080.9,24,0
+2026-06-08,REP-015,Toyota RAV4,Bujias,59398.2,25,13
+2026-06-15,REP-015,Toyota RAV4,Bujias,59584.3,23,11
+2026-06-22,REP-015,Toyota RAV4,Bujias,59057.4,20,0
+2026-06-29,REP-015,Toyota RAV4,Bujias,60443.0,21,11
+2026-07-06,REP-015,Toyota RAV4,Bujias,60997.4,23,11
+2026-07-13,REP-015,Toyota RAV4,Bujias,60475.6,26,0
+2026-07-20,REP-015,Toyota RAV4,Bujias,61696.1,28,18
+2026-07-27,REP-015,Toyota RAV4,Bujias,61535.6,33,15
+2026-08-03,REP-015,Toyota RAV4,Bujias,62097.8,26,0
+2026-08-10,REP-015,Toyota RAV4,Bujias,61345.8,26,14
+2026-08-17,REP-015,Toyota RAV4,Bujias,61750.4,23,10
+2026-08-24,REP-015,Toyota RAV4,Bujias,61197.3,20,0
+2026-08-31,REP-015,Toyota RAV4,Bujias,62048.3,21,11
+2026-09-07,REP-015,Toyota RAV4,Bujias,59929.1,18,8
+2026-09-14,REP-015,Toyota RAV4,Bujias,58864.4,14,0
+2026-09-21,REP-015,Toyota RAV4,Bujias,59060.2,13,0
+2026-09-28,REP-015,Toyota RAV4,Bujias,58713.7,13,0
+2026-10-05,REP-015,Toyota RAV4,Bujias,58892.8,16,0
+2026-10-12,REP-015,Toyota RAV4,Bujias,60019.4,22,0
+2026-10-19,REP-015,Toyota RAV4,Bujias,59853.6,22,12
+2026-10-26,REP-015,Toyota RAV4,Bujias,60439.2,21,9
+2026-11-02,REP-015,Toyota RAV4,Bujias,59766.5,22,0
+2026-11-09,REP-015,Toyota RAV4,Bujias,58250.4,22,12
+2026-11-16,REP-015,Toyota RAV4,Bujias,59627.7,22,9
+2023-11-27,REP-016,Toyota RAV4,Amortiguador,58089.5,17,0
+2023-12-04,REP-016,Toyota RAV4,Amortiguador,58403.4,20,0
+2023-12-11,REP-016,Toyota RAV4,Amortiguador,59134.9,21,0
+2023-12-18,REP-016,Toyota RAV4,Amortiguador,60254.7,21,9
+2023-12-25,REP-016,Toyota RAV4,Amortiguador,61226.0,24,6
+2024-01-01,REP-016,Toyota RAV4,Amortiguador,62064.2,26,0
+2024-01-08,REP-016,Toyota RAV4,Amortiguador,64059.2,25,10
+2024-01-15,REP-016,Toyota RAV4,Amortiguador,61970.2,26,8
+2024-01-22,REP-016,Toyota RAV4,Amortiguador,60513.2,24,0
+2024-01-29,REP-016,Toyota RAV4,Amortiguador,60877.3,25,10
+2024-02-05,REP-016,Toyota RAV4,Amortiguador,63069.8,25,7
+2024-02-12,REP-016,Toyota RAV4,Amortiguador,63557.8,27,0
+2024-02-19,REP-016,Toyota RAV4,Amortiguador,62371.1,25,11
+2024-02-26,REP-016,Toyota RAV4,Amortiguador,62536.0,26,7
+2024-03-04,REP-016,Toyota RAV4,Amortiguador,61993.7,20,0
+2024-03-11,REP-016,Toyota RAV4,Amortiguador,61555.6,21,0
+2024-03-18,REP-016,Toyota RAV4,Amortiguador,60935.1,19,7
+2024-03-25,REP-016,Toyota RAV4,Amortiguador,61037.0,20,0
+2024-04-01,REP-016,Toyota RAV4,Amortiguador,61801.5,21,0
+2024-04-08,REP-016,Toyota RAV4,Amortiguador,60991.6,19,6
+2024-04-15,REP-016,Toyota RAV4,Amortiguador,61344.5,20,0
+2024-04-22,REP-016,Toyota RAV4,Amortiguador,61770.7,18,0
+2024-04-29,REP-016,Toyota RAV4,Amortiguador,62541.5,20,0
+2024-05-06,REP-016,Toyota RAV4,Amortiguador,61177.4,23,0
+2024-05-13,REP-016,Toyota RAV4,Amortiguador,60944.2,21,7
+2024-05-20,REP-016,Toyota RAV4,Amortiguador,60174.8,20,5
+2024-05-27,REP-016,Toyota RAV4,Amortiguador,60265.5,16,0
+2024-06-03,REP-016,Toyota RAV4,Amortiguador,60530.5,17,0
+2024-06-10,REP-016,Toyota RAV4,Amortiguador,59662.2,17,0
+2024-06-17,REP-016,Toyota RAV4,Amortiguador,60136.5,20,0
+2024-06-24,REP-016,Toyota RAV4,Amortiguador,62323.7,22,0
+2024-07-01,REP-016,Toyota RAV4,Amortiguador,62781.3,25,9
+2024-07-08,REP-016,Toyota RAV4,Amortiguador,61529.8,23,8
+2024-07-15,REP-016,Toyota RAV4,Amortiguador,60918.2,28,0
+2024-07-22,REP-016,Toyota RAV4,Amortiguador,61255.5,25,11
+2024-07-29,REP-016,Toyota RAV4,Amortiguador,60731.4,26,8
+2024-08-05,REP-016,Toyota RAV4,Amortiguador,61909.0,23,0
+2024-08-12,REP-016,Toyota RAV4,Amortiguador,60431.4,20,8
+2024-08-19,REP-016,Toyota RAV4,Amortiguador,61020.6,23,0
+2024-08-26,REP-016,Toyota RAV4,Amortiguador,59595.5,21,8
+2024-09-02,REP-016,Toyota RAV4,Amortiguador,59698.4,18,4
+2024-09-09,REP-016,Toyota RAV4,Amortiguador,58891.9,21,0
+2024-09-16,REP-016,Toyota RAV4,Amortiguador,59827.6,20,6
+2024-09-23,REP-016,Toyota RAV4,Amortiguador,60852.1,14,0
+2024-09-30,REP-016,Toyota RAV4,Amortiguador,60988.9,14,0
+2024-10-07,REP-016,Toyota RAV4,Amortiguador,61971.8,18,0
+2024-10-14,REP-016,Toyota RAV4,Amortiguador,59593.3,21,0
+2024-10-21,REP-016,Toyota RAV4,Amortiguador,60073.4,19,6
+2024-10-28,REP-016,Toyota RAV4,Amortiguador,60738.9,20,0
+2024-11-04,REP-016,Toyota RAV4,Amortiguador,61355.8,22,0
+2024-11-11,REP-016,Toyota RAV4,Amortiguador,59609.1,21,8
+2024-11-18,REP-016,Toyota RAV4,Amortiguador,60335.6,20,5
+2024-11-25,REP-016,Toyota RAV4,Amortiguador,61073.8,18,0
+2024-12-02,REP-016,Toyota RAV4,Amortiguador,61521.5,24,0
+2024-12-09,REP-016,Toyota RAV4,Amortiguador,60592.8,18,10
+2024-12-16,REP-016,Toyota RAV4,Amortiguador,60554.7,26,0
+2024-12-23,REP-016,Toyota RAV4,Amortiguador,62129.7,22,11
+2024-12-30,REP-016,Toyota RAV4,Amortiguador,63193.7,24,7
+2025-01-06,REP-016,Toyota RAV4,Amortiguador,63410.0,26,0
+2025-01-13,REP-016,Toyota RAV4,Amortiguador,63787.2,27,10
+2025-01-20,REP-016,Toyota RAV4,Amortiguador,64316.3,32,8
+2025-01-27,REP-016,Toyota RAV4,Amortiguador,64241.2,26,0
+2025-02-03,REP-016,Toyota RAV4,Amortiguador,64865.3,29,10
+2025-02-10,REP-016,Toyota RAV4,Amortiguador,65299.4,27,9
+2025-02-17,REP-016,Toyota RAV4,Amortiguador,66891.8,29,0
+2025-02-24,REP-016,Toyota RAV4,Amortiguador,65314.2,26,12
+2025-03-03,REP-016,Toyota RAV4,Amortiguador,63798.5,23,7
+2025-03-10,REP-016,Toyota RAV4,Amortiguador,60616.5,20,0
+2025-03-17,REP-016,Toyota RAV4,Amortiguador,61048.8,20,0
+2025-03-24,REP-016,Toyota RAV4,Amortiguador,62782.4,20,0
+2025-03-31,REP-016,Toyota RAV4,Amortiguador,63502.7,21,0
+2025-04-07,REP-016,Toyota RAV4,Amortiguador,63421.8,20,6
+2025-04-14,REP-016,Toyota RAV4,Amortiguador,63849.3,20,0
+2025-04-21,REP-016,Toyota RAV4,Amortiguador,63384.5,19,0
+2025-04-28,REP-016,Toyota RAV4,Amortiguador,62329.9,20,0
+2025-05-05,REP-016,Toyota RAV4,Amortiguador,63809.4,20,0
+2025-05-12,REP-016,Toyota RAV4,Amortiguador,63285.6,19,0
+2025-05-19,REP-016,Toyota RAV4,Amortiguador,63541.4,22,0
+2025-05-26,REP-016,Toyota RAV4,Amortiguador,60562.0,20,6
+2025-06-02,REP-016,Toyota RAV4,Amortiguador,58678.0,22,0
+2025-06-09,REP-016,Toyota RAV4,Amortiguador,59415.0,25,7
+2025-06-16,REP-016,Toyota RAV4,Amortiguador,59003.3,25,7
+2025-06-23,REP-016,Toyota RAV4,Amortiguador,59741.2,20,0
+2025-06-30,REP-016,Toyota RAV4,Amortiguador,59617.5,21,0
+2025-07-07,REP-016,Toyota RAV4,Amortiguador,62805.8,24,9
+2025-07-14,REP-016,Toyota RAV4,Amortiguador,63650.9,27,8
+2025-07-21,REP-016,Toyota RAV4,Amortiguador,64671.7,29,0
+2025-07-28,REP-016,Toyota RAV4,Amortiguador,62256.5,27,12
+2025-08-04,REP-016,Toyota RAV4,Amortiguador,62676.9,24,7
+2025-08-11,REP-016,Toyota RAV4,Amortiguador,62102.9,21,0
+2025-08-18,REP-016,Toyota RAV4,Amortiguador,63183.0,20,7
+2025-08-25,REP-016,Toyota RAV4,Amortiguador,63227.6,22,0
+2025-09-01,REP-016,Toyota RAV4,Amortiguador,62438.2,22,6
+2025-09-08,REP-016,Toyota RAV4,Amortiguador,60813.0,21,5
+2025-09-15,REP-016,Toyota RAV4,Amortiguador,60795.8,15,0
+2025-09-22,REP-016,Toyota RAV4,Amortiguador,61736.2,17,0
+2025-09-29,REP-016,Toyota RAV4,Amortiguador,62766.1,21,0
+2025-10-06,REP-016,Toyota RAV4,Amortiguador,62011.5,19,7
+2025-10-13,REP-016,Toyota RAV4,Amortiguador,64041.3,21,0
+2025-10-20,REP-016,Toyota RAV4,Amortiguador,64292.4,24,7
+2025-10-27,REP-016,Toyota RAV4,Amortiguador,62678.4,22,6
+2025-11-03,REP-016,Toyota RAV4,Amortiguador,61272.2,23,0
+2025-11-10,REP-016,Toyota RAV4,Amortiguador,61104.8,22,7
+2025-11-17,REP-016,Toyota RAV4,Amortiguador,60763.4,25,6
+2025-11-24,REP-016,Toyota RAV4,Amortiguador,61280.6,18,0
+2025-12-01,REP-016,Toyota RAV4,Amortiguador,61600.8,21,0
+2025-12-08,REP-016,Toyota RAV4,Amortiguador,61556.3,24,8
+2025-12-15,REP-016,Toyota RAV4,Amortiguador,60389.6,27,7
+2025-12-22,REP-016,Toyota RAV4,Amortiguador,61509.8,26,0
+2025-12-29,REP-016,Toyota RAV4,Amortiguador,60286.4,25,10
+2026-01-05,REP-016,Toyota RAV4,Amortiguador,61827.6,27,7
+2026-01-12,REP-016,Toyota RAV4,Amortiguador,60207.9,27,0
+2026-01-19,REP-016,Toyota RAV4,Amortiguador,59264.0,28,11
+2026-01-26,REP-016,Toyota RAV4,Amortiguador,59251.3,28,8
+2026-02-02,REP-016,Toyota RAV4,Amortiguador,59642.8,25,0
+2026-02-09,REP-016,Toyota RAV4,Amortiguador,59754.3,25,10
+2026-02-16,REP-016,Toyota RAV4,Amortiguador,60016.3,27,8
+2026-02-23,REP-016,Toyota RAV4,Amortiguador,60867.3,29,0
+2026-03-02,REP-016,Toyota RAV4,Amortiguador,60125.1,24,9
+2026-03-09,REP-016,Toyota RAV4,Amortiguador,60609.5,19,5
+2026-03-16,REP-016,Toyota RAV4,Amortiguador,58576.1,19,0
+2026-03-23,REP-016,Toyota RAV4,Amortiguador,58375.1,19,0
+2026-03-30,REP-016,Toyota RAV4,Amortiguador,57502.8,24,0
+2026-04-06,REP-016,Toyota RAV4,Amortiguador,59177.1,18,7
+2026-04-13,REP-016,Toyota RAV4,Amortiguador,58763.3,21,0
+2026-04-20,REP-016,Toyota RAV4,Amortiguador,59678.1,18,6
+2026-04-27,REP-016,Toyota RAV4,Amortiguador,58134.5,13,0
+2026-05-04,REP-016,Toyota RAV4,Amortiguador,60046.8,15,0
+2026-05-11,REP-016,Toyota RAV4,Amortiguador,60176.9,16,0
+2026-05-18,REP-016,Toyota RAV4,Amortiguador,62079.9,20,0
+2026-05-25,REP-016,Toyota RAV4,Amortiguador,61595.8,18,0
+2026-06-01,REP-016,Toyota RAV4,Amortiguador,60080.9,24,0
+2026-06-08,REP-016,Toyota RAV4,Amortiguador,59398.2,25,8
+2026-06-15,REP-016,Toyota RAV4,Amortiguador,59584.3,23,6
+2026-06-22,REP-016,Toyota RAV4,Amortiguador,59057.4,20,0
+2026-06-29,REP-016,Toyota RAV4,Amortiguador,60443.0,21,0
+2026-07-06,REP-016,Toyota RAV4,Amortiguador,60997.4,23,8
+2026-07-13,REP-016,Toyota RAV4,Amortiguador,60475.6,26,7
+2026-07-20,REP-016,Toyota RAV4,Amortiguador,61696.1,28,0
+2026-07-27,REP-016,Toyota RAV4,Amortiguador,61535.6,33,11
+2026-08-03,REP-016,Toyota RAV4,Amortiguador,62097.8,26,8
+2026-08-10,REP-016,Toyota RAV4,Amortiguador,61345.8,26,0
+2026-08-17,REP-016,Toyota RAV4,Amortiguador,61750.4,23,8
+2026-08-24,REP-016,Toyota RAV4,Amortiguador,61197.3,20,6
+2026-08-31,REP-016,Toyota RAV4,Amortiguador,62048.3,21,0
+2026-09-07,REP-016,Toyota RAV4,Amortiguador,59929.1,18,6
+2026-09-14,REP-016,Toyota RAV4,Amortiguador,58864.4,14,0
+2026-09-21,REP-016,Toyota RAV4,Amortiguador,59060.2,13,0
+2026-09-28,REP-016,Toyota RAV4,Amortiguador,58713.7,13,0
+2026-10-05,REP-016,Toyota RAV4,Amortiguador,58892.8,16,0
+2026-10-12,REP-016,Toyota RAV4,Amortiguador,60019.4,22,0
+2026-10-19,REP-016,Toyota RAV4,Amortiguador,59853.6,22,7
+2026-10-26,REP-016,Toyota RAV4,Amortiguador,60439.2,21,6
+2026-11-02,REP-016,Toyota RAV4,Amortiguador,59766.5,22,0
+2026-11-09,REP-016,Toyota RAV4,Amortiguador,58250.4,22,7
+2026-11-16,REP-016,Toyota RAV4,Amortiguador,59627.7,22,6
+2023-11-27,REP-017,Toyota Avanza,Filtro de aceite,74065.9,25,18
+2023-12-04,REP-017,Toyota Avanza,Filtro de aceite,75358.6,28,17
+2023-12-11,REP-017,Toyota Avanza,Filtro de aceite,76632.6,30,0
+2023-12-18,REP-017,Toyota Avanza,Filtro de aceite,77448.3,32,27
+2023-12-25,REP-017,Toyota Avanza,Filtro de aceite,78978.7,30,22
+2024-01-01,REP-017,Toyota Avanza,Filtro de aceite,79798.7,31,0
+2024-01-08,REP-017,Toyota Avanza,Filtro de aceite,78814.3,29,28
+2024-01-15,REP-017,Toyota Avanza,Filtro de aceite,78458.0,28,20
+2024-01-22,REP-017,Toyota Avanza,Filtro de aceite,79627.9,30,0
+2024-01-29,REP-017,Toyota Avanza,Filtro de aceite,80914.8,29,27
+2024-02-05,REP-017,Toyota Avanza,Filtro de aceite,80811.2,32,20
+2024-02-12,REP-017,Toyota Avanza,Filtro de aceite,81932.2,29,0
+2024-02-19,REP-017,Toyota Avanza,Filtro de aceite,81468.7,29,26
+2024-02-26,REP-017,Toyota Avanza,Filtro de aceite,80206.7,28,20
+2024-03-04,REP-017,Toyota Avanza,Filtro de aceite,80186.6,22,0
+2024-03-11,REP-017,Toyota Avanza,Filtro de aceite,82355.5,21,16
+2024-03-18,REP-017,Toyota Avanza,Filtro de aceite,80097.0,20,11
+2024-03-25,REP-017,Toyota Avanza,Filtro de aceite,80911.1,23,0
+2024-04-01,REP-017,Toyota Avanza,Filtro de aceite,80401.3,22,15
+2024-04-08,REP-017,Toyota Avanza,Filtro de aceite,78894.2,17,10
+2024-04-15,REP-017,Toyota Avanza,Filtro de aceite,76668.1,16,0
+2024-04-22,REP-017,Toyota Avanza,Filtro de aceite,74685.5,18,0
+2024-04-29,REP-017,Toyota Avanza,Filtro de aceite,74733.7,16,11
+2024-05-06,REP-017,Toyota Avanza,Filtro de aceite,75610.0,16,0
+2024-05-13,REP-017,Toyota Avanza,Filtro de aceite,76714.9,19,0
+2024-05-20,REP-017,Toyota Avanza,Filtro de aceite,77765.9,21,12
+2024-05-27,REP-017,Toyota Avanza,Filtro de aceite,77800.5,21,10
+2024-06-03,REP-017,Toyota Avanza,Filtro de aceite,77939.9,23,0
+2024-06-10,REP-017,Toyota Avanza,Filtro de aceite,77617.7,22,17
+2024-06-17,REP-017,Toyota Avanza,Filtro de aceite,78054.7,21,12
+2024-06-24,REP-017,Toyota Avanza,Filtro de aceite,77406.2,22,0
+2024-07-01,REP-017,Toyota Avanza,Filtro de aceite,76871.3,24,20
+2024-07-08,REP-017,Toyota Avanza,Filtro de aceite,77630.2,29,16
+2024-07-15,REP-017,Toyota Avanza,Filtro de aceite,78856.3,27,0
+2024-07-22,REP-017,Toyota Avanza,Filtro de aceite,77782.4,27,24
+2024-07-29,REP-017,Toyota Avanza,Filtro de aceite,77759.4,30,18
+2024-08-05,REP-017,Toyota Avanza,Filtro de aceite,77818.6,26,0
+2024-08-12,REP-017,Toyota Avanza,Filtro de aceite,77844.0,27,18
+2024-08-19,REP-017,Toyota Avanza,Filtro de aceite,78334.5,23,15
+2024-08-26,REP-017,Toyota Avanza,Filtro de aceite,79912.0,22,0
+2024-09-02,REP-017,Toyota Avanza,Filtro de aceite,77125.5,21,13
+2024-09-09,REP-017,Toyota Avanza,Filtro de aceite,78797.3,21,10
+2024-09-16,REP-017,Toyota Avanza,Filtro de aceite,79948.8,24,0
+2024-09-23,REP-017,Toyota Avanza,Filtro de aceite,79985.5,20,15
+2024-09-30,REP-017,Toyota Avanza,Filtro de aceite,79394.0,19,10
+2024-10-07,REP-017,Toyota Avanza,Filtro de aceite,78427.5,18,0
+2024-10-14,REP-017,Toyota Avanza,Filtro de aceite,79091.3,19,13
+2024-10-21,REP-017,Toyota Avanza,Filtro de aceite,79029.6,23,11
+2024-10-28,REP-017,Toyota Avanza,Filtro de aceite,78453.7,20,0
+2024-11-04,REP-017,Toyota Avanza,Filtro de aceite,79085.0,20,14
+2024-11-11,REP-017,Toyota Avanza,Filtro de aceite,79726.5,24,11
+2024-11-18,REP-017,Toyota Avanza,Filtro de aceite,76791.3,22,0
+2024-11-25,REP-017,Toyota Avanza,Filtro de aceite,78334.9,19,16
+2024-12-02,REP-017,Toyota Avanza,Filtro de aceite,77981.5,23,13
+2024-12-09,REP-017,Toyota Avanza,Filtro de aceite,79530.8,30,0
+2024-12-16,REP-017,Toyota Avanza,Filtro de aceite,79290.0,30,27
+2024-12-23,REP-017,Toyota Avanza,Filtro de aceite,79577.9,29,20
+2024-12-30,REP-017,Toyota Avanza,Filtro de aceite,79969.6,33,0
+2025-01-06,REP-017,Toyota Avanza,Filtro de aceite,80935.5,33,29
+2025-01-13,REP-017,Toyota Avanza,Filtro de aceite,81287.0,28,22
+2025-01-20,REP-017,Toyota Avanza,Filtro de aceite,78606.8,28,0
+2025-01-27,REP-017,Toyota Avanza,Filtro de aceite,77944.8,24,25
+2025-02-03,REP-017,Toyota Avanza,Filtro de aceite,78467.0,28,17
+2025-02-10,REP-017,Toyota Avanza,Filtro de aceite,80512.1,29,0
+2025-02-17,REP-017,Toyota Avanza,Filtro de aceite,80265.4,26,25
+2025-02-24,REP-017,Toyota Avanza,Filtro de aceite,79442.4,28,17
+2025-03-03,REP-017,Toyota Avanza,Filtro de aceite,77603.8,26,0
+2025-03-10,REP-017,Toyota Avanza,Filtro de aceite,77051.4,28,18
+2025-03-17,REP-017,Toyota Avanza,Filtro de aceite,77221.3,30,15
+2025-03-24,REP-017,Toyota Avanza,Filtro de aceite,77330.0,29,0
+2025-03-31,REP-017,Toyota Avanza,Filtro de aceite,76933.9,26,20
+2025-04-07,REP-017,Toyota Avanza,Filtro de aceite,77189.6,23,12
+2025-04-14,REP-017,Toyota Avanza,Filtro de aceite,76982.7,20,0
+2025-04-21,REP-017,Toyota Avanza,Filtro de aceite,79009.7,19,12
+2025-04-28,REP-017,Toyota Avanza,Filtro de aceite,79851.0,19,9
+2025-05-05,REP-017,Toyota Avanza,Filtro de aceite,79324.6,19,0
+2025-05-12,REP-017,Toyota Avanza,Filtro de aceite,78294.1,17,11
+2025-05-19,REP-017,Toyota Avanza,Filtro de aceite,79351.0,19,8
+2025-05-26,REP-017,Toyota Avanza,Filtro de aceite,79961.6,20,0
+2025-06-02,REP-017,Toyota Avanza,Filtro de aceite,80897.9,23,15
+2025-06-09,REP-017,Toyota Avanza,Filtro de aceite,82286.6,23,12
+2025-06-16,REP-017,Toyota Avanza,Filtro de aceite,80487.1,22,0
+2025-06-23,REP-017,Toyota Avanza,Filtro de aceite,81925.2,20,16
+2025-06-30,REP-017,Toyota Avanza,Filtro de aceite,80605.2,24,11
+2025-07-07,REP-017,Toyota Avanza,Filtro de aceite,80978.8,29,0
+2025-07-14,REP-017,Toyota Avanza,Filtro de aceite,79247.1,33,26
+2025-07-21,REP-017,Toyota Avanza,Filtro de aceite,78925.1,30,22
+2025-07-28,REP-017,Toyota Avanza,Filtro de aceite,80054.1,25,0
+2025-08-04,REP-017,Toyota Avanza,Filtro de aceite,80168.2,24,18
+2025-08-11,REP-017,Toyota Avanza,Filtro de aceite,79270.2,29,13
+2025-08-18,REP-017,Toyota Avanza,Filtro de aceite,79021.4,25,0
+2025-08-25,REP-017,Toyota Avanza,Filtro de aceite,78218.0,26,18
+2025-09-01,REP-017,Toyota Avanza,Filtro de aceite,78818.0,22,12
+2025-09-08,REP-017,Toyota Avanza,Filtro de aceite,76476.2,22,0
+2025-09-15,REP-017,Toyota Avanza,Filtro de aceite,77911.3,18,13
+2025-09-22,REP-017,Toyota Avanza,Filtro de aceite,76950.5,20,9
+2025-09-29,REP-017,Toyota Avanza,Filtro de aceite,76927.8,20,0
+2025-10-06,REP-017,Toyota Avanza,Filtro de aceite,75935.4,23,14
+2025-10-13,REP-017,Toyota Avanza,Filtro de aceite,76659.2,21,13
+2025-10-20,REP-017,Toyota Avanza,Filtro de aceite,77471.1,22,0
+2025-10-27,REP-017,Toyota Avanza,Filtro de aceite,77886.7,20,16
+2025-11-03,REP-017,Toyota Avanza,Filtro de aceite,78315.2,24,11
+2025-11-10,REP-017,Toyota Avanza,Filtro de aceite,78112.1,24,0
+2025-11-17,REP-017,Toyota Avanza,Filtro de aceite,77981.3,22,17
+2025-11-24,REP-017,Toyota Avanza,Filtro de aceite,77840.8,26,12
+2025-12-01,REP-017,Toyota Avanza,Filtro de aceite,77843.6,26,0
+2025-12-08,REP-017,Toyota Avanza,Filtro de aceite,77952.5,28,23
+2025-12-15,REP-017,Toyota Avanza,Filtro de aceite,78840.9,30,19
+2025-12-22,REP-017,Toyota Avanza,Filtro de aceite,80317.9,31,0
+2025-12-29,REP-017,Toyota Avanza,Filtro de aceite,79303.6,32,28
+2026-01-05,REP-017,Toyota Avanza,Filtro de aceite,79315.5,29,21
+2026-01-12,REP-017,Toyota Avanza,Filtro de aceite,78368.1,28,0
+2026-01-19,REP-017,Toyota Avanza,Filtro de aceite,78255.0,28,25
+2026-01-26,REP-017,Toyota Avanza,Filtro de aceite,78313.0,27,20
+2026-02-02,REP-017,Toyota Avanza,Filtro de aceite,78820.1,31,0
+2026-02-09,REP-017,Toyota Avanza,Filtro de aceite,79174.5,35,28
+2026-02-16,REP-017,Toyota Avanza,Filtro de aceite,79290.6,31,24
+2026-02-23,REP-017,Toyota Avanza,Filtro de aceite,79765.7,31,0
+2026-03-02,REP-017,Toyota Avanza,Filtro de aceite,78525.5,32,22
+2026-03-09,REP-017,Toyota Avanza,Filtro de aceite,78543.1,30,17
+2026-03-16,REP-017,Toyota Avanza,Filtro de aceite,79063.0,23,0
+2026-03-23,REP-017,Toyota Avanza,Filtro de aceite,77987.8,26,16
+2026-03-30,REP-017,Toyota Avanza,Filtro de aceite,76400.0,25,14
+2026-04-06,REP-017,Toyota Avanza,Filtro de aceite,77446.2,20,0
+2026-04-13,REP-017,Toyota Avanza,Filtro de aceite,76289.7,19,12
+2026-04-20,REP-017,Toyota Avanza,Filtro de aceite,75950.1,20,9
+2026-04-27,REP-017,Toyota Avanza,Filtro de aceite,76831.0,19,0
+2026-05-04,REP-017,Toyota Avanza,Filtro de aceite,76011.4,17,12
+2026-05-11,REP-017,Toyota Avanza,Filtro de aceite,77084.0,19,8
+2026-05-18,REP-017,Toyota Avanza,Filtro de aceite,76417.4,22,0
+2026-05-25,REP-017,Toyota Avanza,Filtro de aceite,75810.3,23,13
+2026-06-01,REP-017,Toyota Avanza,Filtro de aceite,75299.3,27,12
+2026-06-08,REP-017,Toyota Avanza,Filtro de aceite,75345.6,28,0
+2026-06-15,REP-017,Toyota Avanza,Filtro de aceite,76503.4,30,20
+2026-06-22,REP-017,Toyota Avanza,Filtro de aceite,76369.5,24,16
+2026-06-29,REP-017,Toyota Avanza,Filtro de aceite,77686.5,25,0
+2026-07-06,REP-017,Toyota Avanza,Filtro de aceite,78211.1,27,22
+2026-07-13,REP-017,Toyota Avanza,Filtro de aceite,78682.9,30,18
+2026-07-20,REP-017,Toyota Avanza,Filtro de aceite,78186.5,27,0
+2026-07-27,REP-017,Toyota Avanza,Filtro de aceite,79639.8,29,24
+2026-08-03,REP-017,Toyota Avanza,Filtro de aceite,79893.4,30,16
+2026-08-10,REP-017,Toyota Avanza,Filtro de aceite,80056.0,27,0
+2026-08-17,REP-017,Toyota Avanza,Filtro de aceite,79366.1,24,20
+2026-08-24,REP-017,Toyota Avanza,Filtro de aceite,77862.7,22,14
+2026-08-31,REP-017,Toyota Avanza,Filtro de aceite,78026.0,23,0
+2026-09-07,REP-017,Toyota Avanza,Filtro de aceite,78214.0,23,14
+2026-09-14,REP-017,Toyota Avanza,Filtro de aceite,78364.5,22,11
+2026-09-21,REP-017,Toyota Avanza,Filtro de aceite,78348.0,21,0
+2026-09-28,REP-017,Toyota Avanza,Filtro de aceite,78296.7,19,13
+2026-10-05,REP-017,Toyota Avanza,Filtro de aceite,77581.8,23,11
+2026-10-12,REP-017,Toyota Avanza,Filtro de aceite,77087.1,23,0
+2026-10-19,REP-017,Toyota Avanza,Filtro de aceite,76264.9,22,17
+2026-10-26,REP-017,Toyota Avanza,Filtro de aceite,77619.8,26,12
+2026-11-02,REP-017,Toyota Avanza,Filtro de aceite,79451.8,26,0
+2026-11-09,REP-017,Toyota Avanza,Filtro de aceite,81779.4,24,19
+2026-11-16,REP-017,Toyota Avanza,Filtro de aceite,81026.2,23,13
+2023-11-27,REP-018,Toyota Avanza,Pastillas de freno,74065.9,25,11
+2023-12-04,REP-018,Toyota Avanza,Pastillas de freno,75358.6,28,11
+2023-12-11,REP-018,Toyota Avanza,Pastillas de freno,76632.6,30,0
+2023-12-18,REP-018,Toyota Avanza,Pastillas de freno,77448.3,32,17
+2023-12-25,REP-018,Toyota Avanza,Pastillas de freno,78978.7,30,15
+2024-01-01,REP-018,Toyota Avanza,Pastillas de freno,79798.7,31,0
+2024-01-08,REP-018,Toyota Avanza,Pastillas de freno,78814.3,29,18
+2024-01-15,REP-018,Toyota Avanza,Pastillas de freno,78458.0,28,12
+2024-01-22,REP-018,Toyota Avanza,Pastillas de freno,79627.9,30,0
+2024-01-29,REP-018,Toyota Avanza,Pastillas de freno,80914.8,29,18
+2024-02-05,REP-018,Toyota Avanza,Pastillas de freno,80811.2,32,13
+2024-02-12,REP-018,Toyota Avanza,Pastillas de freno,81932.2,29,0
+2024-02-19,REP-018,Toyota Avanza,Pastillas de freno,81468.7,29,17
+2024-02-26,REP-018,Toyota Avanza,Pastillas de freno,80206.7,28,13
+2024-03-04,REP-018,Toyota Avanza,Pastillas de freno,80186.6,22,0
+2024-03-11,REP-018,Toyota Avanza,Pastillas de freno,82355.5,21,11
+2024-03-18,REP-018,Toyota Avanza,Pastillas de freno,80097.0,20,7
+2024-03-25,REP-018,Toyota Avanza,Pastillas de freno,80911.1,23,0
+2024-04-01,REP-018,Toyota Avanza,Pastillas de freno,80401.3,22,9
+2024-04-08,REP-018,Toyota Avanza,Pastillas de freno,78894.2,17,7
+2024-04-15,REP-018,Toyota Avanza,Pastillas de freno,76668.1,16,0
+2024-04-22,REP-018,Toyota Avanza,Pastillas de freno,74685.5,18,0
+2024-04-29,REP-018,Toyota Avanza,Pastillas de freno,74733.7,16,0
+2024-05-06,REP-018,Toyota Avanza,Pastillas de freno,75610.0,16,0
+2024-05-13,REP-018,Toyota Avanza,Pastillas de freno,76714.9,19,0
+2024-05-20,REP-018,Toyota Avanza,Pastillas de freno,77765.9,21,7
+2024-05-27,REP-018,Toyota Avanza,Pastillas de freno,77800.5,21,7
+2024-06-03,REP-018,Toyota Avanza,Pastillas de freno,77939.9,23,0
+2024-06-10,REP-018,Toyota Avanza,Pastillas de freno,77617.7,22,11
+2024-06-17,REP-018,Toyota Avanza,Pastillas de freno,78054.7,21,8
+2024-06-24,REP-018,Toyota Avanza,Pastillas de freno,77406.2,22,0
+2024-07-01,REP-018,Toyota Avanza,Pastillas de freno,76871.3,24,13
+2024-07-08,REP-018,Toyota Avanza,Pastillas de freno,77630.2,29,10
+2024-07-15,REP-018,Toyota Avanza,Pastillas de freno,78856.3,27,0
+2024-07-22,REP-018,Toyota Avanza,Pastillas de freno,77782.4,27,16
+2024-07-29,REP-018,Toyota Avanza,Pastillas de freno,77759.4,30,12
+2024-08-05,REP-018,Toyota Avanza,Pastillas de freno,77818.6,26,0
+2024-08-12,REP-018,Toyota Avanza,Pastillas de freno,77844.0,27,12
+2024-08-19,REP-018,Toyota Avanza,Pastillas de freno,78334.5,23,10
+2024-08-26,REP-018,Toyota Avanza,Pastillas de freno,79912.0,22,0
+2024-09-02,REP-018,Toyota Avanza,Pastillas de freno,77125.5,21,9
+2024-09-09,REP-018,Toyota Avanza,Pastillas de freno,78797.3,21,6
+2024-09-16,REP-018,Toyota Avanza,Pastillas de freno,79948.8,24,0
+2024-09-23,REP-018,Toyota Avanza,Pastillas de freno,79985.5,20,10
+2024-09-30,REP-018,Toyota Avanza,Pastillas de freno,79394.0,19,6
+2024-10-07,REP-018,Toyota Avanza,Pastillas de freno,78427.5,18,0
+2024-10-14,REP-018,Toyota Avanza,Pastillas de freno,79091.3,19,0
+2024-10-21,REP-018,Toyota Avanza,Pastillas de freno,79029.6,23,9
+2024-10-28,REP-018,Toyota Avanza,Pastillas de freno,78453.7,20,9
+2024-11-04,REP-018,Toyota Avanza,Pastillas de freno,79085.0,20,0
+2024-11-11,REP-018,Toyota Avanza,Pastillas de freno,79726.5,24,9
+2024-11-18,REP-018,Toyota Avanza,Pastillas de freno,76791.3,22,8
+2024-11-25,REP-018,Toyota Avanza,Pastillas de freno,78334.9,19,0
+2024-12-02,REP-018,Toyota Avanza,Pastillas de freno,77981.5,23,11
+2024-12-09,REP-018,Toyota Avanza,Pastillas de freno,79530.8,30,11
+2024-12-16,REP-018,Toyota Avanza,Pastillas de freno,79290.0,30,0
+2024-12-23,REP-018,Toyota Avanza,Pastillas de freno,79577.9,29,18
+2024-12-30,REP-018,Toyota Avanza,Pastillas de freno,79969.6,33,13
+2025-01-06,REP-018,Toyota Avanza,Pastillas de freno,80935.5,33,0
+2025-01-13,REP-018,Toyota Avanza,Pastillas de freno,81287.0,28,20
+2025-01-20,REP-018,Toyota Avanza,Pastillas de freno,78606.8,28,12
+2025-01-27,REP-018,Toyota Avanza,Pastillas de freno,77944.8,24,0
+2025-02-03,REP-018,Toyota Avanza,Pastillas de freno,78467.0,28,14
+2025-02-10,REP-018,Toyota Avanza,Pastillas de freno,80512.1,29,12
+2025-02-17,REP-018,Toyota Avanza,Pastillas de freno,80265.4,26,0
+2025-02-24,REP-018,Toyota Avanza,Pastillas de freno,79442.4,28,15
+2025-03-03,REP-018,Toyota Avanza,Pastillas de freno,77603.8,26,10
+2025-03-10,REP-018,Toyota Avanza,Pastillas de freno,77051.4,28,0
+2025-03-17,REP-018,Toyota Avanza,Pastillas de freno,77221.3,30,13
+2025-03-24,REP-018,Toyota Avanza,Pastillas de freno,77330.0,29,11
+2025-03-31,REP-018,Toyota Avanza,Pastillas de freno,76933.9,26,0
+2025-04-07,REP-018,Toyota Avanza,Pastillas de freno,77189.6,23,11
+2025-04-14,REP-018,Toyota Avanza,Pastillas de freno,76982.7,20,7
+2025-04-21,REP-018,Toyota Avanza,Pastillas de freno,79009.7,19,0
+2025-04-28,REP-018,Toyota Avanza,Pastillas de freno,79851.0,19,8
+2025-05-05,REP-018,Toyota Avanza,Pastillas de freno,79324.6,19,6
+2025-05-12,REP-018,Toyota Avanza,Pastillas de freno,78294.1,17,0
+2025-05-19,REP-018,Toyota Avanza,Pastillas de freno,79351.0,19,0
+2025-05-26,REP-018,Toyota Avanza,Pastillas de freno,79961.6,20,8
+2025-06-02,REP-018,Toyota Avanza,Pastillas de freno,80897.9,23,7
+2025-06-09,REP-018,Toyota Avanza,Pastillas de freno,82286.6,23,0
+2025-06-16,REP-018,Toyota Avanza,Pastillas de freno,80487.1,22,11
+2025-06-23,REP-018,Toyota Avanza,Pastillas de freno,81925.2,20,8
+2025-06-30,REP-018,Toyota Avanza,Pastillas de freno,80605.2,24,0
+2025-07-07,REP-018,Toyota Avanza,Pastillas de freno,80978.8,29,14
+2025-07-14,REP-018,Toyota Avanza,Pastillas de freno,79247.1,33,13
+2025-07-21,REP-018,Toyota Avanza,Pastillas de freno,78925.1,30,0
+2025-07-28,REP-018,Toyota Avanza,Pastillas de freno,80054.1,25,18
+2025-08-04,REP-018,Toyota Avanza,Pastillas de freno,80168.2,24,9
+2025-08-11,REP-018,Toyota Avanza,Pastillas de freno,79270.2,29,0
+2025-08-18,REP-018,Toyota Avanza,Pastillas de freno,79021.4,25,14
+2025-08-25,REP-018,Toyota Avanza,Pastillas de freno,78218.0,26,10
+2025-09-01,REP-018,Toyota Avanza,Pastillas de freno,78818.0,22,0
+2025-09-08,REP-018,Toyota Avanza,Pastillas de freno,76476.2,22,9
+2025-09-15,REP-018,Toyota Avanza,Pastillas de freno,77911.3,18,7
+2025-09-22,REP-018,Toyota Avanza,Pastillas de freno,76950.5,20,0
+2025-09-29,REP-018,Toyota Avanza,Pastillas de freno,76927.8,20,8
+2025-10-06,REP-018,Toyota Avanza,Pastillas de freno,75935.4,23,7
+2025-10-13,REP-018,Toyota Avanza,Pastillas de freno,76659.2,21,0
+2025-10-20,REP-018,Toyota Avanza,Pastillas de freno,77471.1,22,10
+2025-10-27,REP-018,Toyota Avanza,Pastillas de freno,77886.7,20,8
+2025-11-03,REP-018,Toyota Avanza,Pastillas de freno,78315.2,24,0
+2025-11-10,REP-018,Toyota Avanza,Pastillas de freno,78112.1,24,11
+2025-11-17,REP-018,Toyota Avanza,Pastillas de freno,77981.3,22,9
+2025-11-24,REP-018,Toyota Avanza,Pastillas de freno,77840.8,26,0
+2025-12-01,REP-018,Toyota Avanza,Pastillas de freno,77843.6,26,15
+2025-12-08,REP-018,Toyota Avanza,Pastillas de freno,77952.5,28,12
+2025-12-15,REP-018,Toyota Avanza,Pastillas de freno,78840.9,30,0
+2025-12-22,REP-018,Toyota Avanza,Pastillas de freno,80317.9,31,18
+2025-12-29,REP-018,Toyota Avanza,Pastillas de freno,79303.6,32,14
+2026-01-05,REP-018,Toyota Avanza,Pastillas de freno,79315.5,29,0
+2026-01-12,REP-018,Toyota Avanza,Pastillas de freno,78368.1,28,17
+2026-01-19,REP-018,Toyota Avanza,Pastillas de freno,78255.0,28,13
+2026-01-26,REP-018,Toyota Avanza,Pastillas de freno,78313.0,27,0
+2026-02-02,REP-018,Toyota Avanza,Pastillas de freno,78820.1,31,16
+2026-02-09,REP-018,Toyota Avanza,Pastillas de freno,79174.5,35,13
+2026-02-16,REP-018,Toyota Avanza,Pastillas de freno,79290.6,31,0
+2026-02-23,REP-018,Toyota Avanza,Pastillas de freno,79765.7,31,18
+2026-03-02,REP-018,Toyota Avanza,Pastillas de freno,78525.5,32,11
+2026-03-09,REP-018,Toyota Avanza,Pastillas de freno,78543.1,30,0
+2026-03-16,REP-018,Toyota Avanza,Pastillas de freno,79063.0,23,14
+2026-03-23,REP-018,Toyota Avanza,Pastillas de freno,77987.8,26,9
+2026-03-30,REP-018,Toyota Avanza,Pastillas de freno,76400.0,25,0
+2026-04-06,REP-018,Toyota Avanza,Pastillas de freno,77446.2,20,10
+2026-04-13,REP-018,Toyota Avanza,Pastillas de freno,76289.7,19,6
+2026-04-20,REP-018,Toyota Avanza,Pastillas de freno,75950.1,20,0
+2026-04-27,REP-018,Toyota Avanza,Pastillas de freno,76831.0,19,8
+2026-05-04,REP-018,Toyota Avanza,Pastillas de freno,76011.4,17,6
+2026-05-11,REP-018,Toyota Avanza,Pastillas de freno,77084.0,19,0
+2026-05-18,REP-018,Toyota Avanza,Pastillas de freno,76417.4,22,8
+2026-05-25,REP-018,Toyota Avanza,Pastillas de freno,75810.3,23,7
+2026-06-01,REP-018,Toyota Avanza,Pastillas de freno,75299.3,27,0
+2026-06-08,REP-018,Toyota Avanza,Pastillas de freno,75345.6,28,13
+2026-06-15,REP-018,Toyota Avanza,Pastillas de freno,76503.4,30,9
+2026-06-22,REP-018,Toyota Avanza,Pastillas de freno,76369.5,24,0
+2026-06-29,REP-018,Toyota Avanza,Pastillas de freno,77686.5,25,11
+2026-07-06,REP-018,Toyota Avanza,Pastillas de freno,78211.1,27,11
+2026-07-13,REP-018,Toyota Avanza,Pastillas de freno,78682.9,30,0
+2026-07-20,REP-018,Toyota Avanza,Pastillas de freno,78186.5,27,17
+2026-07-27,REP-018,Toyota Avanza,Pastillas de freno,79639.8,29,12
+2026-08-03,REP-018,Toyota Avanza,Pastillas de freno,79893.4,30,0
+2026-08-10,REP-018,Toyota Avanza,Pastillas de freno,80056.0,27,14
+2026-08-17,REP-018,Toyota Avanza,Pastillas de freno,79366.1,24,9
+2026-08-24,REP-018,Toyota Avanza,Pastillas de freno,77862.7,22,0
+2026-08-31,REP-018,Toyota Avanza,Pastillas de freno,78026.0,23,10
+2026-09-07,REP-018,Toyota Avanza,Pastillas de freno,78214.0,23,7
+2026-09-14,REP-018,Toyota Avanza,Pastillas de freno,78364.5,22,0
+2026-09-21,REP-018,Toyota Avanza,Pastillas de freno,78348.0,21,9
+2026-09-28,REP-018,Toyota Avanza,Pastillas de freno,78296.7,19,7
+2026-10-05,REP-018,Toyota Avanza,Pastillas de freno,77581.8,23,0
+2026-10-12,REP-018,Toyota Avanza,Pastillas de freno,77087.1,23,11
+2026-10-19,REP-018,Toyota Avanza,Pastillas de freno,76264.9,22,8
+2026-10-26,REP-018,Toyota Avanza,Pastillas de freno,77619.8,26,0
+2026-11-02,REP-018,Toyota Avanza,Pastillas de freno,79451.8,26,12
+2026-11-09,REP-018,Toyota Avanza,Pastillas de freno,81779.4,24,9
+2026-11-16,REP-018,Toyota Avanza,Pastillas de freno,81026.2,23,0
+2023-11-27,REP-019,Toyota Avanza,Bujias,74065.9,25,13
+2023-12-04,REP-019,Toyota Avanza,Bujias,75358.6,28,13
+2023-12-11,REP-019,Toyota Avanza,Bujias,76632.6,30,0
+2023-12-18,REP-019,Toyota Avanza,Bujias,77448.3,32,20
+2023-12-25,REP-019,Toyota Avanza,Bujias,78978.7,30,16
+2024-01-01,REP-019,Toyota Avanza,Bujias,79798.7,31,0
+2024-01-08,REP-019,Toyota Avanza,Bujias,78814.3,29,21
+2024-01-15,REP-019,Toyota Avanza,Bujias,78458.0,28,15
+2024-01-22,REP-019,Toyota Avanza,Bujias,79627.9,30,0
+2024-01-29,REP-019,Toyota Avanza,Bujias,80914.8,29,20
+2024-02-05,REP-019,Toyota Avanza,Bujias,80811.2,32,15
+2024-02-12,REP-019,Toyota Avanza,Bujias,81932.2,29,0
+2024-02-19,REP-019,Toyota Avanza,Bujias,81468.7,29,19
+2024-02-26,REP-019,Toyota Avanza,Bujias,80206.7,28,15
+2024-03-04,REP-019,Toyota Avanza,Bujias,80186.6,22,0
+2024-03-11,REP-019,Toyota Avanza,Bujias,82355.5,21,12
+2024-03-18,REP-019,Toyota Avanza,Bujias,80097.0,20,8
+2024-03-25,REP-019,Toyota Avanza,Bujias,80911.1,23,0
+2024-04-01,REP-019,Toyota Avanza,Bujias,80401.3,22,11
+2024-04-08,REP-019,Toyota Avanza,Bujias,78894.2,17,8
+2024-04-15,REP-019,Toyota Avanza,Bujias,76668.1,16,0
+2024-04-22,REP-019,Toyota Avanza,Bujias,74685.5,18,0
+2024-04-29,REP-019,Toyota Avanza,Bujias,74733.7,16,0
+2024-05-06,REP-019,Toyota Avanza,Bujias,75610.0,16,0
+2024-05-13,REP-019,Toyota Avanza,Bujias,76714.9,19,0
+2024-05-20,REP-019,Toyota Avanza,Bujias,77765.9,21,0
+2024-05-27,REP-019,Toyota Avanza,Bujias,77800.5,21,9
+2024-06-03,REP-019,Toyota Avanza,Bujias,77939.9,23,9
+2024-06-10,REP-019,Toyota Avanza,Bujias,77617.7,22,0
+2024-06-17,REP-019,Toyota Avanza,Bujias,78054.7,21,12
+2024-06-24,REP-019,Toyota Avanza,Bujias,77406.2,22,9
+2024-07-01,REP-019,Toyota Avanza,Bujias,76871.3,24,0
+2024-07-08,REP-019,Toyota Avanza,Bujias,77630.2,29,16
+2024-07-15,REP-019,Toyota Avanza,Bujias,78856.3,27,15
+2024-07-22,REP-019,Toyota Avanza,Bujias,77782.4,27,0
+2024-07-29,REP-019,Toyota Avanza,Bujias,77759.4,30,18
+2024-08-05,REP-019,Toyota Avanza,Bujias,77818.6,26,13
+2024-08-12,REP-019,Toyota Avanza,Bujias,77844.0,27,0
+2024-08-19,REP-019,Toyota Avanza,Bujias,78334.5,23,15
+2024-08-26,REP-019,Toyota Avanza,Bujias,79912.0,22,9
+2024-09-02,REP-019,Toyota Avanza,Bujias,77125.5,21,0
+2024-09-09,REP-019,Toyota Avanza,Bujias,78797.3,21,9
+2024-09-16,REP-019,Toyota Avanza,Bujias,79948.8,24,7
+2024-09-23,REP-019,Toyota Avanza,Bujias,79985.5,20,0
+2024-09-30,REP-019,Toyota Avanza,Bujias,79394.0,19,9
+2024-10-07,REP-019,Toyota Avanza,Bujias,78427.5,18,0
+2024-10-14,REP-019,Toyota Avanza,Bujias,79091.3,19,0
+2024-10-21,REP-019,Toyota Avanza,Bujias,79029.6,23,0
+2024-10-28,REP-019,Toyota Avanza,Bujias,78453.7,20,12
+2024-11-04,REP-019,Toyota Avanza,Bujias,79085.0,20,8
+2024-11-11,REP-019,Toyota Avanza,Bujias,79726.5,24,0
+2024-11-18,REP-019,Toyota Avanza,Bujias,76791.3,22,13
+2024-11-25,REP-019,Toyota Avanza,Bujias,78334.9,19,9
+2024-12-02,REP-019,Toyota Avanza,Bujias,77981.5,23,0
+2024-12-09,REP-019,Toyota Avanza,Bujias,79530.8,30,15
+2024-12-16,REP-019,Toyota Avanza,Bujias,79290.0,30,15
+2024-12-23,REP-019,Toyota Avanza,Bujias,79577.9,29,0
+2024-12-30,REP-019,Toyota Avanza,Bujias,79969.6,33,19
+2025-01-06,REP-019,Toyota Avanza,Bujias,80935.5,33,17
+2025-01-13,REP-019,Toyota Avanza,Bujias,81287.0,28,0
+2025-01-20,REP-019,Toyota Avanza,Bujias,78606.8,28,19
+2025-01-27,REP-019,Toyota Avanza,Bujias,77944.8,24,14
+2025-02-03,REP-019,Toyota Avanza,Bujias,78467.0,28,0
+2025-02-10,REP-019,Toyota Avanza,Bujias,80512.1,29,19
+2025-02-17,REP-019,Toyota Avanza,Bujias,80265.4,26,15
+2025-02-24,REP-019,Toyota Avanza,Bujias,79442.4,28,0
+2025-03-03,REP-019,Toyota Avanza,Bujias,77603.8,26,15
+2025-03-10,REP-019,Toyota Avanza,Bujias,77051.4,28,11
+2025-03-17,REP-019,Toyota Avanza,Bujias,77221.3,30,0
+2025-03-24,REP-019,Toyota Avanza,Bujias,77330.0,29,16
+2025-03-31,REP-019,Toyota Avanza,Bujias,76933.9,26,12
+2025-04-07,REP-019,Toyota Avanza,Bujias,77189.6,23,0
+2025-04-14,REP-019,Toyota Avanza,Bujias,76982.7,20,10
+2025-04-21,REP-019,Toyota Avanza,Bujias,79009.7,19,7
+2025-04-28,REP-019,Toyota Avanza,Bujias,79851.0,19,0
+2025-05-05,REP-019,Toyota Avanza,Bujias,79324.6,19,0
+2025-05-12,REP-019,Toyota Avanza,Bujias,78294.1,17,0
+2025-05-19,REP-019,Toyota Avanza,Bujias,79351.0,19,0
+2025-05-26,REP-019,Toyota Avanza,Bujias,79961.6,20,0
+2025-06-02,REP-019,Toyota Avanza,Bujias,80897.9,23,11
+2025-06-09,REP-019,Toyota Avanza,Bujias,82286.6,23,9
+2025-06-16,REP-019,Toyota Avanza,Bujias,80487.1,22,0
+2025-06-23,REP-019,Toyota Avanza,Bujias,81925.2,20,12
+2025-06-30,REP-019,Toyota Avanza,Bujias,80605.2,24,9
+2025-07-07,REP-019,Toyota Avanza,Bujias,80978.8,29,0
+2025-07-14,REP-019,Toyota Avanza,Bujias,79247.1,33,19
+2025-07-21,REP-019,Toyota Avanza,Bujias,78925.1,30,17
+2025-07-28,REP-019,Toyota Avanza,Bujias,80054.1,25,0
+2025-08-04,REP-019,Toyota Avanza,Bujias,80168.2,24,13
+2025-08-11,REP-019,Toyota Avanza,Bujias,79270.2,29,10
+2025-08-18,REP-019,Toyota Avanza,Bujias,79021.4,25,0
+2025-08-25,REP-019,Toyota Avanza,Bujias,78218.0,26,14
+2025-09-01,REP-019,Toyota Avanza,Bujias,78818.0,22,10
+2025-09-08,REP-019,Toyota Avanza,Bujias,76476.2,22,0
+2025-09-15,REP-019,Toyota Avanza,Bujias,77911.3,18,10
+2025-09-22,REP-019,Toyota Avanza,Bujias,76950.5,20,0
+2025-09-29,REP-019,Toyota Avanza,Bujias,76927.8,20,10
+2025-10-06,REP-019,Toyota Avanza,Bujias,75935.4,23,8
+2025-10-13,REP-019,Toyota Avanza,Bujias,76659.2,21,0
+2025-10-20,REP-019,Toyota Avanza,Bujias,77471.1,22,11
+2025-10-27,REP-019,Toyota Avanza,Bujias,77886.7,20,9
+2025-11-03,REP-019,Toyota Avanza,Bujias,78315.2,24,0
+2025-11-10,REP-019,Toyota Avanza,Bujias,78112.1,24,14
+2025-11-17,REP-019,Toyota Avanza,Bujias,77981.3,22,10
+2025-11-24,REP-019,Toyota Avanza,Bujias,77840.8,26,0
+2025-12-01,REP-019,Toyota Avanza,Bujias,77843.6,26,17
+2025-12-08,REP-019,Toyota Avanza,Bujias,77952.5,28,13
+2025-12-15,REP-019,Toyota Avanza,Bujias,78840.9,30,0
+2025-12-22,REP-019,Toyota Avanza,Bujias,80317.9,31,19
+2025-12-29,REP-019,Toyota Avanza,Bujias,79303.6,32,16
+2026-01-05,REP-019,Toyota Avanza,Bujias,79315.5,29,0
+2026-01-12,REP-019,Toyota Avanza,Bujias,78368.1,28,19
+2026-01-19,REP-019,Toyota Avanza,Bujias,78255.0,28,14
+2026-01-26,REP-019,Toyota Avanza,Bujias,78313.0,27,0
+2026-02-02,REP-019,Toyota Avanza,Bujias,78820.1,31,18
+2026-02-09,REP-019,Toyota Avanza,Bujias,79174.5,35,16
+2026-02-16,REP-019,Toyota Avanza,Bujias,79290.6,31,0
+2026-02-23,REP-019,Toyota Avanza,Bujias,79765.7,31,21
+2026-03-02,REP-019,Toyota Avanza,Bujias,78525.5,32,13
+2026-03-09,REP-019,Toyota Avanza,Bujias,78543.1,30,0
+2026-03-16,REP-019,Toyota Avanza,Bujias,79063.0,23,17
+2026-03-23,REP-019,Toyota Avanza,Bujias,77987.8,26,10
+2026-03-30,REP-019,Toyota Avanza,Bujias,76400.0,25,0
+2026-04-06,REP-019,Toyota Avanza,Bujias,77446.2,20,12
+2026-04-13,REP-019,Toyota Avanza,Bujias,76289.7,19,7
+2026-04-20,REP-019,Toyota Avanza,Bujias,75950.1,20,0
+2026-04-27,REP-019,Toyota Avanza,Bujias,76831.0,19,9
+2026-05-04,REP-019,Toyota Avanza,Bujias,76011.4,17,0
+2026-05-11,REP-019,Toyota Avanza,Bujias,77084.0,19,0
+2026-05-18,REP-019,Toyota Avanza,Bujias,76417.4,22,0
+2026-05-25,REP-019,Toyota Avanza,Bujias,75810.3,23,11
+2026-06-01,REP-019,Toyota Avanza,Bujias,75299.3,27,10
+2026-06-08,REP-019,Toyota Avanza,Bujias,75345.6,28,0
+2026-06-15,REP-019,Toyota Avanza,Bujias,76503.4,30,15
+2026-06-22,REP-019,Toyota Avanza,Bujias,76369.5,24,13
+2026-06-29,REP-019,Toyota Avanza,Bujias,77686.5,25,0
+2026-07-06,REP-019,Toyota Avanza,Bujias,78211.1,27,17
+2026-07-13,REP-019,Toyota Avanza,Bujias,78682.9,30,14
+2026-07-20,REP-019,Toyota Avanza,Bujias,78186.5,27,0
+2026-07-27,REP-019,Toyota Avanza,Bujias,79639.8,29,18
+2026-08-03,REP-019,Toyota Avanza,Bujias,79893.4,30,12
+2026-08-10,REP-019,Toyota Avanza,Bujias,80056.0,27,0
+2026-08-17,REP-019,Toyota Avanza,Bujias,79366.1,24,15
+2026-08-24,REP-019,Toyota Avanza,Bujias,77862.7,22,10
+2026-08-31,REP-019,Toyota Avanza,Bujias,78026.0,23,0
+2026-09-07,REP-019,Toyota Avanza,Bujias,78214.0,23,10
+2026-09-14,REP-019,Toyota Avanza,Bujias,78364.5,22,8
+2026-09-21,REP-019,Toyota Avanza,Bujias,78348.0,21,0
+2026-09-28,REP-019,Toyota Avanza,Bujias,78296.7,19,10
+2026-10-05,REP-019,Toyota Avanza,Bujias,77581.8,23,0
+2026-10-12,REP-019,Toyota Avanza,Bujias,77087.1,23,12
+2026-10-19,REP-019,Toyota Avanza,Bujias,76264.9,22,9
+2026-10-26,REP-019,Toyota Avanza,Bujias,77619.8,26,0
+2026-11-02,REP-019,Toyota Avanza,Bujias,79451.8,26,15
+2026-11-09,REP-019,Toyota Avanza,Bujias,81779.4,24,11
+2026-11-16,REP-019,Toyota Avanza,Bujias,81026.2,23,0
+2023-11-27,REP-020,Toyota Avanza,Amortiguador,74065.9,25,8
+2023-12-04,REP-020,Toyota Avanza,Amortiguador,75358.6,28,8
+2023-12-11,REP-020,Toyota Avanza,Amortiguador,76632.6,30,0
+2023-12-18,REP-020,Toyota Avanza,Amortiguador,77448.3,32,12
+2023-12-25,REP-020,Toyota Avanza,Amortiguador,78978.7,30,10
+2024-01-01,REP-020,Toyota Avanza,Amortiguador,79798.7,31,0
+2024-01-08,REP-020,Toyota Avanza,Amortiguador,78814.3,29,12
+2024-01-15,REP-020,Toyota Avanza,Amortiguador,78458.0,28,9
+2024-01-22,REP-020,Toyota Avanza,Amortiguador,79627.9,30,0
+2024-01-29,REP-020,Toyota Avanza,Amortiguador,80914.8,29,12
+2024-02-05,REP-020,Toyota Avanza,Amortiguador,80811.2,32,9
+2024-02-12,REP-020,Toyota Avanza,Amortiguador,81932.2,29,0
+2024-02-19,REP-020,Toyota Avanza,Amortiguador,81468.7,29,12
+2024-02-26,REP-020,Toyota Avanza,Amortiguador,80206.7,28,8
+2024-03-04,REP-020,Toyota Avanza,Amortiguador,80186.6,22,0
+2024-03-11,REP-020,Toyota Avanza,Amortiguador,82355.5,21,7
+2024-03-18,REP-020,Toyota Avanza,Amortiguador,80097.0,20,6
+2024-03-25,REP-020,Toyota Avanza,Amortiguador,80911.1,23,0
+2024-04-01,REP-020,Toyota Avanza,Amortiguador,80401.3,22,7
+2024-04-08,REP-020,Toyota Avanza,Amortiguador,78894.2,17,5
+2024-04-15,REP-020,Toyota Avanza,Amortiguador,76668.1,16,0
+2024-04-22,REP-020,Toyota Avanza,Amortiguador,74685.5,18,0
+2024-04-29,REP-020,Toyota Avanza,Amortiguador,74733.7,16,0
+2024-05-06,REP-020,Toyota Avanza,Amortiguador,75610.0,16,0
+2024-05-13,REP-020,Toyota Avanza,Amortiguador,76714.9,19,0
+2024-05-20,REP-020,Toyota Avanza,Amortiguador,77765.9,21,0
+2024-05-27,REP-020,Toyota Avanza,Amortiguador,77800.5,21,6
+2024-06-03,REP-020,Toyota Avanza,Amortiguador,77939.9,23,5
+2024-06-10,REP-020,Toyota Avanza,Amortiguador,77617.7,22,0
+2024-06-17,REP-020,Toyota Avanza,Amortiguador,78054.7,21,7
+2024-06-24,REP-020,Toyota Avanza,Amortiguador,77406.2,22,5
+2024-07-01,REP-020,Toyota Avanza,Amortiguador,76871.3,24,0
+2024-07-08,REP-020,Toyota Avanza,Amortiguador,77630.2,29,10
+2024-07-15,REP-020,Toyota Avanza,Amortiguador,78856.3,27,9
+2024-07-22,REP-020,Toyota Avanza,Amortiguador,77782.4,27,0
+2024-07-29,REP-020,Toyota Avanza,Amortiguador,77759.4,30,10
+2024-08-05,REP-020,Toyota Avanza,Amortiguador,77818.6,26,7
+2024-08-12,REP-020,Toyota Avanza,Amortiguador,77844.0,27,0
+2024-08-19,REP-020,Toyota Avanza,Amortiguador,78334.5,23,8
+2024-08-26,REP-020,Toyota Avanza,Amortiguador,79912.0,22,6
+2024-09-02,REP-020,Toyota Avanza,Amortiguador,77125.5,21,0
+2024-09-09,REP-020,Toyota Avanza,Amortiguador,78797.3,21,6
+2024-09-16,REP-020,Toyota Avanza,Amortiguador,79948.8,24,5
+2024-09-23,REP-020,Toyota Avanza,Amortiguador,79985.5,20,0
+2024-09-30,REP-020,Toyota Avanza,Amortiguador,79394.0,19,0
+2024-10-07,REP-020,Toyota Avanza,Amortiguador,78427.5,18,0
+2024-10-14,REP-020,Toyota Avanza,Amortiguador,79091.3,19,0
+2024-10-21,REP-020,Toyota Avanza,Amortiguador,79029.6,23,0
+2024-10-28,REP-020,Toyota Avanza,Amortiguador,78453.7,20,7
+2024-11-04,REP-020,Toyota Avanza,Amortiguador,79085.0,20,0
+2024-11-11,REP-020,Toyota Avanza,Amortiguador,79726.5,24,0
+2024-11-18,REP-020,Toyota Avanza,Amortiguador,76791.3,22,8
+2024-11-25,REP-020,Toyota Avanza,Amortiguador,78334.9,19,6
+2024-12-02,REP-020,Toyota Avanza,Amortiguador,77981.5,23,0
+2024-12-09,REP-020,Toyota Avanza,Amortiguador,79530.8,30,9
+2024-12-16,REP-020,Toyota Avanza,Amortiguador,79290.0,30,9
+2024-12-23,REP-020,Toyota Avanza,Amortiguador,79577.9,29,0
+2024-12-30,REP-020,Toyota Avanza,Amortiguador,79969.6,33,12
+2025-01-06,REP-020,Toyota Avanza,Amortiguador,80935.5,33,10
+2025-01-13,REP-020,Toyota Avanza,Amortiguador,81287.0,28,0
+2025-01-20,REP-020,Toyota Avanza,Amortiguador,78606.8,28,11
+2025-01-27,REP-020,Toyota Avanza,Amortiguador,77944.8,24,9
+2025-02-03,REP-020,Toyota Avanza,Amortiguador,78467.0,28,0
+2025-02-10,REP-020,Toyota Avanza,Amortiguador,80512.1,29,10
+2025-02-17,REP-020,Toyota Avanza,Amortiguador,80265.4,26,9
+2025-02-24,REP-020,Toyota Avanza,Amortiguador,79442.4,28,0
+2025-03-03,REP-020,Toyota Avanza,Amortiguador,77603.8,26,9
+2025-03-10,REP-020,Toyota Avanza,Amortiguador,77051.4,28,6
+2025-03-17,REP-020,Toyota Avanza,Amortiguador,77221.3,30,0
+2025-03-24,REP-020,Toyota Avanza,Amortiguador,77330.0,29,9
+2025-03-31,REP-020,Toyota Avanza,Amortiguador,76933.9,26,7
+2025-04-07,REP-020,Toyota Avanza,Amortiguador,77189.6,23,0
+2025-04-14,REP-020,Toyota Avanza,Amortiguador,76982.7,20,7
+2025-04-21,REP-020,Toyota Avanza,Amortiguador,79009.7,19,0
+2025-04-28,REP-020,Toyota Avanza,Amortiguador,79851.0,19,0
+2025-05-05,REP-020,Toyota Avanza,Amortiguador,79324.6,19,0
+2025-05-12,REP-020,Toyota Avanza,Amortiguador,78294.1,17,0
+2025-05-19,REP-020,Toyota Avanza,Amortiguador,79351.0,19,0
+2025-05-26,REP-020,Toyota Avanza,Amortiguador,79961.6,20,0
+2025-06-02,REP-020,Toyota Avanza,Amortiguador,80897.9,23,0
+2025-06-09,REP-020,Toyota Avanza,Amortiguador,82286.6,23,8
+2025-06-16,REP-020,Toyota Avanza,Amortiguador,80487.1,22,6
+2025-06-23,REP-020,Toyota Avanza,Amortiguador,81925.2,20,0
+2025-06-30,REP-020,Toyota Avanza,Amortiguador,80605.2,24,0
+2025-07-07,REP-020,Toyota Avanza,Amortiguador,80978.8,29,10
+2025-07-14,REP-020,Toyota Avanza,Amortiguador,79247.1,33,9
+2025-07-21,REP-020,Toyota Avanza,Amortiguador,78925.1,30,0
+2025-07-28,REP-020,Toyota Avanza,Amortiguador,80054.1,25,12
+2025-08-04,REP-020,Toyota Avanza,Amortiguador,80168.2,24,6
+2025-08-11,REP-020,Toyota Avanza,Amortiguador,79270.2,29,0
+2025-08-18,REP-020,Toyota Avanza,Amortiguador,79021.4,25,9
+2025-08-25,REP-020,Toyota Avanza,Amortiguador,78218.0,26,6
+2025-09-01,REP-020,Toyota Avanza,Amortiguador,78818.0,22,0
+2025-09-08,REP-020,Toyota Avanza,Amortiguador,76476.2,22,6
+2025-09-15,REP-020,Toyota Avanza,Amortiguador,77911.3,18,5
+2025-09-22,REP-020,Toyota Avanza,Amortiguador,76950.5,20,0
+2025-09-29,REP-020,Toyota Avanza,Amortiguador,76927.8,20,0
+2025-10-06,REP-020,Toyota Avanza,Amortiguador,75935.4,23,0
+2025-10-13,REP-020,Toyota Avanza,Amortiguador,76659.2,21,7
+2025-10-20,REP-020,Toyota Avanza,Amortiguador,77471.1,22,6
+2025-10-27,REP-020,Toyota Avanza,Amortiguador,77886.7,20,0
+2025-11-03,REP-020,Toyota Avanza,Amortiguador,78315.2,24,0
+2025-11-10,REP-020,Toyota Avanza,Amortiguador,78112.1,24,8
+2025-11-17,REP-020,Toyota Avanza,Amortiguador,77981.3,22,6
+2025-11-24,REP-020,Toyota Avanza,Amortiguador,77840.8,26,0
+2025-12-01,REP-020,Toyota Avanza,Amortiguador,77843.6,26,11
+2025-12-08,REP-020,Toyota Avanza,Amortiguador,77952.5,28,8
+2025-12-15,REP-020,Toyota Avanza,Amortiguador,78840.9,30,0
+2025-12-22,REP-020,Toyota Avanza,Amortiguador,80317.9,31,12
+2025-12-29,REP-020,Toyota Avanza,Amortiguador,79303.6,32,9
+2026-01-05,REP-020,Toyota Avanza,Amortiguador,79315.5,29,0
+2026-01-12,REP-020,Toyota Avanza,Amortiguador,78368.1,28,12
+2026-01-19,REP-020,Toyota Avanza,Amortiguador,78255.0,28,9
+2026-01-26,REP-020,Toyota Avanza,Amortiguador,78313.0,27,0
+2026-02-02,REP-020,Toyota Avanza,Amortiguador,78820.1,31,10
+2026-02-09,REP-020,Toyota Avanza,Amortiguador,79174.5,35,9
+2026-02-16,REP-020,Toyota Avanza,Amortiguador,79290.6,31,0
+2026-02-23,REP-020,Toyota Avanza,Amortiguador,79765.7,31,13
+2026-03-02,REP-020,Toyota Avanza,Amortiguador,78525.5,32,8
+2026-03-09,REP-020,Toyota Avanza,Amortiguador,78543.1,30,0
+2026-03-16,REP-020,Toyota Avanza,Amortiguador,79063.0,23,10
+2026-03-23,REP-020,Toyota Avanza,Amortiguador,77987.8,26,6
+2026-03-30,REP-020,Toyota Avanza,Amortiguador,76400.0,25,0
+2026-04-06,REP-020,Toyota Avanza,Amortiguador,77446.2,20,7
+2026-04-13,REP-020,Toyota Avanza,Amortiguador,76289.7,19,0
+2026-04-20,REP-020,Toyota Avanza,Amortiguador,75950.1,20,0
+2026-04-27,REP-020,Toyota Avanza,Amortiguador,76831.0,19,0
+2026-05-04,REP-020,Toyota Avanza,Amortiguador,76011.4,17,0
+2026-05-11,REP-020,Toyota Avanza,Amortiguador,77084.0,19,0
+2026-05-18,REP-020,Toyota Avanza,Amortiguador,76417.4,22,0
+2026-05-25,REP-020,Toyota Avanza,Amortiguador,75810.3,23,6
+2026-06-01,REP-020,Toyota Avanza,Amortiguador,75299.3,27,5
+2026-06-08,REP-020,Toyota Avanza,Amortiguador,75345.6,28,0
+2026-06-15,REP-020,Toyota Avanza,Amortiguador,76503.4,30,9
+2026-06-22,REP-020,Toyota Avanza,Amortiguador,76369.5,24,8
+2026-06-29,REP-020,Toyota Avanza,Amortiguador,77686.5,25,0
+2026-07-06,REP-020,Toyota Avanza,Amortiguador,78211.1,27,10
+2026-07-13,REP-020,Toyota Avanza,Amortiguador,78682.9,30,8
+2026-07-20,REP-020,Toyota Avanza,Amortiguador,78186.5,27,0
+2026-07-27,REP-020,Toyota Avanza,Amortiguador,79639.8,29,11
+2026-08-03,REP-020,Toyota Avanza,Amortiguador,79893.4,30,7
+2026-08-10,REP-020,Toyota Avanza,Amortiguador,80056.0,27,0
+2026-08-17,REP-020,Toyota Avanza,Amortiguador,79366.1,24,9
+2026-08-24,REP-020,Toyota Avanza,Amortiguador,77862.7,22,6
+2026-08-31,REP-020,Toyota Avanza,Amortiguador,78026.0,23,0
+2026-09-07,REP-020,Toyota Avanza,Amortiguador,78214.0,23,6
+2026-09-14,REP-020,Toyota Avanza,Amortiguador,78364.5,22,5
+2026-09-21,REP-020,Toyota Avanza,Amortiguador,78348.0,21,0
+2026-09-28,REP-020,Toyota Avanza,Amortiguador,78296.7,19,6
+2026-10-05,REP-020,Toyota Avanza,Amortiguador,77581.8,23,0
+2026-10-12,REP-020,Toyota Avanza,Amortiguador,77087.1,23,7
+2026-10-19,REP-020,Toyota Avanza,Amortiguador,76264.9,22,5
+2026-10-26,REP-020,Toyota Avanza,Amortiguador,77619.8,26,0
+2026-11-02,REP-020,Toyota Avanza,Amortiguador,79451.8,26,9
+2026-11-09,REP-020,Toyota Avanza,Amortiguador,81779.4,24,7
+2026-11-16,REP-020,Toyota Avanza,Amortiguador,81026.2,23,0

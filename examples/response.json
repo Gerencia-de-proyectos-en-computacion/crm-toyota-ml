@@ -1,0 +1,6 @@
+{
+  "part_id": "REP-001",
+  "predicted_demand": 10.18,
+  "horizon_days": 7,
+  "model_version": "0.1.0"
+}
